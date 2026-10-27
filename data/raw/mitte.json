@@ -772,6 +772,7 @@
    "website": "https://klavierschule-berenstein.com/",
    "email": "info@klavierschule-berenstein.com",
    "email_source_url": "https://klavierschule-berenstein.com/impressum",
+   "email_obfuscated": true,
    "phone": "030 214 724 60"
   },
   "offer": {

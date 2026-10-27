@@ -493,11 +493,8 @@
     "last_verified": "2026-10-16",
     "email_language": "de",
     "contact": {
-      "email": "info@musikschule-moser.de",
-      "email_source_url": "http://musikschule-moser.de/content/impressum.html",
       "phone": "030 844 11 702",
-      "website": "http://musikschule-moser.de/",
-      "email_obfuscated": true
+      "website": "http://musikschule-moser.de/"
     },
     "offer": {
       "status": "initiative_welcome",

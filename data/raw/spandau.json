@@ -224,7 +224,7 @@
       "city": "Berlin"
     },
     "contact": {
-      "website": "https://psf-musikschule.de",
+      "website": "https://www.psf-musikschule.de/",
       "email": "musikschule.psf@gmail.com",
       "email_source_url": "https://psf-musikschule.de/impressum/"
     },
@@ -240,7 +240,7 @@
     "sources": [
       "https://psf-musikschule.de/impressum/",
       "https://psf-musikschule.de/musikunterricht/",
-      "https://psf-musikschule.de/kontakt/",
+      "https://www.psf-musikschule.de/kontakt/",
       "https://psf-musikschule.de/musikunterricht/"
     ],
     "last_verified": "2026-10-16",
@@ -265,9 +265,9 @@
       "city": "Berlin"
     },
     "contact": {
-      "website": "https://www.spandauer-blasorchester.de",
+      "website": "https://sbo60.de",
       "email": "mitglieder@sbo60.de",
-      "email_source_url": "https://www.spandauer-blasorchester.de/mitmachen/probenzeiten/"
+      "email_source_url": "https://sbo60.de/mitmachen/probenzeiten/"
     },
     "instruments": [
       "woodwind",
@@ -289,8 +289,8 @@
     "email_language": "de",
     "summary_en": "Amateur wind orchestra rehearsing on Fridays in the Schule an der Haveldüne hall and welcoming new players on wind instruments, electric bass and percussion. It is a members association, not a paid teaching position.",
     "sources": [
-      "https://www.spandauer-blasorchester.de/mitmachen/probenzeiten/",
-      "https://www.spandauer-blasorchester.de/impressum/"
+      "https://sbo60.de/mitmachen/probenzeiten/",
+      "https://sbo60.de/impressum/"
     ],
     "found_by": "district-scout:spandau",
     "last_verified": "2026-10-27"
@@ -306,7 +306,9 @@
       "city": "Berlin"
     },
     "contact": {
-      "website": "https://chorvereinigung-spandau.de/"
+      "website": "https://www.chorvereinigung-berlin-spandau.de/",
+      "email": "vorstand@chorvereinigung-berlin-spandau.de",
+      "email_source_url": "https://www.chorvereinigung-berlin-spandau.de/wir-ueber-uns/kontakt/"
     },
     "instruments": [
       "voice"
@@ -324,8 +326,8 @@
     "email_language": "de",
     "summary_en": "Large traditional Berlin amateur choir with roots in Spandau, focused on opera and choral symphonic repertoire, rehearsing on Tuesdays at the Lily-Braun-Gymnasium. It welcomes new singers; no paid vacancy found.",
     "sources": [
-      "https://chorvereinigung-spandau.de/proben/",
-      "https://chorvereinigung-spandau.de/mitsingen/"
+      "https://www.chorvereinigung-berlin-spandau.de/wir-ueber-uns/kontakt/",
+      "https://www.chorvereinigung-berlin-spandau.de/"
     ],
     "found_by": "district-scout:spandau",
     "last_verified": "2026-10-27"

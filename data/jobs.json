@@ -1292,80 +1292,6 @@
     }
   },
   {
-    "id": "friedrichshain-kreuzberg-musikschule-kolesnikov",
-    "name": "Musikschule Kolesnikov",
-    "category": "PRV",
-    "address": {
-      "street": "Samariterstraße 25",
-      "postcode": "10247",
-      "city": "Berlin"
-    },
-    "contact": {
-      "email": "info@musikschule-berlin.com",
-      "email_source_url": "http://www.musikschule-berlin.com/ueberuns.php",
-      "phone": "030 20261418",
-      "website": "http://www.musikschule-berlin.com/"
-    },
-    "offer": {
-      "status": "none_found",
-      "url": "http://www.musikschule-berlin.com/",
-      "checked": "2026-10-15"
-    },
-    "contract": {
-      "type": "unknown"
-    },
-    "email_language": "de",
-    "summary_en": "Private music school in Friedrichshain (since 2005) offering violin and cello lessons. Its jobs list on 2026-10-15 named only cello and flute teachers.",
-    "sources": [
-      "http://www.musikschule-berlin.com/",
-      "http://www.musikschule-berlin.com/impressum.php",
-      "http://www.musikschule-berlin.com/ueberuns.php"
-    ],
-    "district": "Friedrichshain-Kreuzberg",
-    "last_verified": "2026-10-15",
-    "instruments": [
-      "strings",
-      "keyboard",
-      "guitar_plucked",
-      "woodwind",
-      "percussion",
-      "accordion",
-      "voice"
-    ],
-    "instruments_detail": [
-      "violin",
-      "cello",
-      "piano",
-      "accordion",
-      "organ",
-      "keyboard",
-      "recorder",
-      "flute",
-      "clarinet",
-      "saxophone",
-      "trumpet",
-      "harmonica",
-      "drums",
-      "guitar",
-      "bass guitar",
-      "electric guitar",
-      "balalaika",
-      "domra",
-      "voice"
-    ],
-    "found_by": "district-scout:friedrichshain-kreuzberg",
-    "geo": {
-      "lat": 52.5193096,
-      "lng": 13.4663112,
-      "precision": "address",
-      "source": "nominatim"
-    },
-    "nearest_station": {
-      "name": "S Storkower Str.",
-      "distance_m": 633
-    }
-  },
-  {
     "id": "friedrichshain-kreuzberg-musikzimmer-marcelo-berrini",
     "name": "Musikzimmer Marcelo Berrini (Musikschule)",
     "category": "PRV",
@@ -1782,7 +1708,7 @@
     },
     "contact": {
       "email": "berlin@modernmusicschool.com",
-      "email_source_url": "https://miz.org/de/institutionen/modern-music-school-berlin-lichtenberg-i39822",
+      "email_source_url": "https://www.modernmusicschool.com/berlin",
       "phone": "030 23523062",
       "website": "https://www.modernmusicschool.com/berlin"
     },
@@ -2213,6 +2139,7 @@
     "sources": [
       "https://musikschule-vivamusica.de/",
       "https://musikschule-vivamusica.de/impressum/",
+      "https://www.musikschule-vivamusica.de/kontakt/",
       "https://musikschule-vivamusica.de/orchester/"
     ],
     "last_verified": "2026-10-16",
@@ -2980,6 +2907,7 @@
       "website": "https://klavierschule-berenstein.com/",
       "email": "info@klavierschule-berenstein.com",
       "email_source_url": "https://klavierschule-berenstein.com/impressum",
+      "email_obfuscated": true,
       "phone": "030 214 724 60"
     },
     "offer": {
@@ -4470,7 +4398,7 @@
     },
     "contact": {
       "email": "info@bettina-schule.de",
-      "email_source_url": "https://miz.org/de/institutionen/bettina-von-arnim-schule-i31901",
+      "email_source_url": "https://www.bettina-schule.de/impressum",
       "phone": "(030) 40305-0",
       "website": "https://www.bettina-schule.de/"
     },
@@ -4885,7 +4813,9 @@
       "city": "Berlin"
     },
     "contact": {
-      "website": "https://chorvereinigung-spandau.de/"
+      "website": "https://www.chorvereinigung-berlin-spandau.de/",
+      "email": "vorstand@chorvereinigung-berlin-spandau.de",
+      "email_source_url": "https://www.chorvereinigung-berlin-spandau.de/wir-ueber-uns/kontakt/"
     },
     "instruments": [
       "voice"
@@ -4903,8 +4833,8 @@
     "email_language": "de",
     "summary_en": "Large traditional Berlin amateur choir with roots in Spandau, focused on opera and choral symphonic repertoire, rehearsing on Tuesdays at the Lily-Braun-Gymnasium. It welcomes new singers; no paid vacancy found.",
     "sources": [
-      "https://chorvereinigung-spandau.de/proben/",
-      "https://chorvereinigung-spandau.de/mitsingen/"
+      "https://www.chorvereinigung-berlin-spandau.de/wir-ueber-uns/kontakt/",
+      "https://www.chorvereinigung-berlin-spandau.de/"
     ],
     "found_by": "district-scout:spandau",
     "last_verified": "2026-10-27",
@@ -5380,7 +5310,7 @@
       "city": "Berlin"
     },
     "contact": {
-      "website": "https://psf-musikschule.de",
+      "website": "https://www.psf-musikschule.de/",
       "email": "musikschule.psf@gmail.com",
       "email_source_url": "https://psf-musikschule.de/impressum/"
     },
@@ -5396,7 +5326,7 @@
     "sources": [
       "https://psf-musikschule.de/impressum/",
       "https://psf-musikschule.de/musikunterricht/",
-      "https://psf-musikschule.de/kontakt/",
+      "https://www.psf-musikschule.de/kontakt/",
       "https://psf-musikschule.de/musikunterricht/"
     ],
     "last_verified": "2026-10-16",
@@ -5431,9 +5361,9 @@
       "city": "Berlin"
     },
     "contact": {
-      "website": "https://www.spandauer-blasorchester.de",
+      "website": "https://sbo60.de",
       "email": "mitglieder@sbo60.de",
-      "email_source_url": "https://www.spandauer-blasorchester.de/mitmachen/probenzeiten/"
+      "email_source_url": "https://sbo60.de/mitmachen/probenzeiten/"
     },
     "instruments": [
       "woodwind",
@@ -5455,8 +5385,8 @@
     "email_language": "de",
     "summary_en": "Amateur wind orchestra rehearsing on Fridays in the Schule an der Haveldüne hall and welcoming new players on wind instruments, electric bass and percussion. It is a members association, not a paid teaching position.",
     "sources": [
-      "https://www.spandauer-blasorchester.de/mitmachen/probenzeiten/",
-      "https://www.spandauer-blasorchester.de/impressum/"
+      "https://sbo60.de/mitmachen/probenzeiten/",
+      "https://sbo60.de/impressum/"
     ],
     "found_by": "district-scout:spandau",
     "last_verified": "2026-10-27",
@@ -5970,11 +5900,8 @@
     "last_verified": "2026-10-16",
     "email_language": "de",
     "contact": {
-      "email": "info@musikschule-moser.de",
-      "email_source_url": "http://musikschule-moser.de/content/impressum.html",
       "phone": "030 844 11 702",
-      "website": "http://musikschule-moser.de/",
-      "email_obfuscated": true
+      "website": "http://musikschule-moser.de/"
     },
     "offer": {
       "status": "initiative_welcome",
@@ -6268,52 +6195,6 @@
     "nearest_station": {
       "name": "S Zehlendorf",
       "distance_m": 459
-    }
-  },
-  {
-    "id": "tempelhof-schoeneberg-konzertchor-friedenau",
-    "name": "Konzertchor Friedenau",
-    "category": "CHO",
-    "district": "Tempelhof-Schöneberg",
-    "address": {
-      "street": "Taunusstraße 6",
-      "postcode": "12161",
-      "city": "Berlin"
-    },
-    "instruments": [
-      "voice"
-    ],
-    "instruments_detail": [
-      "choral singing"
-    ],
-    "contact": {
-      "phone": "030 82 70 76 42",
-      "website": "https://www.konzertchorfriedenau.de/"
-    },
-    "offer": {
-      "status": "none_found",
-      "checked": "2026-10-27"
-    },
-    "contract": {
-      "type": "unknown"
-    },
-    "email_language": "de",
-    "summary_en": "Amateur concert choir of about 100 singers under professional artistic direction, founded in 1987 at the Nachbarschaftsheim Schöneberg. It invites experienced singers to join.",
-    "sources": [
-      "https://www.konzertchorfriedenau.de/",
-      "https://menzeldorf.nbhs.de/fileadmin/nachbarschaftsheim/freizeit_kultur/downloads/Konzertchor_Friedenau/konzertchor20jahre.pdf"
-    ],
-    "found_by": "district-scout:tempelhof-schoeneberg",
-    "last_verified": "2026-10-27",
-    "geo": {
-      "lat": 52.3961868,
-      "lng": 13.4171441,
-      "precision": "address",
-      "source": "nominatim"
-    },
-    "nearest_station": {
-      "name": "S Lichtenrade",
-      "distance_m": 1965
     }
   },
   {

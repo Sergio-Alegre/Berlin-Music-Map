@@ -17,7 +17,7 @@ Last updated: 2026-10-27. Everything below is saved on disk; a new session can c
 ## Open work (needs web-search quota)
 
 1. **Second discovery pass.** The first pass was thin in several areas because the search engines returned mostly other cities. Weakest: piano schools (PNO), wind bands and wind schools (WND), choirs (CHO), schools with instrument classes (EDU) and private schools in Treptow-Köpenick, Neukölln, Marzahn-Hellersdorf and Reinickendorf. Use direct URLs of school sites, the Berlin school directory, miz.org entries and church-music pages (Kantoreien, Posaunenchöre) instead of generic search.
-2. **Verification.** Split the entities into slices of about 40 and run `link-verifier` (see `docs/PIPELINE.md`), then apply its findings to `data/raw/`.
+2. **Verification.** First round done on 2026-10-27 (three `link-verifier` slices plus manual checks): dead sites removed (Konzertchor Friedenau, Musikschule Kolesnikov), new domain for Chorvereinigung Spandau and Spandauer Blasorchester, email sources switched to official pages. Schottenkinder stays as collected on 2026-10-15 (its site is in maintenance mode on 2026-10-27 and no other source was found); recheck later. Still to check: a few phone numbers that differ from the sites (piano e forte, Klangsinn). Decision: the Gmail address of Musikzimmer Berrini stays (it is on the official imprint).
 3. **QA.** Run `qa-reviewer` after rebuilding and fix the findings (`docs/QA.md`).
 4. **Manual tests** that need a real browser or mail client: Thunderbird with the `.eml` ("Edit as New"), the `mailto:` button on Windows, a phone at 380 px, and the colours of the U-/S-Bahn lines against the official network map.
 5. **Documentation.** `docs/PIPELINE.md` and `docs/QA.md` should mention `scripts/build_map.py --jobs`, `FORBIDDEN_STRINGS` and `SHOT=<dir>` for the smoke test.
@@ -31,4 +31,4 @@ Last updated: 2026-10-27. Everything below is saved on disk; a new session can c
 
 ## Snapshot (2026-10-27, end of the first collection round)
 
-106 places: PRV 50, MUN 12, EDU 11, CHO 9, ENS 9, OUT 8, HOC 3, PNO 3, WND 1. 67 branches with coordinates. Open ads: 2; invites applications: 20. All places have at least one instrument family; 18 have no email. The data validates (`--require-geo`) and `dist/berlin-music-map.html` (0.8 MB) passes `scripts/smoke_map.js` on the real data.
+106 places at the end of the first collection round (PRV 50, MUN 12, EDU 11, CHO 9, ENS 9, OUT 8, HOC 3, PNO 3, WND 1); 104 after the first verification round. 67 branches with coordinates. Open ads: 2; invites applications: 20. All places have at least one instrument family; 18 have no email. The data validates (`--require-geo`) and `dist/berlin-music-map.html` (0.8 MB) passes `scripts/smoke_map.js` on the real data.
