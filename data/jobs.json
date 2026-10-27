@@ -2906,7 +2906,7 @@
     },
     "sites": [
       {
-        "name": "Haus Babylon (Standort- y Fachgruppenleitung Streichinstrumente)",
+        "name": "Haus Babylon (Standort- und Fachgruppenleitung Streichinstrumente)",
         "street": "Stephan-Born-Straße 4",
         "postcode": "12629",
         "geo": {
@@ -6635,12 +6635,6 @@
       "type": "unknown"
     },
     "instruments": [
-      "strings",
-      "woodwind",
-      "brass",
-      "keyboard",
-      "guitar_plucked",
-      "percussion",
       "voice"
     ],
     "instruments_detail": [
@@ -6648,7 +6642,7 @@
       "choir"
     ],
     "email_language": "de",
-    "summary_en": "Integrated secondary school in the Maerkisches Viertel with a music profile, choir and ensemble activities. Pupils from year 7 get instrumental lessons through Musikschule Reinickendorf.",
+    "summary_en": "Integrated secondary school in the Märkisches Viertel with a music profile, choir and ensemble activities. Pupils from year 7 get instrumental lessons through Musikschule Reinickendorf.",
     "sources": [
       "https://www.bettina-schule.de/musikseite-2022/",
       "https://miz.org/de/institutionen/bettina-von-arnim-schule-i31901"
