@@ -15,7 +15,15 @@ const JOBS_PATH = path.join(ROOT, "data", "jobs.json");
 const jobs = fs.existsSync(JOBS_PATH) ? JSON.parse(fs.readFileSync(JOBS_PATH, "utf8")) : [];
 
 const mpDir = process.env.MAILPARSER_DIR || path.join(os.tmpdir(), "bmm-mailparser");
-const { simpleParser } = createRequire(path.join(mpDir, "x.js"))("mailparser");
+let simpleParser;
+try {
+  ({ simpleParser } = createRequire(path.join(mpDir, "x.js"))("mailparser"));
+} catch (e) {
+  console.error(`mailparser not found in ${mpDir}. Install it once with:\n` +
+    `  npm install --prefix "${mpDir}" mailparser\n` +
+    "or set MAILPARSER_DIR to a folder that has it.");
+  process.exit(2);
+}
 
 let passed = 0;
 function ok(cond, msg) { assert.ok(cond, msg); passed++; }

@@ -4277,7 +4277,7 @@
       "status": "posted",
       "title": "Klavierlehrer*innen gesucht (Standort Schliemannstraße)",
       "url": "https://klavierschule-berenstein.com/jobs",
-      "checked": "2026-10-27"
+      "checked": "2026-10-28"
     },
     "contract": {
       "type": "honorar_hourly",
@@ -4291,7 +4291,7 @@
       "https://klavierschule-berenstein.com/jobs"
     ],
     "found_by": "district-scout:mitte",
-    "last_verified": "2026-10-27",
+    "last_verified": "2026-10-28",
     "sites": [
       {
         "name": "Standort Prenzlauer Berg (Schliemannstraße)",
@@ -4517,7 +4517,7 @@
       "status": "posted",
       "title": "Fachkräfte für Violine, Klarinette und Akkordeon (auf Honorarbasis)",
       "url": "http://www.moamusikschule.de/stellenangebote/",
-      "checked": "2026-10-27"
+      "checked": "2026-10-28"
     },
     "contract": {
       "type": "honorar_hourly",
@@ -4531,7 +4531,7 @@
       "https://www.kindaling.de/anbieter/moamusikschule"
     ],
     "found_by": "district-scout:mitte",
-    "last_verified": "2026-10-27",
+    "last_verified": "2026-10-28",
     "geo": {
       "lat": 52.5336272,
       "lng": 13.3493888,
@@ -7678,7 +7678,7 @@
       "status": "posted",
       "title": "Lehrkraft für Klavier ab sofort (Dienstag, Mittwoch, Samstag)",
       "url": "https://www.klavierunterricht-berlin.net/klavierlehrer/de/jobs.php",
-      "checked": "2026-10-27"
+      "checked": "2026-10-28"
     },
     "contract": {
       "type": "honorar_hourly",
@@ -7693,7 +7693,7 @@
       "https://www.klavierunterricht-berlin.net/klavierlehrer/de/impressum.php"
     ],
     "found_by": "district-scout:spandau",
-    "last_verified": "2026-10-27",
+    "last_verified": "2026-10-28",
     "sites": [
       {
         "name": "Hauptsitz (Charlottenburg-Wilmersdorf)",
