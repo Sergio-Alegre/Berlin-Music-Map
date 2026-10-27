@@ -1,0 +1,271 @@
+[
+  {
+    "id": "marzahn-hellersdorf-hans-werner-henze-musikschule",
+    "name": "Hans-Werner-Henze-Musikschule (Musikschule Marzahn-Hellersdorf)",
+    "category": "MUN",
+    "district": "Marzahn-Hellersdorf",
+    "address": {
+      "street": "Maratstraße 182",
+      "postcode": "12683",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Haus Babylon (Standort- y Fachgruppenleitung Streichinstrumente)",
+        "street": "Stephan-Born-Straße 4",
+        "postcode": "12629"
+      },
+      {
+        "name": "Tonstudio TUNE IN Studio Berlin",
+        "street": "Mark-Twain-Straße 27",
+        "postcode": "12627"
+      },
+      {
+        "name": "Kunsthaus Flora"
+      },
+      {
+        "name": "MS Maratstraße"
+      },
+      {
+        "name": "Standort Ludwigsfelder Straße",
+        "street": "Ludwigsfelder Straße 7",
+        "postcode": "12629"
+      }
+    ],
+    "contact": {
+      "phone": "030 90293 5756",
+      "website": "https://www.berlin.de/musikschule-mh/",
+      "email": "musikschule@ba-mh.berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-mh/contact.1622311.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "Tätigkeit auf Honorarbasis"
+    },
+    "conditions": {
+      "pay": "Bezahlung nach Ausführungsvorschrift Honorare für Musikschulen des Landes Berlin (AV MuS-Honorare): Honorarsatz 1 = 34,85 EUR per 45 min with full qualification",
+      "pay_unit": "EUR/45 min",
+      "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+      "requirements": "In its ads for other instruments: 'abgeschlossenes Musikstudium' and teaching experience with children, young people and adults."
+    },
+    "email_language": "de",
+    "summary_en": "District music school with a string department (violin, viola, youth symphony orchestra). It regularly advertises freelance (Honorar) posts for single instruments; no string post open on 2026-10-15.",
+    "sources": [
+      "https://www.berlin.de/musikschule-mh/ueber-uns/ihre-ansprechpartner/artikel.1604310.php",
+      "https://www.berlin.de/musikschule-mh/instrumente-unterrichte-fachgruppen/streichinstrumente/artikel.1605763.php",
+      "https://www.berlin.de/musikschule-mh/aktuelles/ausschreibung_posaune2026.pdf",
+      "https://www.berlin.de/musikschule-mh/contact.1622311.php",
+      "https://www.berlin.de/musikschule-mh/instrumente-unterrichte-fachgruppen/"
+    ],
+    "last_verified": "2026-10-15",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "piano",
+      "composition",
+      "wind instruments",
+      "accordion",
+      "voice",
+      "plucked strings",
+      "guitar",
+      "drums",
+      "percussion"
+    ]
+  },
+  {
+    "id": "marzahn-hellersdorf-musikschule-fame",
+    "name": "Musikschule Marzahn \"Fame\"",
+    "category": "PRV",
+    "district": "Marzahn-Hellersdorf",
+    "address": {
+      "street": "Alt Marzahn 23",
+      "postcode": "12685",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Musikschule Marzahn"
+      },
+      {
+        "name": "Musikschule Hellersdorf"
+      }
+    ],
+    "contact": {
+      "email": "team@musikschule-fame.de",
+      "email_source_url": "https://www.musikschule-marzahn.de/kontakt-anmeldung-musikschulen.html",
+      "phone": "030 94 39 12 11",
+      "website": "https://www.musikschule-marzahn.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "summary_en": "Private music school in Marzahn, Hellersdorf and Mahlsdorf teaching voice, piano, guitar, bass, drums and violin. No jobs page found.",
+    "sources": [
+      "https://www.musikschule-marzahn.de/",
+      "https://www.musikschule-marzahn.de/impressum-musikschule-fame-berlin.html",
+      "https://www.musikschule-marzahn.de/geigenunterricht-violine-lehrer-in-marzahn.html",
+      "https://www.musikschule-marzahn.de/kontakt-anmeldung-musikschulen.html"
+    ],
+    "last_verified": "2026-10-16",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "instruments": [
+      "voice",
+      "keyboard",
+      "guitar_plucked",
+      "percussion",
+      "strings"
+    ],
+    "instruments_detail": [
+      "voice",
+      "piano",
+      "keyboard",
+      "guitar",
+      "electric guitar",
+      "bass guitar",
+      "drums",
+      "violin"
+    ]
+  },
+  {
+    "id": "marzahn-hellersdorf-musikschule-vivamusica",
+    "name": "Musikschule VivaMusica",
+    "category": "PRV",
+    "district": "Marzahn-Hellersdorf",
+    "address": {
+      "street": "Alberichstraße 90",
+      "postcode": "12683",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "+49 176 63284784",
+      "website": "https://musikschule-vivamusica.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "summary_en": "Small private music school in Biesdorf with school orchestras, piano, guitar, accordion and early music education. No jobs page found.",
+    "sources": [
+      "https://musikschule-vivamusica.de/",
+      "https://musikschule-vivamusica.de/impressum/",
+      "https://musikschule-vivamusica.de/orchester/"
+    ],
+    "last_verified": "2026-10-16",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "instruments": [
+      "keyboard",
+      "accordion",
+      "voice",
+      "guitar_plucked",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "piano",
+      "melodica",
+      "accordion",
+      "voice",
+      "guitar",
+      "drums"
+    ]
+  },
+  {
+    "district": "Marzahn-Hellersdorf",
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "id": "marzahn-hellersdorf-marzahner-kammerchor",
+    "name": "Marzahner Kammerchor e.V.",
+    "category": "CHO",
+    "address": {
+      "street": "Am Schmeding 3",
+      "postcode": "12685",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "vorstand@marzahner-kammerchor.de",
+      "email_source_url": "https://www.marzahner-kammerchor.de/impressum",
+      "phone": "030 54 366 93",
+      "website": "https://www.marzahner-kammerchor.de/"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing"
+    ],
+    "summary_en": "Amateur chamber choir in Marzahn that rehearses weekly at Theater Hellersdorf. No teaching or jobs page; relevant mainly for vocal contacts.",
+    "sources": [
+      "https://www.marzahner-kammerchor.de/",
+      "https://www.marzahner-kammerchor.de/impressum"
+    ]
+  },
+  {
+    "district": "Marzahn-Hellersdorf",
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "id": "marzahn-hellersdorf-johann-strauss-grundschule",
+    "name": "Johann-Strauß-Grundschule",
+    "category": "EDU",
+    "address": {
+      "street": "Cecilienstraße 80/81",
+      "postcode": "12683",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 5418166",
+      "website": "https://www.johann-strauss-grundschule.de/"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choir",
+      "children's opera ensemble"
+    ],
+    "summary_en": "Primary school with a music profile (Musikbetonung), including a children's opera ensemble. No instrument classes or jobs page confirmed.",
+    "sources": [
+      "https://www.johann-strauss-grundschule.de/musikbetonung/",
+      "https://www.johann-strauss-grundschule.de/impressum-und-datenschutz/"
+    ]
+  }
+]

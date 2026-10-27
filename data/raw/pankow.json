@@ -1,0 +1,653 @@
+[
+  {
+    "id": "pankow-musikschule-bela-bartok",
+    "name": "Musikschule Béla Bartók Berlin-Pankow",
+    "category": "MUN",
+    "district": "Pankow",
+    "address": {
+      "street": "Am Schloßpark 20",
+      "postcode": "13187",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Prenzlauer Berg",
+        "street": "Senefelderstraße 6",
+        "postcode": "10435"
+      },
+      {
+        "name": "Weißensee",
+        "street": "Bizetstraße 27",
+        "postcode": "13088"
+      },
+      {
+        "name": "Karow/Buch",
+        "street": "Friedrich-Richter-Straße 8",
+        "postcode": "13125"
+      }
+    ],
+    "contact": {
+      "phone": "(030) 90295-6730",
+      "website": "https://www.berlin.de/musikschule-pankow/",
+      "email": "musikschule@ba-pankow.berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-pankow/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "mixed",
+      "is_guess": true
+    },
+    "conditions": {
+      "pay": "34,85 (Honorarsatz 1, with full qualification) / 38,18 (Honorarsatz 2, ensembles)",
+      "pay_unit": "EUR/45 min",
+      "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+      "requirements": "AV MuS-Honorare expires on 31.12.2026; 2027 conditions yet to be published. Permanent posts (TV Musikschullehrkräfte, EG 9b) are advertised on the Karriereportal."
+    },
+    "email_language": "de",
+    "summary_en": "Pankow's municipal music school with a strings department (violin, viola, cello, bass) across four sites and several string ensembles. No open posting on 2026-10-15; the last Pankow violin post (Karriereportal) is closed.",
+    "sources": [
+      "https://www.berlin.de/musikschule-pankow/",
+      "https://www.berlin.de/musikschule-pankow/fachgruppen/streichinstrumente/",
+      "https://www.berlin.de/musikschule-pankow/fachgruppen/ensembles/",
+      "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "piano",
+      "accordion",
+      "plucked strings",
+      "wind instruments",
+      "rock/pop/jazz instruments",
+      "singing",
+      "ensembles"
+    ],
+    "found_by": "district-scout:pankow"
+  },
+  {
+    "id": "pankow-wundermusikschule",
+    "name": "WunderMusikSchule",
+    "category": "PRV",
+    "district": "Pankow",
+    "address": {
+      "street": "Mühlenstraße 42",
+      "postcode": "13187",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Standort Görschstraße",
+        "street": "Görschstraße 50",
+        "postcode": "13187"
+      }
+    ],
+    "contact": {
+      "email": "info@wundermusikschule.de",
+      "email_source_url": "https://wundermusikschule.de/mehr/stellenangebote/",
+      "phone": "030-49951366",
+      "website": "https://wundermusikschule.de/",
+      "application_portal": "https://wundermusikschule.de/mehr/stellenangebote/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Lehrkräfte gesucht (EMP, Klavier, Gitarre und andere Fächer/Instrumente)",
+      "url": "https://wundermusikschule.de/mehr/stellenangebote/",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "Lehrkräfte, die selbstständig auf Honorarbasis arbeiten",
+      "is_guess": false
+    },
+    "conditions": {
+      "pay": "No figure published ('überdurchschnittlich hohe Honorare')",
+      "requirements": "Gute Deutschkenntnisse; musikpädagogische Ausbildung oder Studium in mindestens einem Fach (or in progress)."
+    },
+    "email_language": "de",
+    "summary_en": "Private music school in Pankow offering violin and viola, with about 40 freelance teachers on a fee basis. Its job page invites applications but lists no dated vacancy.",
+    "sources": [
+      "https://wundermusikschule.de/mehr/stellenangebote/",
+      "https://wundermusikschule.de/impressum/",
+      "https://wundermusikschule.de/"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "piano",
+      "keyboard",
+      "accordion",
+      "guitar",
+      "ukulele",
+      "mandolin",
+      "harp",
+      "recorder",
+      "flute",
+      "clarinet",
+      "saxophone",
+      "drums",
+      "singing"
+    ],
+    "found_by": "district-scout:pankow"
+  },
+  {
+    "id": "pankow-musikschule-tomatenklang",
+    "name": "Musikschule tomatenklang",
+    "category": "PRV",
+    "secondary_categories": [
+      "EDU"
+    ],
+    "address": {
+      "street": "Immanuelkirchstraße 23",
+      "postcode": "10405",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Standort Marienburger Straße (Kollwitzkiez)",
+        "street": "Marienburger Straße 31",
+        "postcode": "10405"
+      },
+      {
+        "name": "Standort Marienburger Straße 29",
+        "street": "Marienburger Straße 29",
+        "postcode": "10405"
+      },
+      {
+        "name": "Standort Christburger Straße",
+        "street": "Christburger Straße 45",
+        "postcode": "10405"
+      },
+      {
+        "name": "Standort Käthe-Niederkirchner-Straße",
+        "street": "Käthe-Niederkirchner-Str. 9",
+        "postcode": "10407"
+      },
+      {
+        "name": "Standort Prenzlauer Allee",
+        "street": "Prenzlauer Allee 210",
+        "postcode": "10405"
+      },
+      {
+        "name": "Standort Schönfließer Straße",
+        "street": "Schönfließer Straße 18",
+        "postcode": "10439"
+      },
+      {
+        "name": "Standort Wisbyer Straße",
+        "street": "Wisbyer Straße 4",
+        "postcode": "10439"
+      },
+      {
+        "name": "Standort Rosenthal (Landhaus Rosenthal)",
+        "street": "Hauptstraße 94",
+        "postcode": "13158"
+      },
+      {
+        "name": "Zentrale Kreuzberg (Wrangelkiez)",
+        "street": "Falckensteinstraße 29",
+        "postcode": "10997"
+      }
+    ],
+    "contact": {
+      "email": "info@tomatenklang.de",
+      "email_source_url": "https://www.tomatenklang.de/impressum/",
+      "phone": "(030) 44 04 20 05",
+      "website": "https://www.tomatenklang.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Non-profit private music school with several sites in Prenzlauer Berg, a large violin faculty, one viola teacher, ensembles and school/Kita programmes. No job page found.",
+    "sources": [
+      "https://www.tomatenklang.de/",
+      "https://www.tomatenklang.de/impressum/",
+      "https://www.tomatenklang.de/musikschule-uebersicht-lehrer/",
+      "https://www.tomatenklang.de/en/viola-lessons-prenzlauer-berg/"
+    ],
+    "last_verified": "2026-10-15",
+    "district": "Pankow",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "piano",
+      "harpsichord",
+      "accordion",
+      "harp",
+      "guitar",
+      "lute",
+      "mandolin",
+      "ukulele",
+      "recorder",
+      "flute",
+      "oboe",
+      "clarinet",
+      "saxophone",
+      "trumpet",
+      "trombone",
+      "horn",
+      "euphonium",
+      "drums",
+      "percussion",
+      "singing"
+    ],
+    "found_by": "district-scout:pankow"
+  },
+  {
+    "id": "pankow-musikschule-juettner",
+    "name": "Musikschule Jüttner & Co.",
+    "category": "PRV",
+    "address": {
+      "street": "Kuglerstraße 81",
+      "postcode": "10439",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Prenzlauer Berg Gethsemane",
+        "street": "Gethsemanestraße 3",
+        "postcode": "10437"
+      },
+      {
+        "name": "Pankow",
+        "street": "Florastraße 60/62",
+        "postcode": "13187"
+      }
+    ],
+    "contact": {
+      "email": "kontakt@musikschule-juettner.de",
+      "email_source_url": "https://www.musikschule-juettner.de/impressum",
+      "website": "https://www.musikschule-juettner.de/",
+      "application_portal": "https://www.musikschule-juettner.de/jobs/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Lehrer:innen für verschiedene Fächer gesucht",
+      "url": "https://www.musikschule-juettner.de/jobs/",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "employment",
+      "evidence": "Festanstellung",
+      "is_guess": false
+    },
+    "conditions": {
+      "requirements": "Musik- oder Pädagogikstudium oder Unterrichtserfahrung; flexible Unterrichtstage."
+    },
+    "email_language": "de",
+    "summary_en": "Private music school with sites in Pankow and Prenzlauer Berg teaching violin, viola and cello. Its jobs page seeks teachers for various subjects with permanent employment.",
+    "sources": [
+      "https://www.musikschule-juettner.de/",
+      "https://www.musikschule-juettner.de/jobs/",
+      "https://www.musikschule-juettner.de/impressum"
+    ],
+    "last_verified": "2026-10-15",
+    "district": "Pankow",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "guitar_plucked",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "piano",
+      "classical guitar",
+      "electric guitar",
+      "electric bass",
+      "recorder",
+      "oboe",
+      "clarinet",
+      "saxophone",
+      "flute",
+      "singing"
+    ],
+    "found_by": "district-scout:pankow"
+  },
+  {
+    "id": "pankow-kammerorchester-weissensee",
+    "name": "Kammerorchester Weißensee (Musikschule Béla Bartók)",
+    "category": "ENS",
+    "address": {
+      "street": "Bizetstraße 27",
+      "postcode": "13088",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "musikschule@ba-pankow.berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-pankow/",
+      "website": "https://www.berlin.de/musikschule-pankow/fachgruppen/ensembles/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Chamber orchestra of the Pankow music school, rehearsing Mondays in Weißensee and looking for string players. Led by a school teacher.",
+    "sources": [
+      "https://www.berlin.de/musikschule-pankow/fachgruppen/ensembles/",
+      "https://www.berlin.de/musikschule-pankow/fachgruppen/ensembles/ensembles-fuer-gefluechtete-instrumentalisten-1206213.php"
+    ],
+    "last_verified": "2026-10-15",
+    "district": "Pankow",
+    "instruments": [
+      "strings",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "strings",
+      "winds"
+    ],
+    "found_by": "district-scout:pankow"
+  },
+  {
+    "id": "pankow-musikschule-klangbaum",
+    "name": "Musikschule Klangbaum",
+    "category": "PRV",
+    "district": "Pankow",
+    "address": {
+      "street": "Kuglerstraße 9",
+      "postcode": "10439",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Standort Friedrichshain",
+        "street": "Finowstraße 37",
+        "postcode": "10247"
+      }
+    ],
+    "contact": {
+      "email": "buero@klangbaum.de",
+      "email_source_url": "https://www.klangbaum.de/impressum",
+      "phone": "030 20 23 88 82",
+      "website": "https://www.klangbaum.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Lehrkraft Geige/Klavier (Filiale Friedrichshain)",
+      "url": "https://www.klangbaum.de/stellenangebote",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "suchen wir freie Mitarbeiter für die Arbeit in Kindertagesstätten und/oder in unseren Filialen",
+      "is_guess": true
+    },
+    "email_language": "de",
+    "summary_en": "Private music school with sites in Prenzlauer Berg and Friedrichshain; its Stellenangebote page seeks a violin and/or piano teacher for the Friedrichshain branch.",
+    "sources": [
+      "https://www.klangbaum.de/stellenangebote",
+      "https://www.klangbaum.de/impressum",
+      "https://www.klangbaum.de/lehrer/",
+      "https://www.klangbaum.de/filialen-anfahrt/"
+    ],
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "double bass",
+      "piano",
+      "guitar",
+      "electric guitar",
+      "electric bass",
+      "recorder",
+      "flute",
+      "trumpet",
+      "saxophone",
+      "drums",
+      "singing"
+    ],
+    "found_by": "district-scout:pankow"
+  },
+  {
+    "id": "pankow-musikschule-klangsinn",
+    "name": "Musikschule KlangSinn",
+    "category": "PRV",
+    "district": "Pankow",
+    "address": {
+      "street": "Goyastraße 1",
+      "postcode": "13086",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "musikschule.klangsinn@gmail.com",
+      "email_source_url": "https://www.musikschule-klangsinn.com/impressum/",
+      "phone": "030 924 59 43",
+      "website": "https://www.musikschule-klangsinn.com/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Small private music school in Weißensee for children and adults, offering violin and viola among other instruments, with ensembles and regular concerts.",
+    "sources": [
+      "https://www.musikschule-klangsinn.com/",
+      "https://www.musikschule-klangsinn.com/team/",
+      "https://www.musikschule-klangsinn.com/impressum/",
+      "https://www.musikschule-klangsinn.com/kontakt/"
+    ],
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "guitar_plucked"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "piano",
+      "jazz piano",
+      "guitar",
+      "ukulele",
+      "recorder",
+      "clarinet"
+    ],
+    "found_by": "district-scout:pankow"
+  },
+  {
+    "id": "pankow-fit-in-music-prenzlauer-berg",
+    "name": "FIT IN music Berlin-Prenzlauer Berg",
+    "category": "PRV",
+    "district": "Pankow",
+    "address": {
+      "street": "Liselotte-Herrmann-Straße 6",
+      "postcode": "10407",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "berlin@fitinmusic.de",
+      "email_source_url": "https://www.fitinmusic.de/standort/berlin-prenzlauer-berg",
+      "phone": "+49 30 208 478 77-0",
+      "website": "https://www.fitinmusic.de/standort/berlin-prenzlauer-berg",
+      "application_portal": "https://www.fitinmusic.de/jobs"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Initiativbewerbung Standort Berlin-Prenzlauer Berg",
+      "url": "https://www.fitinmusic.de/jobs",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Branch of a national music school chain; the jobs page lists no open posts but invites speculative applications per location. Violin and viola are chain subjects but not listed for this branch.",
+    "sources": [
+      "https://www.fitinmusic.de/standort/berlin-prenzlauer-berg",
+      "https://www.fitinmusic.de/jobs",
+      "https://www.fitinmusic.de/faecher",
+      "https://www.fitinmusic.de/impressum"
+    ],
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "piano",
+      "keyboard",
+      "guitar",
+      "electric guitar",
+      "bass",
+      "ukulele",
+      "drums",
+      "singing",
+      "vocal coaching"
+    ],
+    "found_by": "district-scout:pankow"
+  },
+  {
+    "id": "pankow-ohrpheo-musikakademie",
+    "name": "Musikakademie Ohrpheo",
+    "category": "PNO",
+    "district": "Pankow",
+    "address": {
+      "street": "Jablonskistraße 15",
+      "postcode": "10405",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "keyboard"
+    ],
+    "instruments_detail": [
+      "piano",
+      "improvisation",
+      "composition",
+      "music theory"
+    ],
+    "contact": {
+      "email": "info@ohrpheo.de",
+      "email_source_url": "https://ohrpheo.de/en/imprint.html",
+      "phone": "(030) 250 48 799",
+      "website": "https://ohrpheo.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Small music academy and venue in Prenzlauer Berg centred on piano lessons, with improvisation, composition and theory courses. No job page found.",
+    "sources": [
+      "https://ohrpheo.de/en/campus.html",
+      "https://ohrpheo.de/en/imprint.html",
+      "https://ohrpheo.de/en/about-us.html"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-lisbeth-und-franz",
+    "name": "Lisbeth und Franz - Berliner Musikschule",
+    "category": "PRV",
+    "district": "Pankow",
+    "address": {
+      "street": "Parkstraße 27",
+      "postcode": "13086",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "piano",
+      "guitar",
+      "electric guitar",
+      "drums",
+      "singing"
+    ],
+    "contact": {
+      "email": "info@lisbethundfranz.de",
+      "email_source_url": "https://www.lisbethundfranz.de/impressum",
+      "phone": "+49 155 66 11 02 70",
+      "website": "https://www.lisbethundfranz.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school in Weißensee teaching piano, guitar, drums and singing. No job page found.",
+    "sources": [
+      "https://www.lisbethundfranz.de/",
+      "https://www.lisbethundfranz.de/impressum"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  }
+]

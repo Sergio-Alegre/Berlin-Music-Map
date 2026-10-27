@@ -1,0 +1,346 @@
+[
+  {
+    "id": "reinickendorf-musikschule-reinickendorf",
+    "name": "Musikschule Reinickendorf",
+    "category": "MUN",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Ziekowstraße 161-163",
+      "postcode": "13509",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Unterrichtsstätte Frohnau",
+        "street": "Fuchssteinerweg 15",
+        "postcode": "13465"
+      },
+      {
+        "name": "Atrium (Sinfonietta)",
+        "street": "Senftenberger Ring 97",
+        "postcode": "13435"
+      },
+      {
+        "name": "Unterrichtsorte: Borsigwalde, Frohnau, Heiligensee, Hermsdorf, Lübars, Märkisches Viertel, Reinickendorf, Tegel, Tegelort, Waidmannslust, Wittenau"
+      }
+    ],
+    "contact": {
+      "email": "musikschule-reinickendorf@reinickendorf.berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-reinickendorf/service/ansprechpartner/",
+      "phone": "(030) 90294-4780",
+      "website": "https://www.berlin.de/musikschule-reinickendorf/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "Honorarkräfte nach AV MuS-Honorare (Berlin music schools); Reinickendorf: about 1,802 weekly hours of fee-based teaching in 2024 (parliamentary answer)",
+      "is_guess": true
+    },
+    "conditions": {
+      "pay": "34,85 (full qualification) / 32,20",
+      "pay_unit": "EUR/45 min",
+      "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+      "requirements": "No ad. The 2026 permanent posts usually go to the school's own Honorarkräfte. AV MuS-Honorare conditions in force until 31.12.2026; 2027 ones yet to be published."
+    },
+    "email_language": "de",
+    "summary_en": "District music school with a strings department (violin, viola, cello, bass) and string ensembles. No vacancy posted; send an unsolicited application to the strings department head.",
+    "sources": [
+      "https://www.berlin.de/musikschule-reinickendorf/service/ansprechpartner/",
+      "https://www.berlin.de/musikschule-reinickendorf/ueber-uns/fachgruppenleitung/",
+      "https://www.berlin.de/musikschule-reinickendorf/lehrangebote/streichinstrumente/violine-geige/",
+      "https://www.berlin.de/musikschule-reinickendorf/lehrangebote/",
+      "https://berlin.de/musikschule-reinickendorf/miteinander-musizieren/ensembles/streicherensembles/informationen-und-anmeldung-streicherensembles-schuljahr-2024_2025.pdf"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "baroque strings",
+      "balalaika",
+      "ukulele",
+      "mandolin",
+      "guitar",
+      "harp",
+      "recorder",
+      "flute",
+      "oboe",
+      "clarinet",
+      "bassoon",
+      "saxophone",
+      "trumpet",
+      "horn",
+      "trombone",
+      "tuba",
+      "euphonium",
+      "harmonica",
+      "drum set",
+      "mallets",
+      "timpani",
+      "percussion",
+      "piano",
+      "accordion",
+      "keyboard",
+      "organ",
+      "harpsichord",
+      "jazz piano",
+      "classical voice",
+      "vocals"
+    ],
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "district": "Reinickendorf",
+    "last_verified": "2026-10-27",
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "id": "reinickendorf-music-campus-berlin",
+    "name": "Music Campus Berlin (Music Institute Berlin)",
+    "category": "PRV",
+    "address": {
+      "street": "Residenzstraße 39",
+      "postcode": "13409",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "office@music-campus-berlin.com",
+      "email_source_url": "https://music-campus-berlin.com/impressum/",
+      "phone": "030 983 782 88",
+      "website": "https://music-campus-berlin.com/"
+    },
+    "summary_en": "Private music school in Reinickendorf teaching piano, guitar, violin, cello, winds, drums and voice, plus study preparation. No jobs page; contact the office directly.",
+    "sources": [
+      "https://music-campus-berlin.com/",
+      "https://music-campus-berlin.com/impressum/",
+      "https://miz.org/de/institutionen/music-institute-berlin-i39448"
+    ],
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "strings",
+      "woodwind",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "piano",
+      "guitar",
+      "bass",
+      "violin",
+      "cello",
+      "ukulele",
+      "saxophone",
+      "clarinet",
+      "recorder",
+      "flute",
+      "drums",
+      "voice"
+    ],
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "district": "Reinickendorf",
+    "last_verified": "2026-10-27",
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "id": "reinickendorf-senioren-orchester",
+    "name": "Senioren-Orchester Reinickendorf",
+    "category": "ENS",
+    "address": {
+      "street": "Eichborndamm 215",
+      "postcode": "13437",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "senioren@reinickendorf.berlin.de",
+      "email_source_url": "https://www.berlin.de/ba-reinickendorf/auf-einen-blick/fuer-seniorinnen/artikel.720197.php",
+      "phone": "(030) 90294 6391",
+      "website": "https://www.berlin.de/ba-reinickendorf/aktuelles/pressemitteilungen/2025/pressemitteilung.1550161.php"
+    },
+    "summary_en": "Amateur orchestra of 40-50 hobby musicians run within the district's senior programme, rehearsing weekly. No vacancy; contact goes through the district senior office.",
+    "sources": [
+      "https://www.berlin.de/ba-reinickendorf/aktuelles/pressemitteilungen/2025/pressemitteilung.1550161.php",
+      "https://www.berlin.de/ba-reinickendorf/auf-einen-blick/fuer-seniorinnen/artikel.720197.php"
+    ],
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass"
+    ],
+    "instruments_detail": [
+      "orchestral instruments (not itemised on the source page)"
+    ],
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-piano-e-forte",
+    "name": "piano e forte, private Musikschule GmbH",
+    "category": "PRV",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Oraniendamm 66",
+      "postcode": "13469",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@pianoeforte.de",
+      "email_source_url": "https://www.pianoeforte.de/kontakt.html",
+      "phone": "030 404 02 44",
+      "website": "https://www.pianoeforte.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Bewerbungen / Jobs (Initiativbewerbung)",
+      "url": "https://www.pianoeforte.de/musikunterricht-berlin.html",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "conditions": {
+      "requirements": "Hochschulausbildung mit Pädagogik; Bewerbung in Kurzform mit Foto per E-Mail"
+    },
+    "summary_en": "Private music school in Waidmannslust with over 25 teachers, including violin and viola. It welcomes unsolicited applications from musicians with a pedagogy degree.",
+    "sources": [
+      "https://www.pianoeforte.de/",
+      "https://www.pianoeforte.de/musikunterricht-berlin.html",
+      "https://www.pianoeforte.de/kontakt.html",
+      "https://www.pianoeforte.de/impressum.html"
+    ],
+    "last_verified": "2026-10-27",
+    "email_language": "de",
+    "instruments": [
+      "voice",
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "voice",
+      "string instruments (incl. violin, viola)",
+      "keyboard instruments (piano)",
+      "wind instruments",
+      "drums"
+    ],
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-georg-herwegh-gymnasium",
+    "name": "Georg-Herwegh-Gymnasium",
+    "category": "EDU",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Fellbacher Straße 18-19",
+      "postcode": "13467",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "mail@herwegh-gymnasium.de",
+      "email_source_url": "https://www.herwegh-gymnasium.de/impressum/",
+      "phone": "(030) 404 20 70",
+      "website": "https://www.herwegh-gymnasium.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "string orchestra instruments",
+      "wind and brass instruments (school-owned loan instruments)",
+      "big band instruments",
+      "choir"
+    ],
+    "email_language": "de",
+    "summary_en": "State Gymnasium in Hermsdorf with a music profile: symphony, string and wind orchestras, big band and choirs. Individual lessons are given by outside music-school teachers.",
+    "sources": [
+      "https://www.herwegh-gymnasium.de/schule/profil/musik/",
+      "https://www.herwegh-gymnasium.de/impressum/",
+      "https://miz.org/de/institutionen/georg-herwegh-gymnasium-i2102"
+    ],
+    "found_by": "district-scout:reinickendorf",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "reinickendorf-bettina-von-arnim-schule",
+    "name": "Bettina-von-Arnim-Schule",
+    "category": "EDU",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Senftenberger Ring 49",
+      "postcode": "13435",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@bettina-schule.de",
+      "email_source_url": "https://miz.org/de/institutionen/bettina-von-arnim-schule-i31901",
+      "phone": "(030) 40305-0",
+      "website": "https://www.bettina-schule.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass",
+      "keyboard",
+      "guitar_plucked",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "instrumental lessons in cooperation with Musikschule Reinickendorf (instruments not listed)",
+      "choir"
+    ],
+    "email_language": "de",
+    "summary_en": "Integrated secondary school in the Maerkisches Viertel with a music profile, choir and ensemble activities. Pupils from year 7 get instrumental lessons through Musikschule Reinickendorf.",
+    "sources": [
+      "https://www.bettina-schule.de/musikseite-2022/",
+      "https://miz.org/de/institutionen/bettina-von-arnim-schule-i31901"
+    ],
+    "found_by": "district-scout:reinickendorf",
+    "last_verified": "2026-10-27"
+  }
+]

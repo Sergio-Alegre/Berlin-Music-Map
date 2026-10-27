@@ -1,0 +1,131 @@
+[
+  {
+    "id": "strings",
+    "label_en": "Bowed strings",
+    "examples_en": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass"
+    ],
+    "keywords_de": [
+      "Violine",
+      "Geige",
+      "Bratsche",
+      "Cello",
+      "Kontrabass"
+    ]
+  },
+  {
+    "id": "keyboard",
+    "label_en": "Piano and keyboards",
+    "examples_en": [
+      "piano",
+      "organ",
+      "harpsichord",
+      "keyboard"
+    ],
+    "keywords_de": [
+      "Klavier",
+      "Orgel",
+      "Cembalo",
+      "Keyboard"
+    ]
+  },
+  {
+    "id": "woodwind",
+    "label_en": "Woodwind",
+    "examples_en": [
+      "recorder",
+      "flute",
+      "oboe",
+      "clarinet",
+      "bassoon",
+      "saxophone"
+    ],
+    "keywords_de": [
+      "Blockflöte",
+      "Querflöte",
+      "Oboe",
+      "Klarinette",
+      "Fagott",
+      "Saxophon"
+    ]
+  },
+  {
+    "id": "brass",
+    "label_en": "Brass",
+    "examples_en": [
+      "trumpet",
+      "horn",
+      "trombone",
+      "tuba",
+      "euphonium"
+    ],
+    "keywords_de": [
+      "Trompete",
+      "Horn",
+      "Posaune",
+      "Tuba",
+      "Euphonium"
+    ]
+  },
+  {
+    "id": "guitar_plucked",
+    "label_en": "Guitar and plucked strings",
+    "examples_en": [
+      "classical guitar",
+      "guitar",
+      "bass guitar",
+      "harp",
+      "mandolin",
+      "lute"
+    ],
+    "keywords_de": [
+      "Gitarre",
+      "E-Bass",
+      "Harfe",
+      "Mandoline",
+      "Laute"
+    ]
+  },
+  {
+    "id": "accordion",
+    "label_en": "Accordion",
+    "examples_en": [
+      "accordion"
+    ],
+    "keywords_de": [
+      "Akkordeon"
+    ]
+  },
+  {
+    "id": "voice",
+    "label_en": "Voice and singing",
+    "examples_en": [
+      "singing",
+      "voice training",
+      "choir"
+    ],
+    "keywords_de": [
+      "Gesang",
+      "Gesangsunterricht",
+      "Chor",
+      "Stimmbildung"
+    ]
+  },
+  {
+    "id": "percussion",
+    "label_en": "Percussion",
+    "examples_en": [
+      "drums",
+      "percussion",
+      "timpani"
+    ],
+    "keywords_de": [
+      "Schlagzeug",
+      "Percussion",
+      "Pauken"
+    ]
+  }
+]

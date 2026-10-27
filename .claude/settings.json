@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Bash(python3 *)",
+      "Bash(py *)",
+      "Bash(python *)",
+      "Bash(node *)",
+      "Bash(npm *)",
+      "Bash(curl *)",
+      "Bash(mkdir *)",
+      "Bash(ls *)",
+      "Bash(date)",
+      "Bash(date *)",
+      "Edit(data/**)",
+      "Edit(scripts/**)",
+      "Edit(src/**)",
+      "Edit(dist/**)"
+    ]
+  }
+}

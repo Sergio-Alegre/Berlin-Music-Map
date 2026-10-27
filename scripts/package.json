@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "vbb-lines": "^5.28.0",
+    "vbb-shapes": "^4.16.0",
+    "vbb-stations": "^8.31.0"
+  }
+}

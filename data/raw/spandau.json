@@ -1,0 +1,473 @@
+[
+  {
+    "id": "spandau-musikschule-spandau",
+    "name": "Musikschule Spandau",
+    "category": "MUN",
+    "district": "Spandau",
+    "address": {
+      "street": "Moritzstraße 17",
+      "postcode": "13597",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Bildungscampus Altstadt",
+        "street": "Jüdenstraße 54",
+        "postcode": "13597"
+      },
+      {
+        "name": "Bildungszentrum Neustadt",
+        "street": "Eiswerderstraße 7",
+        "postcode": "13585"
+      },
+      {
+        "name": "Kulturhaus Spandau (Ballettsaal)",
+        "street": "Mauerstraße 6",
+        "postcode": "13597"
+      },
+      {
+        "name": "Kulturzentrum Staaken",
+        "street": "Sandstraße 41",
+        "postcode": "13591"
+      },
+      {
+        "name": "Nachbarschaftshaus Gatow",
+        "street": "Plievierstraße 3",
+        "postcode": "14089"
+      }
+    ],
+    "contact": {
+      "email": "musikschule@ba-spandau.berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-spandau/ueber-uns/kontakt/",
+      "phone": "030 90279 5812",
+      "website": "https://www.berlin.de/musikschule-spandau/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15",
+      "url": "https://www.berlin.de/musikschule-spandau/ueber-uns/stellenangebote/"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "Honorarsatz under the AV MuS-Honorare (general scheme of Berlin music schools)",
+      "is_guess": true
+    },
+    "conditions": {
+      "pay": "34,85 (full qualification) / 32,20",
+      "pay_unit": "EUR/45 min",
+      "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+      "requirements": "2026 table; the AV expires on 31.12.2026, 2027 conditions yet to be published."
+    },
+    "email_language": "de",
+    "summary_en": "Municipal music school with a string department (violin, viola, cello, double bass) and string and symphony orchestras. The only opening listed is an FSJ Kultur; unsolicited applications to the string department head are the realistic route.",
+    "sources": [
+      "https://www.berlin.de/musikschule-spandau/ueber-uns/kontakt/",
+      "https://www.berlin.de/musikschule-spandau/ueber-uns/stellenangebote/",
+      "https://www.berlin.de/musikschule-spandau/lehrangebot/fachgruppen/streichinstrumente/",
+      "https://www.berlin.de/musikschule-spandau/ueber-uns/unterrichtsstaetten/"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "woodwind and brass instruments",
+      "drum kit",
+      "orchestral percussion",
+      "xylophone, marimba, vibraphone",
+      "acoustic and electric guitar",
+      "electric bass",
+      "harp",
+      "lute",
+      "mandolin",
+      "Bağlama",
+      "ukulele",
+      "piano",
+      "accordion",
+      "keyboard",
+      "harpsichord",
+      "voice"
+    ],
+    "found_by": "district-scout:spandau"
+  },
+  {
+    "id": "spandau-musikschule-bravissimo",
+    "name": "Musikschule Bravissimo",
+    "category": "PRV",
+    "district": "Spandau",
+    "address": {
+      "street": "Seeburger Straße 25",
+      "postcode": "13581",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kontakt@musikschule-bravissimo.de",
+      "email_source_url": "https://musikschule-bravissimo.de/impressum/",
+      "phone": "030 339 777 42",
+      "website": "https://musikschule-bravissimo.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school in Spandau offering individual and group instrumental lessons including violin. No teacher vacancy is published.",
+    "sources": [
+      "https://musikschule-bravissimo.de/",
+      "https://musikschule-bravissimo.de/impressum/",
+      "https://musikschule-bravissimo.de/unsere-musikkurse-in-berlin-spandau/instrumentalunterricht/"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "keyboard",
+      "strings",
+      "woodwind",
+      "guitar_plucked",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "piano",
+      "keyboard",
+      "violin",
+      "cello",
+      "recorder",
+      "guitar",
+      "electric guitar",
+      "ukulele",
+      "electric bass",
+      "drums"
+    ],
+    "found_by": "district-scout:spandau"
+  },
+  {
+    "id": "spandau-havart-musikakademie",
+    "name": "HavArt Musikakademie gUG",
+    "category": "PRV",
+    "district": "Spandau",
+    "address": {
+      "street": "Hottengrundweg 38 D",
+      "postcode": "14089",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.havartakademie.de",
+      "email": "kontakt@havart.de",
+      "email_source_url": "https://www.havartakademie.de/jobs/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Honorarkräfte oder Teilzeitangestellte gesucht (jobs page; violin not listed, \"suchen immer professionelle Instrumentalpädagogen\")",
+      "url": "https://www.havartakademie.de/jobs/",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "mixed",
+      "evidence": "Ab sofort suchen wir engagierte Honorarkräfte oder Teilzeitangestellte (m/w/d)"
+    },
+    "email_language": "de",
+    "summary_en": "Non-profit music academy in Kladow running instrument lessons in Spandau primary and secondary schools, including violin. Its jobs page seeks fee-based or part-time instrument teachers.",
+    "sources": [
+      "https://www.havartakademie.de/jobs/",
+      "https://www.havartakademie.de/unterricht/",
+      "https://miz.org/de/institutionen/havart-musikakademie-i34193"
+    ],
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "percussion",
+      "guitar_plucked",
+      "keyboard",
+      "voice",
+      "woodwind",
+      "brass",
+      "strings"
+    ],
+    "instruments_detail": [
+      "drums",
+      "guitar",
+      "electric guitar",
+      "piano",
+      "voice",
+      "flute",
+      "clarinet",
+      "saxophone",
+      "trumpet",
+      "trombone",
+      "euphonium",
+      "tuba",
+      "violin"
+    ],
+    "found_by": "district-scout:spandau"
+  },
+  {
+    "id": "spandau-psf-musikschule",
+    "name": "PSF Musikschule (Professional Sound Factory)",
+    "category": "PRV",
+    "district": "Spandau",
+    "address": {
+      "street": "Falkenhagener Straße 41",
+      "postcode": "13585",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://psf-musikschule.de",
+      "email": "musikschule.psf@gmail.com",
+      "email_source_url": "https://psf-musikschule.de/impressum/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Small private music school in Spandau teaching piano, guitar, sound design, songwriting and theory. No strings and no job page found.",
+    "sources": [
+      "https://psf-musikschule.de/impressum/",
+      "https://psf-musikschule.de/musikunterricht/",
+      "https://psf-musikschule.de/kontakt/",
+      "https://psf-musikschule.de/musikunterricht/"
+    ],
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "keyboard",
+      "guitar_plucked"
+    ],
+    "instruments_detail": [
+      "piano",
+      "guitar"
+    ],
+    "found_by": "district-scout:spandau"
+  },
+  {
+    "id": "spandau-spandauer-blasorchester-1960",
+    "name": "Spandauer Blasorchester 1960 e.V.",
+    "category": "WND",
+    "district": "Spandau",
+    "address": {
+      "street": "Jaczostraße 53/65",
+      "postcode": "13595",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.spandauer-blasorchester.de",
+      "email": "mitglieder@sbo60.de",
+      "email_source_url": "https://www.spandauer-blasorchester.de/mitmachen/probenzeiten/"
+    },
+    "instruments": [
+      "woodwind",
+      "brass",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "wind instruments",
+      "electric bass",
+      "percussion"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur wind orchestra rehearsing on Fridays in the Schule an der Haveldüne hall and welcoming new players on wind instruments, electric bass and percussion. It is a members association, not a paid teaching position.",
+    "sources": [
+      "https://www.spandauer-blasorchester.de/mitmachen/probenzeiten/",
+      "https://www.spandauer-blasorchester.de/impressum/"
+    ],
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "spandau-chorvereinigung-spandau",
+    "name": "Chorvereinigung Spandau",
+    "category": "CHO",
+    "district": "Spandau",
+    "address": {
+      "street": "Münsingerstraße 2",
+      "postcode": "13597",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://chorvereinigung-spandau.de/"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choir (all voice types)"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Large traditional Berlin amateur choir with roots in Spandau, focused on opera and choral symphonic repertoire, rehearsing on Tuesdays at the Lily-Braun-Gymnasium. It welcomes new singers; no paid vacancy found.",
+    "sources": [
+      "https://chorvereinigung-spandau.de/proben/",
+      "https://chorvereinigung-spandau.de/mitsingen/"
+    ],
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "spandau-philharmonika-musikschule-spandau",
+    "name": "Musikschule Philharmonika (Spandau site)",
+    "category": "PRV",
+    "district": "Spandau",
+    "address": {
+      "street": "Buchenweg 17",
+      "postcode": "13587",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.klavierunterricht-berlin.net/klavierlehrer/de/home.php",
+      "email": "info@klavierunterricht-berlin.net",
+      "email_source_url": "https://www.klavierunterricht-berlin.net/klavierlehrer/de/impressum.php",
+      "phone": "030 55637590"
+    },
+    "instruments": [
+      "keyboard",
+      "strings",
+      "guitar_plucked",
+      "woodwind",
+      "voice"
+    ],
+    "instruments_detail": [
+      "piano",
+      "violin",
+      "viola",
+      "guitar",
+      "flute",
+      "bassoon",
+      "voice",
+      "conducting"
+    ],
+    "offer": {
+      "status": "posted",
+      "title": "Lehrkraft für Klavier ab sofort (Dienstag, Mittwoch, Samstag)",
+      "url": "https://www.klavierunterricht-berlin.net/klavierlehrer/de/jobs.php",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "Wir bieten eine faire Vergütung auf Honorarbasis"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school with a teaching site in Spandau (main office in Charlottenburg-Wilmersdorf), offering piano, violin, viola, guitar, flute, bassoon and voice. Its jobs page seeks a piano teacher on a fee basis; the ad has no date.",
+    "sources": [
+      "https://www.klavierunterricht-berlin.net/klavierlehrer/de/home.php",
+      "https://www.klavierunterricht-berlin.net/klavierlehrer/de/anfahrt.php",
+      "https://www.klavierunterricht-berlin.net/klavierlehrer/de/jobs.php",
+      "https://www.klavierunterricht-berlin.net/klavierlehrer/de/impressum.php"
+    ],
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "sites": [
+      {
+        "name": "Hauptsitz (Charlottenburg-Wilmersdorf)",
+        "street": "Paulsborner Straße 78",
+        "postcode": "10709"
+      }
+    ],
+    "conditions": {
+      "requirements": "Piano teacher wanted; the ad gives no date, so it may be outdated."
+    }
+  },
+  {
+    "id": "spandau-kant-gymnasium",
+    "name": "Kant-Gymnasium Spandau",
+    "category": "EDU",
+    "district": "Spandau",
+    "address": {
+      "street": "Bismarckstraße 54",
+      "postcode": "13585",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.kant-gymnasium-berlin.de/"
+    },
+    "instruments": [
+      "strings",
+      "voice"
+    ],
+    "instruments_detail": [
+      "instrumental lessons (with Musikschule Spandau)",
+      "voice",
+      "chamber music and orchestra groups"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Gymnasium with a music-oriented profile and a music class from grade 7, where instrumental and vocal lessons are given in cooperation with the Musikschule Spandau. Lessons and ensembles are run by the municipal music school.",
+    "sources": [
+      "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/schul-und-sportamt/schule/artikel.685253.php",
+      "https://www.berlin.de/musikschule-spandau/lehrangebot/fachgruppen/kooperation-mit-schulen/"
+    ],
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "spandau-lily-braun-gymnasium",
+    "name": "Lily-Braun-Gymnasium",
+    "category": "EDU",
+    "district": "Spandau",
+    "address": {
+      "street": "Münsingerstraße 2",
+      "postcode": "13597",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.lily-braun-gymnasium.de/"
+    },
+    "instruments": [
+      "voice",
+      "guitar_plucked",
+      "strings"
+    ],
+    "instruments_detail": [
+      "choir",
+      "guitar",
+      "orchestra"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Gymnasium with a musical-artistic class in which pupils join a choir, orchestra or guitar group, plus music as an advanced course. It cooperates with the Musikschule Spandau.",
+    "sources": [
+      "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/schul-und-sportamt/schule/artikel.685257.php"
+    ],
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27"
+  }
+]

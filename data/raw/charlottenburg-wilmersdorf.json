@@ -1,0 +1,665 @@
+[
+  {
+    "id": "charlottenburg-wilmersdorf-musikschule-city-west",
+    "name": "Musikschule City West (Musikschule Charlottenburg-Wilmersdorf)",
+    "category": "MUN",
+    "address": {
+      "street": "Berkaer Platz 1",
+      "postcode": "14199",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Zweigstelle Charlottenburg",
+        "street": "Platanenallee 16",
+        "postcode": "14050"
+      },
+      {
+        "name": "Zweigstelle Wilmersdorf",
+        "street": "Prinzregentenstraße 72",
+        "postcode": "10715"
+      }
+    ],
+    "contact": {
+      "email": "musikschule@charlottenburg-wilmersdorf.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/info-service/kontakt/",
+      "phone": "(030) 9029-15509",
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/ueber-uns/stellenangebote-job-offers/",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "Musikschullehrkraft (m/w/d) als Honorarkraft",
+      "is_guess": false
+    },
+    "conditions": {
+      "pay": "34,85 (with full qualification) / 32,20 (without)",
+      "pay_unit": "EUR/45 min",
+      "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+      "requirements": "AV MuS-Honorare expires on 31.12.2026; 2027 conditions yet to be published."
+    },
+    "email_language": "de",
+    "summary_en": "District music school with three sites and a dedicated strings department. No vacancy listed on 2026-10-15; the Honorarkraft entry says none, so approach the strings head directly.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/ueber-uns/stellenangebote-job-offers/",
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/info-service/kontakt/",
+      "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf"
+    ],
+    "district": "Charlottenburg-Wilmersdorf",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "strings",
+      "piano and keyboards",
+      "harpsichord",
+      "accordion",
+      "bandoneon",
+      "woodwind",
+      "brass",
+      "percussion",
+      "plucked instruments",
+      "voice"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-junge-deutsche-oper",
+    "name": "Junge Deutsche Oper (Deutsche Oper Berlin)",
+    "category": "OUT",
+    "address": {
+      "street": "Bismarckstraße 35",
+      "postcode": "10627",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "+49 30 343 84 474",
+      "website": "https://www.deutscheoperberlin.de/",
+      "email": "jungedeutscheoper@deutscheoperberlin.de",
+      "email_source_url": "https://deutscheoperberlin.de/en_EN/jdo-kooperationsprojekte"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Education department of the Deutsche Oper with workshops and partnership projects for schools and nurseries. No vacancy or freelance call published.",
+    "sources": [
+      "https://deutscheoperberlin.de/en_EN/jdo-kooperationsprojekte"
+    ],
+    "district": "Charlottenburg-Wilmersdorf",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "orchestral instruments (school visits by orchestra players)",
+      "voice (opera education)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-udk-berlin",
+    "name": "Universität der Künste Berlin (Fakultät Musik)",
+    "category": "HOC",
+    "address": {
+      "street": "Einsteinufer 43",
+      "postcode": "10587",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Julius-Stern-Institut",
+        "street": "Bundesallee 1-12",
+        "postcode": "10719"
+      }
+    ],
+    "contact": {
+      "phone": "(030) 3185 2155",
+      "website": "https://www.udk-berlin.de/",
+      "application_portal": "https://www.udk-berlin.de/universitaet/stellenausschreibungen/aktuelle-jobs/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "Lehrauftrag (fee per teaching hour)",
+      "is_guess": true
+    },
+    "conditions": {
+      "pay": "46,81 (Berlin minimum for a Lehrauftrag, FU reference)",
+      "pay_unit": "EUR/45 min",
+      "pay_source_url": "https://www.fu-berlin.de/service/zuvdocs/amtsblatt/2023/ab412023.pdf"
+    },
+    "email_language": "de",
+    "summary_en": "Arts university with a pre-college institute (Julius-Stern-Institut) for about 70 young students. No Lehrauftrag advertised; the only current ad is for a chancellor.",
+    "sources": [
+      "https://www.udk-berlin.de/universitaet/stellenausschreibungen/aktuelle-jobs/",
+      "https://www.udk-berlin.de/en/university/college-of-music/institutes/julius-stern-institute/contacting-the-julius-stern-institute/",
+      "https://www.udk-berlin.de/impressum/"
+    ],
+    "district": "Charlottenburg-Wilmersdorf",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "orchestral and chamber music instruments",
+      "piano",
+      "voice",
+      "early music",
+      "contemporary music"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kammerorchester-charlottenburg",
+    "name": "Kammerorchester Charlottenburg (Musikschule City West)",
+    "category": "ENS",
+    "address": {
+      "street": "Platanenallee 16",
+      "postcode": "14050",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/gemischte-ensembles/artikel.791373.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur chamber orchestra at the music school, rehearsing on Wednesdays at 19:00. No coaching or conductor call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/gemischte-ensembles/artikel.791373.php"
+    ],
+    "district": "Charlottenburg-Wilmersdorf",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings"
+    ],
+    "instruments_detail": [
+      "string chamber orchestra"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-freies-orchester-berlin",
+    "name": "Freies Orchester Berlin",
+    "category": "ENS",
+    "address": {
+      "street": "Eisenzahnstraße 47",
+      "postcode": "10709",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/gemischte-ensembles/artikel.1245866.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Community amateur symphony orchestra with regular section rehearsals. The page invites new players only; no coach or conductor wanted.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/gemischte-ensembles/artikel.1245866.php"
+    ],
+    "district": "Charlottenburg-Wilmersdorf",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "symphony orchestra"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-jugendorchester-charlottenburg",
+    "name": "Jugendorchester Charlottenburg (JuO, Musikschule City West)",
+    "category": "ENS",
+    "address": {
+      "street": "Eisenzahnstraße 47",
+      "postcode": "10709",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "juo@ms-cw.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/mitspielen/orchester-ensembles/diverse-ensembles/artikel.85515.php",
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/mitspielen/orchester-ensembles/diverse-ensembles/artikel.85515.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Youth symphony orchestra (ages 15 to 22) of the district music school, rehearsing on Tuesdays. No coaching call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/mitspielen/orchester-ensembles/diverse-ensembles/artikel.85515.php"
+    ],
+    "district": "Charlottenburg-Wilmersdorf",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "youth symphony orchestra"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-nelson-mandela-schule",
+    "name": "Nelson-Mandela-Schule (staatliche internationale Schule)",
+    "category": "EDU",
+    "secondary_categories": [
+      "PRV"
+    ],
+    "address": {
+      "street": "Pfalzburger Straße 23",
+      "postcode": "10719",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Sekundarstufen",
+        "street": "Pfalzburger Straße 30",
+        "postcode": "10717"
+      }
+    ],
+    "contact": {
+      "phone": "+49 (0) 30 863 9537-11",
+      "website": "https://www.nelson-mandela-schule.net/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "en",
+    "summary_en": "Bilingual German/English state school with its own orchestra and an in-house music school (Mendelssohn-Bartholdy-Musikschule) teaching violin and piano. No vacancy listed.",
+    "sources": [
+      "https://www.nelson-mandela-schule.net/654-ueber-die-nms/663-kontakt.html",
+      "https://www.nelson-mandela-schule.net/grundschulbereich/mendelssohn-bartholdy-musikschule.html",
+      "https://www.nelson-mandela-schule.net/654-ueber-die-nms/arbeitsgruppen-und-partnerschaften/orkester-chor.html"
+    ],
+    "district": "Charlottenburg-Wilmersdorf",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "keyboard",
+      "strings",
+      "voice"
+    ],
+    "instruments_detail": [
+      "piano",
+      "violin",
+      "choir singing"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-musikschule-philharmonika",
+    "name": "Musikschule Philharmonika Berlin",
+    "category": "PRV",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Paulsborner Straße 78",
+      "postcode": "10709",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Standort Spandau",
+        "street": "Buchenweg 17",
+        "postcode": "13587"
+      }
+    ],
+    "contact": {
+      "website": "https://www.klavierunterricht-berlin.net/",
+      "email": "info@klavierunterricht-berlin.net",
+      "email_source_url": "https://www.klavierunterricht-berlin.net/klavierlehrer/de/impressum.php"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Piano teacher wanted now (the jobs page accepts applications by email)",
+      "url": "https://www.klavierunterricht-berlin.net/klavierlehrer/de/jobs.php",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "Wir bieten eine faire Vergütung auf Honorarbasis."
+    },
+    "email_language": "de",
+    "summary_en": "Private music school in Wilmersdorf (with a second site in Spandau) teaching violin, viola on request, piano and more. Its jobs page invites applications by email and pays on a fee basis.",
+    "sources": [
+      "https://www.klavierunterricht-berlin.net/klavierlehrer/de/jobs.php",
+      "https://www.klavierunterricht-berlin.net/klavierlehrer/de/faecher.php",
+      "https://www.klavierunterricht-berlin.net/klavierlehrer/de/impressum.php",
+      "https://miz.org/de/institutionen/musikschule-philharmonika-i39339"
+    ],
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "keyboard",
+      "strings",
+      "voice"
+    ],
+    "instruments_detail": [
+      "piano",
+      "violin",
+      "viola (on request)",
+      "cello (on request)",
+      "singing"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-musik-und-kunstschule-atelier-der-sinne",
+    "name": "Musik- und Kunstschule Berlin | Atelier der Sinne",
+    "category": "PRV",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Wilmersdorfer Straße 18",
+      "postcode": "10585",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://musikunst.com",
+      "email": "office@musikunst.com",
+      "email_source_url": "https://musikunst.com"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music and art school in the Altes Ackerbürgerhaus in Charlottenburg with a dedicated violin programme. No job page found.",
+    "sources": [
+      "https://musikunst.com",
+      "https://musikunst.com/geigenunterricht-in-berlin/",
+      "https://miz.org/de/institutionen/musik-und-kunstschule-berlin-%7C-atelier-der-sinne-i30720"
+    ],
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "keyboard",
+      "strings",
+      "voice",
+      "guitar_plucked",
+      "percussion",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "piano",
+      "voice",
+      "violin",
+      "guitar",
+      "electric guitar",
+      "jazz guitar",
+      "ukulele",
+      "drums",
+      "electric bass",
+      "clarinet",
+      "saxophone",
+      "recorder"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-musikschule-lebenstraum",
+    "name": "Musikschule Lebenstraum",
+    "category": "PRV",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Gervinusstraße 12",
+      "postcode": "10629",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.musikschule-lebenstraum.de",
+      "email": "info@musikschule-lebenstraum.de",
+      "email_source_url": "https://musikschule-lebenstraum.de/impressum/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Small private music school in Charlottenburg offering violin and viola lessons alongside many other instruments. No job offer found.",
+    "sources": [
+      "https://www.musikschule-lebenstraum.de",
+      "https://www.musikschule-lebenstraum.de/geigenunterricht-violinunterricht-bratschenunterricht-berlin-charlottenburg/",
+      "https://musikschule-lebenstraum.de/impressum/"
+    ],
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "accordion",
+      "keyboard",
+      "voice",
+      "woodwind",
+      "strings",
+      "guitar_plucked"
+    ],
+    "instruments_detail": [
+      "accordion",
+      "piano",
+      "voice",
+      "saxophone",
+      "clarinet",
+      "flute",
+      "recorder",
+      "violin",
+      "viola",
+      "cello",
+      "guitar",
+      "bass"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-internationale-musikschule-berlin",
+    "name": "Internationale Musikschule Berlin (IMS)",
+    "category": "PRV",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Nachodstraße 5",
+      "postcode": "10779",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Büro / Eisenacher Straße",
+        "street": "Eisenacher Straße 49",
+        "postcode": "10823"
+      },
+      {
+        "name": "Joachim-Friedrich-Str. 48",
+        "street": "Joachim-Friedrich-Straße 48",
+        "postcode": "10711"
+      }
+    ],
+    "contact": {
+      "website": "https://www.musik-schule-berlin.de",
+      "email": "info@ims-berlin.de",
+      "email_source_url": "https://www.musik-schule-berlin.de/impressum/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "International music school run by a violinist, with violin lessons in German and English at several Berlin sites, including international schools. No job offer found.",
+    "sources": [
+      "https://www.musik-schule-berlin.de/impressum/",
+      "https://www.musik-schule-berlin.de/faecher/violine/",
+      "https://www.musik-schule-berlin.de/kontakt/",
+      "https://miz.org/de/institutionen/internationale-musikschule-berlin-i28450"
+    ],
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "strings",
+      "woodwind",
+      "voice"
+    ],
+    "instruments_detail": [
+      "piano",
+      "guitar",
+      "violin",
+      "recorder",
+      "flute",
+      "voice"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-berliner-maedchenchor",
+    "name": "Berliner Mädchenchor (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Weimarische Straße 21",
+      "postcode": "10715",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Ruppin-Grundschule",
+        "street": "Offenbacher Straße 5A",
+        "postcode": "14197"
+      },
+      {
+        "name": "Grundschule Alt-Schmargendorf",
+        "street": "Reichenhaller Straße 8",
+        "postcode": "14199"
+      }
+    ],
+    "contact": {
+      "website": "https://www.berlinermaedchenchor.de/",
+      "email": "berlinermaedchenchor@ms-cw.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.32621.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Girls' choir school for ages 5 to 35 attached to the district music school, teaching music theory, sight-singing and voice training. No teacher call published.",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "voice training",
+      "sight-singing"
+    ],
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.32621.php",
+      "https://www.berlinermaedchenchor.de/"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-berlin-musikschule",
+    "name": "Berlin-Musikschule (Wilmersdorfer Straße)",
+    "category": "PRV",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Wilmersdorfer Straße 122-123",
+      "postcode": "10627",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Band rooms",
+        "street": "Otto-Suhr-Allee 94",
+        "postcode": "10585"
+      }
+    ],
+    "contact": {
+      "website": "https://berlin-musikschule.com/",
+      "email": "info@berlin-musikschule.com",
+      "email_source_url": "https://berlin-musikschule.com/impressum",
+      "phone": "(030) 32764262"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school founded in 2010 offering individual lessons in piano, voice, guitar and other instruments, plus rentable practice rooms. No job page found.",
+    "instruments": [
+      "keyboard",
+      "voice",
+      "guitar_plucked"
+    ],
+    "instruments_detail": [
+      "piano",
+      "voice",
+      "guitar"
+    ],
+    "sources": [
+      "https://berlin-musikschule.com/",
+      "https://berlin-musikschule.com/impressum"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf",
+    "last_verified": "2026-10-27"
+  }
+]

@@ -1,0 +1,8 @@
+node_modules/
+data/verify/
+data/portals/
+data/raw-*-backup/
+data/geo/geocode-cache.json
+*.log
+.DS_Store
+Thumbs.db

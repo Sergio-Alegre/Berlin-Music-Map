@@ -1,0 +1,393 @@
+[
+ {
+  "id": "lichtenberg-schostakowitsch-musikschule",
+  "name": "Schostakowitsch-Musikschule Lichtenberg",
+  "category": "MUN",
+  "district": "Lichtenberg",
+  "address": {
+   "street": "Paul-Junius-Straße 71",
+   "postcode": "10369",
+   "city": "Berlin"
+  },
+  "sites": [
+   {
+    "name": "Hohenschönhausen",
+    "street": "Wustrower Straße 26",
+    "postcode": "13051"
+   },
+   {
+    "name": "Theater Karlshorst",
+    "street": "Stolzenfelsstraße 1",
+    "postcode": "10318"
+   }
+  ],
+  "contact": {
+   "phone": "030 90296 5961",
+   "website": "https://www.schostakowitsch-musikschule.de/",
+   "application_portal": "https://www.schostakowitsch-musikschule.de/aktuelles/wir-suchen/",
+   "email": "musikschule.lichtenberg@lichtenberg.berlin.de",
+   "email_source_url": "https://www.schostakowitsch-musikschule.de/unterricht/"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-15",
+   "url": "https://www.schostakowitsch-musikschule.de/aktuelles/wir-suchen/"
+  },
+  "contract": {
+   "type": "mixed",
+   "evidence": "Lehrkräfte auf Honorarbasis ('Wir suchen' page); permanent posts under the TV Musikschullehrkräfte Land Berlin"
+  },
+  "conditions": {
+   "pay": "Honorarsatz 1 AV MuS-Honorare 2026: 34,85 EUR (full qualification) / 32,20 EUR",
+   "pay_unit": "EUR/45 min",
+   "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+   "requirements": "2026 call for Festanstellung (viola/violin and Ensembleleitung) aimed only at the school's own Honorarlehrkräfte; already closed."
+  },
+  "email_language": "de",
+  "summary_en": "Municipal music school of Lichtenberg with a string department (violin, viola, cello, bass) and several string orchestras. No string vacancy open now; speculative application to the department head.",
+  "sources": [
+   "https://www.schostakowitsch-musikschule.de/unterricht/saiteninstrumente/streichinstrumente/",
+   "https://www.schostakowitsch-musikschule.de/aktuelles/wir-suchen/",
+   "https://praktischkommune.de/jobs/57911366-musikschullehrkraft-f%C3%BCr-viola-violine-und-ensembleleitung-m-w-d-berlin",
+   "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/behoerdenwegweiser/artikel.1376816.php",
+   "https://www.schostakowitsch-musikschule.de/unterricht/",
+   "https://www.schostakowitsch-musikschule.de/"
+  ],
+  "last_verified": "2026-10-15",
+  "instruments": [
+   "strings",
+   "keyboard",
+   "woodwind",
+   "brass",
+   "guitar_plucked",
+   "accordion",
+   "voice",
+   "percussion"
+  ],
+  "instruments_detail": [
+   "violin",
+   "viola",
+   "cello",
+   "double bass",
+   "piano",
+   "keyboard",
+   "recorder",
+   "flute",
+   "oboe",
+   "clarinet",
+   "bassoon",
+   "saxophone",
+   "trumpet",
+   "horn",
+   "trombone",
+   "tuba",
+   "guitar",
+   "ukulele",
+   "accordion",
+   "classical voice",
+   "drums",
+   "percussion",
+   "choir"
+  ],
+  "found_by": "district-scout:lichtenberg"
+ },
+ {
+  "id": "lichtenberg-musikhaus-ev",
+  "name": "Musikhaus e.V. Freie Musikschule",
+  "category": "PRV",
+  "district": "Lichtenberg",
+  "address": {
+   "street": "Degnerstraße 7",
+   "postcode": "13053",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email": "info@musikhaus-ev.de",
+   "email_source_url": "https://musikhaus-ev-berlin.de/index.php/impressum/",
+   "phone": "030 9827322",
+   "website": "https://www.musikhaus-ev-berlin.de/",
+   "application_portal": "https://musikhaus-ev-berlin.de/index.php/bewerbung/"
+  },
+  "offer": {
+   "status": "initiative_welcome",
+   "checked": "2026-10-15",
+   "url": "https://musikhaus-ev-berlin.de/index.php/bewerbung/"
+  },
+  "contract": {
+   "type": "honorar_hourly",
+   "evidence": "Nach erfolgreicher Lehrprobe und Interview erhalten Lehrer einen Honorarvertrag."
+  },
+  "conditions": {
+   "requirements": "Usual documents by email to the Geschäftsführung, Lehrprobe and interview; currently looking for drum and piano teachers."
+  },
+  "email_language": "de",
+  "summary_en": "Independent music school in Hohenschönhausen teaching violin, viola and cello, with a string ensemble. Welcomes teacher applications and offers a fee contract after a trial lesson.",
+  "sources": [
+   "https://musikhaus-ev-berlin.de/index.php/bewerbung/",
+   "https://musikhaus-ev-berlin.de/index.php/impressum/",
+   "https://musikhaus-ev-berlin.de/index.php/geige/",
+   "https://www.berlin.de/ba-lichtenberg/auf-einen-blick/freizeit/kultur/artikel.298235.php",
+   "https://www.musikhaus-ev-berlin.de/"
+  ],
+  "last_verified": "2026-10-15",
+  "instruments": [
+   "strings",
+   "guitar_plucked",
+   "woodwind",
+   "brass",
+   "keyboard",
+   "percussion",
+   "voice"
+  ],
+  "instruments_detail": [
+   "violin",
+   "viola",
+   "cello",
+   "guitar",
+   "ukulele",
+   "recorder",
+   "flute",
+   "saxophone",
+   "trumpet",
+   "horn",
+   "trombone",
+   "piano",
+   "keyboard",
+   "drums",
+   "percussion",
+   "voice"
+  ],
+  "found_by": "district-scout:lichtenberg"
+ },
+ {
+  "id": "lichtenberg-all-is-one-musikschule",
+  "name": "All Is One! Musikschule (Standort Lichtenberg)",
+  "category": "PRV",
+  "district": "Lichtenberg",
+  "address": {
+   "street": "Buchberger Straße 6",
+   "postcode": "10365",
+   "city": "Berlin"
+  },
+  "sites": [
+   {
+    "name": "Sede central Schöneberg",
+    "street": "Feurigstraße 39",
+    "postcode": "10827"
+   }
+  ],
+  "contact": {
+   "email": "info@aio-musikschule.de",
+   "email_source_url": "https://www.aio-musikschule.de/jobs-musiklehrer-lichtenberg",
+   "website": "https://www.aio-musikschule.de/",
+   "application_portal": "https://www.aio-musikschule.de/jobs-musiklehrer-lichtenberg"
+  },
+  "offer": {
+   "status": "initiative_welcome",
+   "checked": "2026-10-15",
+   "url": "https://www.aio-musikschule.de/jobs-musiklehrer-lichtenberg"
+  },
+  "contract": {
+   "type": "unknown",
+   "evidence": "Jobs page: self-employed work (selbständig); no mention of Honorar or rate"
+  },
+  "conditions": {
+   "requirements": "Experience as an instrument or singing teacher, or abgeschlossenes Musikstudium; short application with Lebenslauf, subject line Bewerbung MusiklehrerIn."
+  },
+  "email_language": "de",
+  "summary_en": "Private music school with a Lichtenberg branch recruiting instrument and voice teachers who work on a self-employed basis. Violin and viola are not on its list.",
+  "sources": [
+   "https://www.aio-musikschule.de/jobs-musiklehrer-lichtenberg",
+   "https://www.aio-musikschule.de/"
+  ],
+  "last_verified": "2026-10-15",
+  "instruments": [
+   "voice",
+   "keyboard",
+   "guitar_plucked",
+   "percussion"
+  ],
+  "instruments_detail": [
+   "voice",
+   "piano",
+   "guitar",
+   "drums",
+   "electric bass"
+  ],
+  "found_by": "district-scout:lichtenberg"
+ },
+ {
+  "id": "lichtenberg-modern-music-school-berlin-lichtenberg",
+  "name": "Modern Music School Berlin-Lichtenberg",
+  "category": "PRV",
+  "district": "Lichtenberg",
+  "address": {
+   "street": "Josef-Orlopp-Straße 1",
+   "postcode": "10367",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email": "berlin@modernmusicschool.com",
+   "email_source_url": "https://miz.org/de/institutionen/modern-music-school-berlin-lichtenberg-i39822",
+   "phone": "030 23523062",
+   "website": "https://www.modernmusicschool.com/berlin"
+  },
+  "instruments": [
+   "guitar_plucked",
+   "voice",
+   "percussion",
+   "keyboard"
+  ],
+  "instruments_detail": [
+   "guitar",
+   "bass guitar",
+   "voice",
+   "drums",
+   "piano",
+   "keyboard"
+  ],
+  "offer": {
+   "status": "initiative_welcome",
+   "checked": "2026-10-27",
+   "url": "https://jobs.peembeck.com/"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Private branch of the Modern Music School chain in Fennpfuhl teaching guitar, bass, voice, drums and piano or keyboard. The chain invites teacher applications through a central form; no violin or viola listed.",
+  "sources": [
+   "https://www.modernmusicschool.com/berlin",
+   "https://miz.org/de/institutionen/modern-music-school-berlin-lichtenberg-i39822",
+   "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003492915-S",
+   "https://jobs.peembeck.com/"
+  ],
+  "found_by": "district-scout:lichtenberg",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "lichtenberg-drumschool-berlin",
+  "name": "Drumschool Berlin (Standort Lichtenberg)",
+  "category": "PRV",
+  "district": "Lichtenberg",
+  "address": {
+   "street": "Buchberger Straße 6",
+   "postcode": "10365",
+   "city": "Berlin"
+  },
+  "contact": {
+   "website": "https://www.drumschool-berlin.de/"
+  },
+  "instruments": [
+   "percussion"
+  ],
+  "instruments_detail": [
+   "drums"
+  ],
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Drum school run by its teachers, with teaching rooms at the Berliner Rockhaus in Lichtenberg and other Berlin districts. Percussion only; no strings.",
+  "sources": [
+   "https://www.drumschool-berlin.de/",
+   "https://www.drumschool-berlin.de/kontakt",
+   "https://www.drumschool-berlin.de/unterrichtsorte",
+   "https://miz.org/de/musikleben/institutionen/musikschulen/berlin"
+  ],
+  "found_by": "district-scout:lichtenberg",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "lichtenberg-hans-und-hilde-coppi-gymnasium",
+  "name": "Hans-und-Hilde-Coppi-Gymnasium",
+  "category": "EDU",
+  "district": "Lichtenberg",
+  "address": {
+   "street": "Römerweg 30-32",
+   "postcode": "10318",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email": "sekretariat@coppi-gym.de",
+   "email_source_url": "https://www.coppi-gym.de/wp/impressum/",
+   "phone": "030 5098116",
+   "website": "https://www.coppi-gym.de/wp"
+  },
+  "instruments": [
+   "strings",
+   "woodwind",
+   "brass",
+   "percussion",
+   "guitar_plucked",
+   "voice"
+  ],
+  "instruments_detail": [
+   "strings (class orchestra)",
+   "wind ensemble",
+   "percussion",
+   "guitar",
+   "ukulele",
+   "choir",
+   "instrument lessons in music classes"
+  ],
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "State Gymnasium in Karlshorst with a music profile: music classes 7-10 with class orchestra, instrument lessons, choirs and ensembles. Teaching jobs would go through the school administration, not a direct application.",
+  "sources": [
+   "https://www.coppi-gym.de/wp/unterricht/fachbereiche/musik/",
+   "https://www.coppi-gym.de/wp/impressum/",
+   "https://miz.org/de/institutionen/hans-und-hilde-coppi-gymnasium-i2369"
+  ],
+  "found_by": "district-scout:lichtenberg",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "lichtenberg-kantorei-karlshorst",
+  "name": "Kantorei Karlshorst (Bach bewegt)",
+  "category": "CHO",
+  "district": "Lichtenberg",
+  "address": {
+   "street": "Gundelfinger Straße 36",
+   "postcode": "10318",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email_obfuscated": true,
+   "website": "https://bach-bewegt.com/kantorei-karlshorst/"
+  },
+  "instruments": [
+   "voice"
+  ],
+  "instruments_detail": [
+   "mixed choir (about 100 singers)",
+   "oratorio projects with orchestra"
+  ],
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Amateur church choir of about 100 singers in Karlshorst performing Bach, Handel and Brahms with orchestra, linked to the Bach bewegt association. A choir for singing, not a teaching employer.",
+  "sources": [
+   "https://bach-bewegt.com/kantorei-karlshorst/",
+   "https://bach-bewegt.com/impressum/",
+   "https://bach-bewegt.com/"
+  ],
+  "found_by": "district-scout:lichtenberg",
+  "last_verified": "2026-10-27"
+ }
+]

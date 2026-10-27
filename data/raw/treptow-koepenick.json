@@ -1,0 +1,303 @@
+[
+  {
+    "id": "treptow-koepenick-joseph-schmidt-musikschule",
+    "name": "Joseph-Schmidt-Musikschule Treptow-Köpenick",
+    "category": "MUN",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Freiheit 15",
+      "postcode": "12555",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Adlershof",
+        "street": "Hans-Schmidt-Str. 6/8",
+        "postcode": "12489"
+      },
+      {
+        "name": "Baumschulenweg",
+        "street": "Mörikestraße 13",
+        "postcode": "12437"
+      }
+    ],
+    "contact": {
+      "phone": "(030) 9 02 97-49 02",
+      "website": "https://www.berlin.de/musikschule-treptow-koepenick/",
+      "email": "j.s.musikschule@ba-tk.berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-treptow-koepenick/lehrangebote-fachgruppen/streichinstrumente/artikel.125241.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "mixed",
+      "evidence": "In Treptow-Köpenick werden zum 1. September Lehrkräfte im Umfang von 3,75 VZÄ angestellt. Weitere Festanstellungen folgen. (Drucksache 19/26581)",
+      "is_guess": true
+    },
+    "conditions": {
+      "pay": "34,85 (with full qualification) / 32,20 (without) per instrument class; permanent post TV Musikschullehrkräfte, EG 9 or EG 10",
+      "pay_unit": "EUR/45 min",
+      "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+      "requirements": "The call for Musikschullehrkraft Streichinstrumente (Karriereportal, deadline 28.5/28.6.2026) is closed (HTTP 410). The AV MuS-Honorare expires on 31.12.2026: 2027 conditions yet to be published."
+    },
+    "email_language": "de",
+    "summary_en": "District music school with a string department (violin, viola, cello, bass) and four orchestras across three sites. The 2026 string-teacher call has closed; more permanent posts are announced.",
+    "sources": [
+      "https://www.berlin.de/musikschule-treptow-koepenick/lehrangebote-fachgruppen/streichinstrumente/artikel.125241.php",
+      "https://www.berlin.de/musikschule-treptow-koepenick/ueber-uns/musikschulteam/",
+      "https://www.berlin.de/musikschule-treptow-koepenick/informationen/lehrstaetten/",
+      "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26581.pdf",
+      "https://www.berlin.de/musikschule-treptow-koepenick/leichte-sprache/"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "guitar_plucked",
+      "woodwind",
+      "brass",
+      "keyboard",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "guitar",
+      "recorder",
+      "flute",
+      "clarinet",
+      "brass instruments",
+      "piano",
+      "accordion",
+      "singing",
+      "drums"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-musikschule-klangkunst",
+    "name": "Musikschule Klangkunst (Berlin Schöneweide)",
+    "category": "PRV",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Edisonstr. 63",
+      "postcode": "12459",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@musikschule-klangkunst.de",
+      "email_source_url": "https://www.musikschule-klangkunst.de/about/",
+      "phone": "030 235 946 820",
+      "website": "https://www.musikschule-klangkunst.de/",
+      "application_portal": "https://www.musikschule-klangkunst.de/service/jobs/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Lehrkräfte gesucht: Honorarstelle Klavier, Gitarre, Schlagzeug, Geige (Berlin)",
+      "url": "https://www.musikschule-klangkunst.de/service/jobs/",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "Ausgebildete Lehrer:innen für eine Honorarstelle in den Fächern: Klavier, Gitarre, Schlagzeug, Geige",
+      "is_guess": false
+    },
+    "conditions": {
+      "requirements": "'eine qualifizierte Ausbildung' or being in music training; Kurzbewerbung by email. No rate published."
+    },
+    "email_language": "de",
+    "summary_en": "Private music school (Potsdam, Berlin Schöneweide) currently seeking violin teachers on a fee basis. Short application by email.",
+    "sources": [
+      "https://www.musikschule-klangkunst.de/service/jobs/",
+      "https://www.musikschule-klangkunst.de/about/",
+      "https://www.musikschule-klangkunst.de/die-schule/berlin-sch%C3%B6neweide/",
+      "https://www.musikschule-klangkunst.de/instrument-lernen/geige-violine/"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "piano",
+      "keyboard",
+      "recorder",
+      "flute",
+      "clarinet",
+      "saxophone",
+      "trumpet",
+      "guitar",
+      "electric guitar",
+      "harp",
+      "lute",
+      "ukulele",
+      "accordion",
+      "singing",
+      "drums"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-freie-schule-fuer-musik",
+    "name": "freie schule für musik (fsfm)",
+    "category": "PRV",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Straße am Flugplatz 6a",
+      "postcode": "12487",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Filiale Köpenick (Friedrichshagen)",
+        "street": "Müggelseedamm 123",
+        "postcode": "12587"
+      }
+    ],
+    "contact": {
+      "email": "info@fsfm.de",
+      "email_source_url": "https://www.fsfm.de/Impressum.26.0.html",
+      "phone": "030 322 99 233",
+      "website": "https://www.fsfm.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school with branches in Johannisthal and Friedrichshagen, teaching orchestral instruments among others. No job page; a speculative application is the only route.",
+    "sources": [
+      "https://www.fsfm.de/",
+      "https://www.fsfm.de/Impressum.26.0.html",
+      "https://www.rathaus-friedrichshagen.de/mieter/freie-schule-fuer-musik"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "cello",
+      "piano",
+      "keyboard",
+      "singing"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "district": "Treptow-Köpenick",
+    "last_verified": "2026-10-15",
+    "email_language": "de",
+    "id": "treptow-koepenick-vivace-musikakademie",
+    "name": "Vivace Musikakademie",
+    "category": "PRV",
+    "address": {
+      "street": "Schnellerstrasse 123",
+      "postcode": "12439",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@vivacemusikakademie.com",
+      "email_source_url": "https://vivacemusikakademie.com/",
+      "website": "https://vivacemusikakademie.com/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "summary_en": "Private music academy in Niederschöneweide offering individual violin lessons among other instruments. No job page; speculative application only.",
+    "sources": [
+      "https://vivacemusikakademie.com/"
+    ],
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "cello",
+      "piano",
+      "guitar",
+      "flute",
+      "wind instruments",
+      "singing"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "district": "Treptow-Köpenick",
+    "last_verified": "2026-10-15",
+    "email_language": "de",
+    "id": "treptow-koepenick-landesmusikakademie-berlin",
+    "name": "Landesmusikakademie Berlin (im FEZ-Berlin)",
+    "category": "OUT",
+    "secondary_categories": [
+      "ENS"
+    ],
+    "address": {
+      "street": "Straße zum FEZ 2",
+      "postcode": "12459",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "welcome@landesmusikakademie-berlin.de",
+      "email_source_url": "https://www.landesmusikakademie-berlin.de/impressum/",
+      "phone": "030 53071 203",
+      "website": "https://www.landesmusikakademie-berlin.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "summary_en": "State music academy on the FEZ campus in the Wuhlheide, running courses, workshops and school music project days. Only a volunteer post is advertised.",
+    "sources": [
+      "https://www.landesmusikakademie-berlin.de/",
+      "https://www.landesmusikakademie-berlin.de/impressum/",
+      "https://www.landesmusikakademie-berlin.de/ueber-uns/karriere/",
+      "https://bildungsangebote.fez-berlin.de/"
+    ],
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "voice"
+    ],
+    "instruments_detail": [
+      "instrumental courses and workshops",
+      "choir courses"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  }
+]

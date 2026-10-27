@@ -1,0 +1,256 @@
+[
+  {
+    "id": "neukoelln-musikschule-paul-hindemith",
+    "name": "Musikschule Paul Hindemith Neukölln",
+    "category": "MUN",
+    "address": {
+      "street": "Boddinstraße 34",
+      "postcode": "12053",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Haus der Bildung (Verwaltung)",
+        "street": "Boddinstraße 34",
+        "postcode": "12053"
+      },
+      {
+        "name": "Gutshaus Schloss & Gutshof Britz",
+        "street": "Alt-Britz 81",
+        "postcode": "12359"
+      },
+      {
+        "name": "ZSB Campus Efeuweg",
+        "street": "Efeuweg 38",
+        "postcode": "12357"
+      },
+      {
+        "name": "Kulturbunker",
+        "street": "Rungiusstraße 19",
+        "postcode": "12347"
+      }
+    ],
+    "contact": {
+      "email": "ms-verwaltung@bezirksamt-neukoelln.de",
+      "email_source_url": "https://www.berlin.de/musikschule-neukoelln/lehrangebot/",
+      "phone": "(030) 90239-3920",
+      "website": "https://www.berlin.de/musikschule-neukoelln/",
+      "application_portal": "https://www.karriereportal-stellen.berlin.de/stellenangebote.html"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "conditions": {
+      "requirements": "No string ad. The 2026 ads seen in Neukölln (Klavier, Horn, Elementare Musikpädagogik, Querflöte) are permanent EG 10 TV Musikschullehrkräfte posts from 1.9.2026; the Horn one returns HTTP 410. 2027 Honorar conditions yet to be published (the AV expires on 31.12.2026)."
+    },
+    "email_language": "de",
+    "summary_en": "District music school with all instrument families, voice and choirs, early music and pre-college training, taught at four sites. Permanent posts (piano, flute, early music education) are advertised on the Berlin career portal; no string vacancy found.",
+    "sources": [
+      "https://www.berlin.de/musikschule-neukoelln/",
+      "https://www.berlin.de/musikschule-neukoelln/lehrangebot/streichinstrumente/",
+      "https://www.berlin.de/musikschule-neukoelln/ueber-uns/fachgruppenleitung/",
+      "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26581.pdf",
+      "https://www.berlin.de/musikschule-neukoelln/lehrangebot/"
+    ],
+    "last_verified": "2026-10-15",
+    "district": "Neukölln",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "guitar",
+      "plucked strings",
+      "piano",
+      "harmonica",
+      "church organ",
+      "accordion",
+      "French horn",
+      "brass",
+      "percussion (drum kit, timpani, marimba, vibraphone)",
+      "singing, school singing classes, choirs, musical theatre",
+      "early music"
+    ],
+    "found_by": "district-scout:neukoelln"
+  },
+  {
+    "id": "neukoelln-global-music-academy",
+    "name": "Global Music Academy",
+    "category": "PRV",
+    "address": {
+      "street": "Wildenbruchstraße 80",
+      "postcode": "12045",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@global-music-academy.net",
+      "email_source_url": "https://www.global-music-academy.net/en/",
+      "phone": "+49 (30) 629 037 67",
+      "website": "https://www.global-music-academy.net/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "conditions": {
+      "requirements": "The website describes the teaching staff as external and freelance, but does not advertise positions or rates."
+    },
+    "email_language": "en",
+    "summary_en": "Independent music academy with violin and cello teachers, courses in English and German. No teacher vacancy posted.",
+    "sources": [
+      "https://www.global-music-academy.net/en/",
+      "https://www.global-music-academy.net/de/team/",
+      "https://www.global-music-academy.net/en/"
+    ],
+    "last_verified": "2026-10-15",
+    "district": "Neukölln",
+    "instruments": [
+      "strings"
+    ],
+    "instruments_detail": [
+      "violin",
+      "cello"
+    ],
+    "found_by": "district-scout:neukoelln"
+  },
+  {
+    "id": "neukoelln-tucanto-casa-de-musica",
+    "name": "tuCanto - Casa de Música",
+    "category": "PRV",
+    "address": {
+      "street": "Nogatstraße 26",
+      "postcode": "12051",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@tucanto.de",
+      "email_source_url": "https://www.tucanto.de/team",
+      "phone": "(0176) 60408454",
+      "website": "https://www.tucanto.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "es",
+    "summary_en": "Small music school with lessons in German and Spanish: piano, guitar, singing and choir, plus early music education and dance. No vacancy posted.",
+    "sources": [
+      "https://www.tucanto.de/",
+      "https://www.tucanto.de/team"
+    ],
+    "last_verified": "2026-10-15",
+    "district": "Neukölln",
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "voice"
+    ],
+    "instruments_detail": [
+      "piano",
+      "guitar",
+      "singing",
+      "choir"
+    ],
+    "found_by": "district-scout:neukoelln"
+  },
+  {
+    "id": "neukoelln-campus-ruetli",
+    "name": "Gemeinschaftsschule auf dem Campus Rütli",
+    "category": "EDU",
+    "address": {
+      "street": "Rütlistraße 41",
+      "postcode": "12045",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "sekretariat@campusruetli.de",
+      "email_source_url": "https://campusruetli.de/jobs/",
+      "phone": "030 6003476 0",
+      "website": "https://campusruetli.de/",
+      "application_portal": "https://campusruetli.de/jobs/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "conditions": {
+      "requirements": "The job page lists Erzieher:innen and teachers with Lehramt/Quereinstieg; no music positions. One JFE MANEGE offer is 'auf Honorarbasis oder ehrenamtlich' (not music-related)."
+    },
+    "email_language": "de",
+    "summary_en": "Public community school that runs a school orchestra and a sound workshop with Konzerthaus Berlin leaders. No music vacancy posted.",
+    "sources": [
+      "https://campusruetli.de/",
+      "https://campusruetli.de/jobs/",
+      "https://miz.org/de/institutionen/gemeinschaftsschule-auf-dem-campus-ruetli-i31902"
+    ],
+    "last_verified": "2026-10-15",
+    "district": "Neukölln",
+    "instruments": [
+      "strings"
+    ],
+    "instruments_detail": [
+      "string ensembles and school orchestra (instruments not listed on the site)"
+    ],
+    "found_by": "district-scout:neukoelln"
+  },
+  {
+    "id": "neukoelln-chorverband-berlin",
+    "name": "Chorverband Berlin e.V. (Deutsches Chorzentrum)",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Karl-Marx-Straße 145",
+      "postcode": "12043",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "choral conducting training (D-Ausbildung)"
+    ],
+    "contact": {
+      "phone": "030 600 1999 80",
+      "website": "https://www.chorverband-berlin.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State choral association based in the Deutsches Chorzentrum, running choir-singing training courses, workshops and the Landesjugendchor Berlin. No teaching vacancy found; a 'Wir suchen' page exists.",
+    "sources": [
+      "https://www.chorverband-berlin.de/",
+      "https://www.chorverband-berlin.de/impressum"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-27"
+  }
+]

@@ -1,0 +1,681 @@
+[
+  {
+    "id": "steglitz-zehlendorf-leo-borchard-musikschule",
+    "name": "Leo-Borchard-Musikschule Steglitz-Zehlendorf",
+    "category": "MUN",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Martin-Buber-Straße 21",
+      "postcode": "14163",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Geschäftsstelle",
+        "street": "Martin-Buber-Straße 21",
+        "postcode": "14163"
+      },
+      {
+        "name": "Haus der Musik",
+        "street": "Grabertstraße 4",
+        "postcode": "12169"
+      },
+      {
+        "name": "Schottenburg (Brittendorfer Weg 16b)",
+        "street": "Brittendorfer Weg 16b",
+        "postcode": "14167"
+      },
+      {
+        "name": "Schulstandort Dessauerstraße (Lankwitz)",
+        "street": "Dessauerstraße 49-55",
+        "postcode": "12249"
+      }
+    ],
+    "geo": {
+      "lat": 52.43355,
+      "lng": 13.25614,
+      "precision": "address",
+      "source": "osm"
+    },
+    "contact": {
+      "email": "musikschule@ba-sz.berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-steglitz-zehlendorf/ueber-uns/jobs-und-ausbildung/",
+      "phone": "(030) 90299-6494",
+      "website": "https://www.berlin.de/musikschule-steglitz-zehlendorf/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "mixed",
+      "evidence": "freie Mitarbeiterinnen und Mitarbeiter (teachers page) and EG 9b TV Musikschullehrkräfte Land Berlin (permanent posts 2026)"
+    },
+    "conditions": {
+      "pay": "34,85 (Honorarsatz 1, with full qualification; AV MuS-Honorare 2026)",
+      "pay_unit": "EUR/45 min",
+      "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+      "requirements": "The two 2026 ads were TV-L posts (Gitarre and Fachgruppenleitung Grundstufe), deadline 06.05.2026, expired; neither for strings."
+    },
+    "email_language": "de",
+    "summary_en": "District music school offering violin and viola (individual, group, school string classes, ensembles). No string vacancy now; the 2026 postings (guitar, early music) closed on 2026-05-06.",
+    "sources": [
+      "https://www.berlin.de/musikschule-steglitz-zehlendorf/",
+      "https://www.berlin.de/musikschule-steglitz-zehlendorf/ueber-uns/lehrkraefte/",
+      "https://www.berlin.de/musikschule-steglitz-zehlendorf/ueber-uns/jobs-und-ausbildung/",
+      "https://www.berlin.de/musikschule-steglitz-zehlendorf/lehrangebot/streichinstrumente/",
+      "https://www.berlin.de/musikschule-steglitz-zehlendorf/ueber-uns/musikschulleitung/",
+      "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+      "https://www.berlin.de/musikschule-steglitz-zehlendorf/lehrangebot/ensembles/artikel.877412.php",
+      "https://www.berlin.de/musikschule-steglitz-zehlendorf/lehrangebot/"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "viol",
+      "baroque strings",
+      "piano",
+      "organ",
+      "harpsichord",
+      "accordion",
+      "keyboard",
+      "recorder",
+      "flute",
+      "oboe",
+      "clarinet",
+      "bassoon",
+      "saxophone",
+      "trumpet",
+      "horn",
+      "trombone",
+      "tuba",
+      "guitar",
+      "harp",
+      "lute",
+      "zither",
+      "ukulele",
+      "percussion",
+      "drums",
+      "vibraphone",
+      "timpani",
+      "singing",
+      "early music"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-notenkind",
+    "name": "Musikschule notenkind (music academy berlin)",
+    "category": "PRV",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Bergstraße 1",
+      "postcode": "12169",
+      "city": "Berlin"
+    },
+    "geo": {
+      "lat": 52.45772,
+      "lng": 13.32605,
+      "precision": "address",
+      "source": "osm"
+    },
+    "contact": {
+      "email": "info@notenkind.de",
+      "email_source_url": "https://notenkind.de/impressum.html",
+      "phone": "030 290 45 900",
+      "website": "https://notenkind.de/",
+      "application_portal": "https://notenkind.de/accordion-a/stellenangebote.html"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-15",
+      "title": "Stellenangebote: Bewerbung von gut ausgebildeten Musiklehrern",
+      "url": "https://notenkind.de/accordion-a/stellenangebote.html"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school in Steglitz with a string department; its job page invites applications from well-trained music teachers.",
+    "sources": [
+      "https://notenkind.de/",
+      "https://notenkind.de/accordion-a/stellenangebote.html",
+      "https://notenkind.de/impressum.html",
+      "https://notenkind.de/"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "string instruments",
+      "keyboard instruments",
+      "wind instruments",
+      "plucked instruments",
+      "drums",
+      "vocal lessons"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-musikschule-lichterfelde-zehlendorf",
+    "name": "Musikschule Lichterfelde Zehlendorf",
+    "category": "PRV",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Drakestraße 23",
+      "postcode": "12205",
+      "city": "Berlin"
+    },
+    "geo": {
+      "lat": 52.4394,
+      "lng": 13.30097,
+      "precision": "address",
+      "source": "osm"
+    },
+    "contact": {
+      "email": "musikschulelichterfelde@gmail.com",
+      "email_source_url": "https://www.musikschule-lichterfelde-zehlendorf.de/Impressum-Datenschutzerklaerung/",
+      "phone": "030 84311466",
+      "website": "https://www.musikschule-lichterfelde-zehlendorf.de",
+      "application_portal": "https://www.musikschule-lichterfelde-zehlendorf.de/Kontaktformular-Kartenansicht/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Small private music school in Lichterfelde; current openings are for piano, drums and clarinet or saxophone, not strings.",
+    "sources": [
+      "https://www.musikschule-lichterfelde-zehlendorf.de",
+      "https://www.musikschule-lichterfelde-zehlendorf.de/Aktuelles-Stellenangebote/",
+      "https://www.musikschule-lichterfelde-zehlendorf.de/Impressum-Datenschutzerklaerung/"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "woodwind",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "piano",
+      "guitar",
+      "clarinet",
+      "saxophone",
+      "drums"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-schottenkinder",
+    "name": "Die Schottenkinder e.V. (Musikschule im JFE Schotte)",
+    "category": "PRV",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Brittendorfer Weg 16b",
+      "postcode": "14167",
+      "city": "Berlin"
+    },
+    "geo": {
+      "lat": 52.43693,
+      "lng": 13.27772,
+      "precision": "address",
+      "source": "osm"
+    },
+    "contact": {
+      "email": "Vorstand@Schottenkinder.de",
+      "email_source_url": "https://www.schottenkinder.de/impressum",
+      "phone": "0152-31972139",
+      "website": "https://www.schottenkinder.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-15",
+      "title": "Flöten- und Gitarrenlehrer auf Honorarbasis gesucht",
+      "url": "https://www.schottenkinder.de/"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "Honorarbasis"
+    },
+    "email_language": "de",
+    "summary_en": "Youth centre music school seeking recorder and guitar teachers on a fee basis; no strings listed.",
+    "sources": [
+      "https://www.schottenkinder.de/",
+      "https://www.schottenkinder.de/impressum"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "woodwind",
+      "guitar_plucked"
+    ],
+    "instruments_detail": [
+      "recorder",
+      "guitar"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-berlin-music-school",
+    "name": "Berlin Music School (Musikschule Zehlendorf)",
+    "category": "PRV",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Potsdamer Straße 16",
+      "postcode": "14163",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Sede en OSM, sin confirmar en la web",
+        "street": "Berlepschstraße 34",
+        "postcode": "14165"
+      }
+    ],
+    "geo": {
+      "lat": 52.4337,
+      "lng": 13.24427,
+      "precision": "address",
+      "source": "osm"
+    },
+    "contact": {
+      "email": "office@berlinmusicschool.de",
+      "email_source_url": "https://www.berlinmusicschool.com/kontakt/",
+      "phone": "+49 176 533 221 09",
+      "website": "https://www.berlinmusicschool.com/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school in Zehlendorf teaching band, piano, guitar, voice, drums and production; no strings listed.",
+    "sources": [
+      "https://www.berlinmusicschool.com/",
+      "https://www.berlinmusicschool.com/kontakt/"
+    ],
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "piano",
+      "guitar",
+      "electric guitar",
+      "bass",
+      "singing",
+      "drums",
+      "band",
+      "music production"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-john-f-kennedy-school",
+    "name": "John F. Kennedy School (JFKS)",
+    "category": "EDU",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Teltower Damm 87-93",
+      "postcode": "14167",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "welcome@jfksberlin.org",
+      "email_source_url": "https://www.jfks.de/",
+      "website": "https://www.jfks.de/",
+      "application_portal": "https://www.jfks.de/careers"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Bilingual German-American public school in Zehlendorf with a Fine Arts programme: string classes and orchestras from grade 5, a Suzuki violin programme and school bands. The careers page shows no openings and teaching posts require teacher certification.",
+    "sources": [
+      "https://www.jfks.de/",
+      "https://www.jfks.de/careers",
+      "https://jfks.de/fine-arts/music/high-school/orchestra/",
+      "https://jfks.de/fine-arts/music/elementary-school/the-suzuki-violin-program/"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "band instruments (grade 5 and 6 band, jazz band)"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-sinfonie-orchester-steglitz",
+    "name": "Sinfonie-Orchester Steglitz e.V.",
+    "category": "ENS",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Beymestraße 6-7",
+      "postcode": "12167",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://sinfonie-orchester-steglitz.de/",
+      "email": "mitspielen@sinfonie-orchester-steglitz.de",
+      "email_source_url": "https://sinfonie-orchester-steglitz.de/kontakt/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-15",
+      "title": "Mitspielen: Bratschen, 1. Geigen und Kontrabässe gesucht",
+      "url": "https://sinfonie-orchester-steglitz.de/mitspielen/"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur symphony orchestra in Steglitz currently recruiting violas, first violins and double basses; rehearses Wednesdays evening.",
+    "sources": [
+      "https://sinfonie-orchester-steglitz.de/",
+      "https://sinfonie-orchester-steglitz.de/mitspielen/",
+      "https://sinfonie-orchester-steglitz.de/kontakt/"
+    ],
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "double bass",
+      "winds and brass (section representatives)"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-tonart-die-musikschule",
+    "name": "TonArt Die Musikschule",
+    "category": "PRV",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Schützenstraße 7",
+      "postcode": "12165",
+      "city": "Berlin"
+    },
+    "last_verified": "2026-10-16",
+    "email_language": "de",
+    "contact": {
+      "email": "info@tonart-die-musikschule.de",
+      "email_source_url": "https://www.tonart-die-musikschule.de/kontakt/impressum/",
+      "phone": "030 79 78 03 50",
+      "website": "https://www.tonart-die-musikschule.de/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "summary_en": "Established private music school at Rathaus Steglitz (recognised by the Berlin Senate) teaching violin and viola. Its jobs page currently seeks a banjo teacher only; speculative application possible.",
+    "sources": [
+      "https://www.tonart-die-musikschule.de/",
+      "https://www.tonart-die-musikschule.de/kontakt/impressum/",
+      "https://www.tonart-die-musikschule.de/das-team/jobs/",
+      "https://www.tonart-die-musikschule.de/agb-und-preise/",
+      "https://miz.org/de/institutionen/tonart-die-musikschule-i32598"
+    ],
+    "instruments": [
+      "strings",
+      "keyboard",
+      "guitar_plucked",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "piano",
+      "guitar",
+      "singing",
+      "early musical education",
+      "30+ further instruments (not listed)"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-musikschule-moser",
+    "name": "Musikschule Moser",
+    "category": "PRV",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Moltkestraße 32",
+      "postcode": "12203",
+      "city": "Berlin"
+    },
+    "last_verified": "2026-10-16",
+    "email_language": "de",
+    "contact": {
+      "email": "info@musikschule-moser.de",
+      "email_source_url": "http://musikschule-moser.de/content/impressum.html",
+      "phone": "030 844 11 702",
+      "website": "http://musikschule-moser.de/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-16",
+      "title": "Musiklehrer/in für Violine / Geige / Bratsche",
+      "url": "http://musikschule-moser.de/content/stellen.html"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "summary_en": "Private music school in Lichterfelde whose job page asks for a violin/viola teacher (one-to-one lessons, teaching experience required) and welcomes speculative applications.",
+    "sources": [
+      "http://musikschule-moser.de/content/stellen.html",
+      "http://musikschule-moser.de/content/impressum.html",
+      "http://musikschule-moser.de/content/angebot.html",
+      "http://musikschule-moser.de/content/lehrer.html",
+      "http://musikschule-moser.de/content/preise.html"
+    ],
+    "conditions": {
+      "requirements": "Previous teaching experience; individual lessons for beginners and advanced students; knowledge of music theory."
+    },
+    "instruments": [
+      "strings"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-ulis-musikschule",
+    "name": "Ulis Musikschule",
+    "category": "PRV",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Machnower Straße 12",
+      "postcode": "14165",
+      "city": "Berlin"
+    },
+    "last_verified": "2026-10-16",
+    "email_language": "de",
+    "contact": {
+      "email": "kontakt@ulis-musikschule.de",
+      "email_source_url": "https://www.ulis-musikschule.de/impressum",
+      "phone": "030 815 88 02",
+      "website": "https://www.ulis-musikschule.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-16",
+      "title": "Jobs (open applications for all subjects)",
+      "url": "https://www.ulis-musikschule.de/jobs/"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "summary_en": "Private music school in Zehlendorf teaching violin, viola and cello among many subjects; its jobs page welcomes speculative applications for all subjects.",
+    "sources": [
+      "https://www.ulis-musikschule.de/jobs/",
+      "https://www.ulis-musikschule.de/unterrichtsfaecher/",
+      "https://www.ulis-musikschule.de/impressum"
+    ],
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "guitar_plucked",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "piano",
+      "keyboard",
+      "organ",
+      "recorder",
+      "flute",
+      "saxophone",
+      "clarinet",
+      "bassoon",
+      "guitar",
+      "electric guitar",
+      "bass",
+      "drums",
+      "percussion",
+      "singing",
+      "band"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-musikschule-saks",
+    "name": "Musikschule Saks",
+    "category": "PRV",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Lauenburger Straße 73",
+      "postcode": "12169",
+      "city": "Berlin"
+    },
+    "last_verified": "2026-10-16",
+    "email_language": "de",
+    "contact": {
+      "email": "info@musikschule-saks.de",
+      "email_source_url": "https://musikschule-saks.de/impressum/",
+      "phone": "030 81 01 85 93",
+      "website": "https://musikschule-saks.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "summary_en": "Private music school in Steglitz (since 2008, member of the Bundesverband der Freien Musikschulen) offering violin among its subjects. Its jobs page is still under construction.",
+    "sources": [
+      "https://musikschule-saks.de/",
+      "https://musikschule-saks.de/impressum/",
+      "https://musikschule-saks.de/jobs/",
+      "https://miz.org/de/institutionen/musikschule-saks-i30730"
+    ],
+    "instruments": [
+      "strings",
+      "keyboard",
+      "guitar_plucked",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "piano",
+      "keyboard",
+      "guitar",
+      "singing"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-droste-huelshoff-gymnasium",
+    "name": "Droste-Hülshoff-Gymnasium",
+    "category": "EDU",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Schönower Straße 8",
+      "postcode": "14165",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "school choirs",
+      "orchestras and bands (instruments not listed)",
+      "music profile classes"
+    ],
+    "contact": {
+      "website": "https://droste-berlin.de/",
+      "email": "schulbuero@droste-berlin.de",
+      "email_source_url": "https://www.berlin.de/ba-steglitz-zehlendorf/aktuelles/schulbauoffensive/weiterfuehrende-schulen/droste-huelshoff-gymnasium-1447010.php",
+      "phone": "(030) 84 50 84 66"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Public Gymnasium in Zehlendorf with a music and French profile, school choirs, orchestras and bands, and instrument lending. Also hosts ensembles of the district music school; teaching posts require state teacher qualification.",
+    "sources": [
+      "https://droste-berlin.de/",
+      "https://www.berlin.de/ba-steglitz-zehlendorf/aktuelles/schulbauoffensive/weiterfuehrende-schulen/droste-huelshoff-gymnasium-1447010.php"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf",
+    "last_verified": "2026-10-27"
+  }
+]

@@ -1,0 +1,529 @@
+[
+  {
+    "id": "friedrichshain-kreuzberg-musikschule-friedrichshain-kreuzberg",
+    "name": "Musikschule Friedrichshain-Kreuzberg",
+    "category": "MUN",
+    "address": {
+      "street": "Mariannenplatz 2",
+      "postcode": "10997",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Geschäftsstelle Bethanien (Kreuzberg)",
+        "street": "Mariannenplatz 2",
+        "postcode": "10997"
+      },
+      {
+        "name": "Zweigstelle Friedrichshain",
+        "street": "Zellestraße 12",
+        "postcode": "10247"
+      }
+    ],
+    "contact": {
+      "phone": "030-90298-1431",
+      "website": "https://www.berlin.de/musikschule-friedrichshain-kreuzberg/",
+      "email": "musikschule@ba-fk.berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-friedrichshain-kreuzberg/info-service/kontakt/artikel.1029436.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "mixed",
+      "is_guess": true
+    },
+    "conditions": {
+      "pay": "34,85 (Honorarsatz 1, with full qualification); 38,18 (Honorarsatz 2, ensembles)",
+      "pay_unit": "EUR/45 min",
+      "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+      "requirements": "AV MuS-Honorare expires on 31.12.2026; 2027 conditions yet to be published. Permanent posts (TV Musikschullehrkräfte, EG 10) are advertised on the Karriereportal and usually go to Honorarkräfte already active there."
+    },
+    "email_language": "de",
+    "summary_en": "District music school with a strings department (violin, viola) at Bethanien and Friedrichshain. No open posting on 2026-10-15; the 2026 viola post (EG 10, from 1 Sep) is closed.",
+    "sources": [
+      "https://www.berlin.de/musikschule-friedrichshain-kreuzberg/info-service/kontakt/artikel.1029436.php",
+      "https://www.berlin.de/musikschule-friedrichshain-kreuzberg/untericht/streichinstrumente/faecher-lehrkraefte/artikel.1030198.php",
+      "https://www.berlin.de/musikschule-friedrichshain-kreuzberg/ueber-uns/artikel.1103328.php",
+      "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-26581.pdf"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "guitar_plucked",
+      "woodwind",
+      "brass",
+      "percussion",
+      "keyboard",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "plucked instruments",
+      "wind instruments",
+      "percussion",
+      "keyboard instruments",
+      "voice",
+      "early music",
+      "jazz and popular music"
+    ],
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-musikzimmer-marcelo-berrini",
+    "name": "Musikzimmer Marcelo Berrini (Musikschule)",
+    "category": "PRV",
+    "address": {
+      "street": "Matternstraße 5",
+      "postcode": "10249",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "musikzimmer@gmail.com",
+      "email_source_url": "https://musikzimmerberlin.de/impressum/",
+      "phone": "030 / 64 83 7007",
+      "website": "https://musikzimmerberlin.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Small private music school in Friedrichshain with violin and viola teachers and a Spanish-speaking team. No job notice; teachers are listed as cooperation partners.",
+    "sources": [
+      "https://musikzimmerberlin.de",
+      "https://musikzimmerberlin.de/lehrerinnen/",
+      "https://musikzimmerberlin.de/impressum/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "guitar_plucked",
+      "woodwind",
+      "accordion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "piano",
+      "guitar",
+      "electric guitar",
+      "flute",
+      "recorder",
+      "accordion",
+      "bandoneon",
+      "voice"
+    ],
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-haendel-gymnasium",
+    "name": "Georg-Friedrich-Händel-Gymnasium",
+    "category": "EDU",
+    "secondary_categories": [
+      "ENS"
+    ],
+    "address": {
+      "street": "Frankfurter Allee 6a",
+      "postcode": "10247",
+      "city": "Berlin"
+    },
+    "geo": {
+      "lat": 52.5144222,
+      "lng": 13.4560533,
+      "precision": "address",
+      "source": "osm"
+    },
+    "contact": {
+      "email": "sekretariat@haendelgym.de",
+      "email_source_url": "https://haendelgym.de/pages/home/kontakt/impressum.php",
+      "phone": "(030) 2250279011",
+      "website": "https://haendelgym.de/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Music-focused public secondary school in Friedrichshain with three orchestras (small, youth and symphonic). No staffing call found; possible niche for string coaching.",
+    "sources": [
+      "http://www.haendelgym.de/",
+      "https://haendelgym.de/pages/home/musik/orchester.php",
+      "https://haendelgym.de/pages/home/kontakt/impressum.php"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass"
+    ],
+    "instruments_detail": [
+      "school orchestras (instruments not itemised on the site)"
+    ],
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-bimm-university-berlin",
+    "name": "BIMM University Berlin (House of Music)",
+    "category": "HOC",
+    "address": {
+      "street": "Revaler Straße 99",
+      "postcode": "10245",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "berlin@bimm-university.de",
+      "email_source_url": "https://www.bimm-university.de/impressum/",
+      "phone": "+49 30 311 99 186",
+      "website": "https://www.bimm-university.de/berlin/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "en",
+    "summary_en": "Private university for contemporary music in the RAW area, with English-language programmes. No lecturer vacancy page found.",
+    "sources": [
+      "https://www.bimm-university.de/impressum/",
+      "https://www.bimm-university.de/contact-us/",
+      "https://www.bimm-university.de/berlin/directions/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "voice",
+      "guitar_plucked",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "vocals",
+      "guitar",
+      "bass guitar",
+      "drums"
+    ],
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-musikschule-kolesnikov",
+    "name": "Musikschule Kolesnikov",
+    "category": "PRV",
+    "address": {
+      "street": "Samariterstraße 25",
+      "postcode": "10247",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@musikschule-berlin.com",
+      "email_source_url": "http://www.musikschule-berlin.com/ueberuns.php",
+      "phone": "030 20261418",
+      "website": "http://www.musikschule-berlin.com/"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "http://www.musikschule-berlin.com/",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school in Friedrichshain (since 2005) offering violin and cello lessons. Its jobs list on 2026-10-15 named only cello and flute teachers.",
+    "sources": [
+      "http://www.musikschule-berlin.com/",
+      "http://www.musikschule-berlin.com/impressum.php",
+      "http://www.musikschule-berlin.com/ueberuns.php"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "guitar_plucked",
+      "woodwind",
+      "percussion",
+      "accordion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "cello",
+      "piano",
+      "accordion",
+      "organ",
+      "keyboard",
+      "recorder",
+      "flute",
+      "clarinet",
+      "saxophone",
+      "trumpet",
+      "harmonica",
+      "drums",
+      "guitar",
+      "bass guitar",
+      "electric guitar",
+      "balalaika",
+      "domra",
+      "voice"
+    ],
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-doremi-musikwerkstatt",
+    "name": "DOREMI Musikwerkstatt",
+    "category": "PRV",
+    "address": {
+      "street": "Bergmannstraße 58",
+      "postcode": "10961",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@doremi-musikwerkstatt.de",
+      "email_source_url": "https://www.doremi-musikwerkstatt.de/",
+      "phone": "030 50919223",
+      "website": "https://www.doremi-musikwerkstatt.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://www.doremi-musikwerkstatt.de/",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Small private music school in the Bergmannkiez with violin and cello lessons. No jobs page; contact is by email.",
+    "sources": [
+      "https://www.doremi-musikwerkstatt.de/",
+      "https://www.doremi-musikwerkstatt.de/impressum",
+      "https://www.doremi-musikwerkstatt.de/leo-clemens-geigenunterricht-berlin"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "guitar_plucked"
+    ],
+    "instruments_detail": [
+      "violin",
+      "cello",
+      "piano",
+      "flute",
+      "guitar"
+    ],
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-concentus-alius",
+    "name": "concentus alius (Homophil_harmonisches Orchester Berlin)",
+    "category": "ENS",
+    "address": {
+      "street": "Blücherstraße 53",
+      "postcode": "10961",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 8240108",
+      "website": "https://www.concentus-alius.de/",
+      "email": "mail@concentus-alius.de",
+      "email_source_url": "https://www.concentus-alius.de/kontakt/"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://www.concentus-alius.de/",
+      "checked": "2026-10-15"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur symphony orchestra in Kreuzberg rehearsing Wednesdays; it recruited first violins via the Landesmusikrat board.",
+    "sources": [
+      "https://www.concentus-alius.de/about/",
+      "https://www.landesmusikrat-berlin.de/amateurmusik/amateurmusik-boerse/",
+      "https://www.concentus-alius.de/kontakt/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-15",
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass",
+      "percussion",
+      "guitar_plucked"
+    ],
+    "instruments_detail": [
+      "strings",
+      "woodwinds",
+      "brass",
+      "percussion and plucked instruments"
+    ],
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-musikschule-berliner-stadtmusikanten",
+    "name": "Musikschule Berliner Stadtmusikanten",
+    "category": "PRV",
+    "address": {
+      "street": "Holzmarktstraße 25",
+      "postcode": "10243",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@stadtmusikanten.berlin",
+      "email_source_url": "https://stadtmusikanten.berlin/impressum/",
+      "phone": "030 76738623",
+      "website": "https://stadtmusikanten.berlin/",
+      "application_portal": "https://stadtmusikanten.berlin/musikschule-am-holzmarkt/stellenangebote/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://stadtmusikanten.berlin/musikschule-am-holzmarkt/stellenangebote/",
+      "checked": "2026-10-16"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Non-profit private music school at the Holzmarkt teaching violin, viola and many other instruments. Its jobs page currently seeks trumpet, piano/guitar and early-years teachers, not strings.",
+    "sources": [
+      "https://stadtmusikanten.berlin/",
+      "https://stadtmusikanten.berlin/musikschule-am-holzmarkt/stellenangebote/",
+      "https://stadtmusikanten.berlin/musikschule-am-holzmarkt/lehrer/",
+      "https://stadtmusikanten.berlin/impressum/",
+      "https://miz.org/de/institutionen/musikschule-berliner-stadtmusikanten-ggmbh-i34192"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-16",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "piano",
+      "guitar",
+      "trumpet",
+      "drums",
+      "voice",
+      "choir",
+      "20+ instruments"
+    ],
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-lab-der-musik",
+    "name": "Lab der Musik",
+    "category": "PRV",
+    "address": {
+      "street": "Kottbusser Damm 67",
+      "postcode": "10967",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "0152-06600422",
+      "website": "https://www.lab-der-musik.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Young private music school at Kottbusser Damm teaching piano, guitar, violin, cello, woodwinds and voice to all ages. No job notice found; its own website did not load on 2026-10-27.",
+    "sources": [
+      "https://sellwerk.de/firmenprofil/lab-der-musik",
+      "https://rausgegangen.de/en/organizations/lab-der-musik-2/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "strings",
+      "woodwind",
+      "voice"
+    ],
+    "instruments_detail": [
+      "piano",
+      "guitar",
+      "violin",
+      "cello",
+      "clarinet",
+      "oboe",
+      "flute",
+      "voice"
+    ]
+  },
+  {
+    "id": "friedrichshain-kreuzberg-kantorei-friedrichshain",
+    "name": "Kantorei Friedrichshain (Ev. Kirchengemeinde Friedrichshain-Süd)",
+    "category": "CHO",
+    "address": {
+      "street": "Simplonstraße 31-37",
+      "postcode": "10245",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "buero@friedrichshain-sued.de",
+      "email_source_url": "https://friedrichshain-sued.de/impressum/",
+      "phone": "+49 30 291 0967",
+      "website": "https://friedrichshain-sued.de/kultur/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish church music with the Kantorei, a pop choir, children's choirs and a recorder circle at the Offenbarungskirche. No teaching vacancy found; the parish welcomes new choir members.",
+    "sources": [
+      "https://friedrichshain-sued.de/kultur/",
+      "https://friedrichshain-sued.de/impressum/",
+      "https://www.berlin.de/ba-friedrichshain-kreuzberg/aktuelles/bezirksticker/2025/kantorei-friedrichshain-1560677.php"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "choir singing",
+      "children's choirs",
+      "recorder circle"
+    ]
+  }
+]

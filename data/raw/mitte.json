@@ -1,0 +1,841 @@
+[
+ {
+  "id": "mitte-musikschule-fanny-hensel",
+  "name": "Musikschule Fanny Hensel (Bezirksamt Mitte)",
+  "category": "MUN",
+  "district": "Mitte",
+  "address": {
+   "street": "Mathilde-Jacob-Platz 1",
+   "postcode": "10551",
+   "city": "Berlin"
+  },
+  "contact": {
+   "phone": "(030) 9018-37507",
+   "website": "https://www.berlin.de/musikschule-mitte/",
+   "email": "infomusikschule@ba-mitte.berlin.de",
+   "email_source_url": "https://www.berlin.de/musikschule-mitte/lehrangebot/"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-15"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "District music school of Mitte (Wedding, Tiergarten, Mitte branches). No open call visible; contract only after placement by the string Fachgruppe head.",
+  "sources": [
+   "https://www.berlin.de/musikschule-mitte/sidebar.php",
+   "https://www.berlin.de/musikschule-mitte/anmeldung-service/unterrichtsstaetten/",
+   "https://www.berlin.de/musikschule-mitte/lehrangebot/streichinstrumente/lehrkraefte/",
+   "https://www.berlin.de/musikschule-mitte/lehrangebot/streichinstrumente/"
+  ],
+  "last_verified": "2026-10-15",
+  "conditions": {
+   "requirements": "Not published for 2026-10; the May 2026 Interessenbekundung was restricted to existing Honorarkräfte of the school (seen only via search summary, page now 404).",
+   "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf"
+  },
+  "sites": [
+   {
+    "name": "Standort Wedding",
+    "street": "Ruheplatzstraße 4",
+    "postcode": "13347"
+   },
+   {
+    "name": "Standort Mitte",
+    "street": "Wallstraße 42",
+    "postcode": "10179"
+   },
+   {
+    "name": "Standort Moabit",
+    "street": "Turmstraße 75",
+    "postcode": "10548"
+   },
+   {
+    "name": "Außenstelle Swinemünder Straße (Streicher-Instrumentenlager)",
+    "street": "Swinemünder Str. 80",
+    "postcode": "13355"
+   }
+  ],
+  "instruments": [
+   "strings",
+   "keyboard",
+   "woodwind",
+   "brass",
+   "guitar_plucked",
+   "accordion",
+   "voice",
+   "percussion"
+  ],
+  "instruments_detail": [
+   "violin",
+   "viola",
+   "cello",
+   "double bass",
+   "piano",
+   "accordion",
+   "recorder",
+   "flute",
+   "clarinet",
+   "saxophone",
+   "trumpet",
+   "guitar",
+   "harp",
+   "drums",
+   "percussion",
+   "singing",
+   "choir"
+  ],
+  "found_by": "district-scout:mitte"
+ },
+ {
+  "id": "mitte-hfm-hanns-eisler",
+  "name": "Hochschule für Musik Hanns Eisler Berlin",
+  "category": "HOC",
+  "district": "Mitte",
+  "address": {
+   "street": "Charlottenstr. 55",
+   "postcode": "10117",
+   "city": "Berlin"
+  },
+  "contact": {
+   "phone": "+49 (0)30 688305-700",
+   "website": "https://www.hfm-berlin.de/"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-15"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Conservatory in Mitte. 2026-10-15: only professorships (violin, diction) in procedure; no 'Sonstige künstlerische Stellen' open.",
+  "sources": [
+   "https://www.hfm-berlin.de/hochschule/stellenausschreibungen/kuenstlerische/",
+   "https://www.hfm-berlin.de/impressum/"
+  ],
+  "last_verified": "2026-10-15",
+  "conditions": {
+   "pay": "46,81 (FU reference minimum, not HfM tariff)",
+   "pay_unit": "EUR/45 min",
+   "pay_source_url": "https://www.fu-berlin.de/service/zuvdocs/amtsblatt/2023/ab412023.pdf"
+  },
+  "instruments": [
+   "strings",
+   "keyboard",
+   "woodwind",
+   "brass",
+   "guitar_plucked",
+   "voice",
+   "percussion"
+  ],
+  "instruments_detail": [
+   "violin",
+   "viola",
+   "cello",
+   "double bass",
+   "harp",
+   "guitar",
+   "flute",
+   "oboe",
+   "clarinet",
+   "bassoon",
+   "saxophone",
+   "horn",
+   "trumpet",
+   "trombone",
+   "tuba",
+   "percussion",
+   "piano",
+   "singing"
+  ],
+  "found_by": "district-scout:mitte"
+ },
+ {
+  "id": "mitte-barenboim-said-akademie",
+  "name": "Barenboim-Said Akademie / Pierre Boulez Saal",
+  "category": "OUT",
+  "district": "Mitte",
+  "address": {
+   "street": "Französische Str. 33 D",
+   "postcode": "10117",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email": "jobs@barenboimsaid.de",
+   "email_source_url": "https://www.barenboimsaid.de/en/about/jobs",
+   "website": "https://www.barenboimsaid.de/"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-15",
+   "title": "Honorarkräfte als musikalische Mentor:innen (Musik spricht), closed",
+   "url": "https://www.barenboimsaid.de/Administration/HR/2026/BSA_Ausschreibung_Mentor_innen_Musikspricht.pdf",
+   "published": "2026-08-05"
+  },
+  "contract": {
+   "type": "honorar_hourly",
+   "evidence": "Tätigkeit auf Grundlage eines Honorarvertrags; Vergütung 40 Euro/60 min"
+  },
+  "email_language": "de",
+  "summary_en": "Private conservatory in Mitte that hired Honorar mentors for the 'Musik spricht' outreach project (40 EUR/60 min); the 2026 call closed on 2026-08-23.",
+  "sources": [
+   "https://www.barenboimsaid.de/Administration/HR/2026/BSA_Ausschreibung_Mentor_innen_Musikspricht.pdf",
+   "https://www.barenboimsaid.de/en/about/jobs",
+   "https://www.barenboimsaid.de/en/imprint"
+  ],
+  "last_verified": "2026-10-15",
+  "secondary_categories": [
+   "HOC"
+  ],
+  "conditions": {
+   "pay": "40",
+   "pay_unit": "EUR/60 min",
+   "pay_source_url": "https://www.barenboimsaid.de/Administration/HR/2026/BSA_Ausschreibung_Mentor_innen_Musikspricht.pdf",
+   "hours": "ca. 10 h/month",
+   "requirements": "abgeschlossene musikalische Hochschulausbildung (alle Instrumente) oder instrumentalistische Erfahrung; Deutsch mind. B2; pädagogische Erfahrung wünschenswert",
+   "german_level": "B2"
+  },
+  "instruments": [
+   "strings",
+   "keyboard",
+   "woodwind",
+   "brass",
+   "percussion"
+  ],
+  "instruments_detail": [
+   "orchestral instruments",
+   "piano"
+  ],
+  "found_by": "district-scout:mitte"
+ },
+ {
+  "id": "mitte-berliner-philharmoniker-education",
+  "name": "Berliner Philharmoniker, Education & Outreach",
+  "category": "OUT",
+  "district": "Mitte",
+  "address": {
+   "street": "Herbert-von-Karajan-Str. 1",
+   "postcode": "10785",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email": "education@berliner-philharmoniker.de",
+   "email_source_url": "https://www.berliner-philharmoniker.de/kontakt/",
+   "website": "https://www.berliner-philharmoniker.de/education/"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-15"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Education department of the Berlin Philharmonic (Tiergarten). No freelance call published; contact by email.",
+  "sources": [
+   "https://www.berliner-philharmoniker.de/education/",
+   "https://www.berliner-philharmoniker.de/kontakt/",
+   "https://www.berliner-philharmoniker.de/offene-stellen/"
+  ],
+  "last_verified": "2026-10-15",
+  "instruments": [
+   "strings",
+   "woodwind",
+   "brass",
+   "percussion"
+  ],
+  "instruments_detail": [
+   "orchestral instruments (education projects with orchestra musicians)"
+  ],
+  "found_by": "district-scout:mitte"
+ },
+ {
+  "id": "mitte-musikinstrumenten-museum",
+  "name": "Musikinstrumenten-Museum (Staatliches Institut für Musikforschung)",
+  "category": "OUT",
+  "district": "Mitte",
+  "address": {
+   "street": "Ben-Gurion-Str. 1",
+   "postcode": "10785",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email": "kontakt@sim.spk-berlin.de",
+   "email_source_url": "https://www.simpk.de/service/impressum.html",
+   "phone": "+49 30 254 81 135",
+   "website": "https://www.simpk.de/",
+   "email_obfuscated": true
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-15"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Museum of musical instruments in Tiergarten with school, Kita and family education programmes. No freelance or job call; jobs are posted by the SPK.",
+  "sources": [
+   "https://www.simpk.de/museum/konzerte/bildung-und-vermittlung.html",
+   "https://www.simpk.de/service/impressum.html",
+   "https://www.simpk.de/stellenangebote.html"
+  ],
+  "last_verified": "2026-10-15",
+  "instruments": [
+   "keyboard"
+  ],
+  "instruments_detail": [
+   "historic keyboard instruments (collection, concerts)"
+  ],
+  "found_by": "district-scout:mitte"
+ },
+ {
+  "id": "mitte-tutti-quanti-orchester-musikschule",
+  "name": "Tutti Quanti Orchester (Musikschule Fanny Hensel)",
+  "category": "ENS",
+  "address": {
+   "street": "Ruheplatzstr. 4",
+   "postcode": "13347",
+   "city": "Berlin"
+  },
+  "contact": {
+   "phone": "(030) 9018-47510",
+   "website": "https://www.berlin.de/musikschule-mitte/lehrangebot/ensembles-und-ergaenzungsfaecher/orchester/"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-15"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Youth chamber and adult orchestra of the Mitte district music school, plus string preparatory groups. No coach vacancy published.",
+  "sources": [
+   "https://www.berlin.de/musikschule-mitte/lehrangebot/ensembles-und-ergaenzungsfaecher/orchester/"
+  ],
+  "district": "Mitte",
+  "last_verified": "2026-10-15",
+  "instruments": [
+   "strings",
+   "woodwind"
+  ],
+  "instruments_detail": [
+   "strings",
+   "winds"
+  ],
+  "found_by": "district-scout:mitte"
+ },
+ {
+  "id": "mitte-cappella-academica-hu-berlin",
+  "name": "Cappella Academica (Sinfonieorchester der Humboldt-Universität)",
+  "category": "ENS",
+  "address": {
+   "street": "Unter den Linden 6",
+   "postcode": "10117",
+   "city": "Berlin"
+  },
+  "contact": {
+   "website": "https://www.projekte.hu-berlin.de/de/cappella"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-15"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Humboldt University symphony orchestra, rehearsing at the university in Mitte. Sectional rehearsals are led by guest Dozenten, no vacancy published.",
+  "sources": [
+   "https://www.projekte.hu-berlin.de/de/cappella",
+   "https://www.projekte.hu-berlin.de/de/cappella/archiv/archivkonzerte/programmheft_ev_2.pdf"
+  ],
+  "district": "Mitte",
+  "last_verified": "2026-10-15",
+  "instruments": [
+   "strings",
+   "woodwind",
+   "brass",
+   "percussion"
+  ],
+  "instruments_detail": [
+   "symphony orchestra instruments"
+  ],
+  "found_by": "district-scout:mitte"
+ },
+ {
+  "id": "mitte-musikschule-klangkunst-acud",
+  "name": "Musikschule Klangkunst (Berlin-Mitte, ACUD)",
+  "category": "PRV",
+  "address": {
+   "street": "Veteranenstraße 21",
+   "postcode": "10119",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email": "info@musikschule-klangkunst.de",
+   "email_source_url": "https://www.musikschule-klangkunst.de/service/jobs/",
+   "phone": "030 235946820",
+   "website": "https://www.musikschule-klangkunst.de/",
+   "email_obfuscated": true
+  },
+  "offer": {
+   "status": "initiative_welcome",
+   "title": "Honorarstelle für Geige, Klavier, Gitarre, Schlagzeug (Berlin und Potsdam)",
+   "url": "https://www.musikschule-klangkunst.de/service/jobs/",
+   "checked": "2026-10-16"
+  },
+  "contract": {
+   "type": "honorar_hourly",
+   "evidence": "Ausgebildete Lehrer:innen für eine Honorarstelle in den Fächern"
+  },
+  "email_language": "de",
+  "summary_en": "Private music school with a teaching site in the ACUD cultural centre in Mitte. Its jobs page seeks trained violin teachers on a fee basis (Honorarstelle) and asks for a short email application.",
+  "sources": [
+   "https://www.musikschule-klangkunst.de/service/jobs/",
+   "https://www.musikschule-klangkunst.de/die-schule/berlin-mitte/",
+   "https://www.musikschule-klangkunst.de/about/",
+   "https://miz.org/de/institutionen/musikschule-klangkunst-i32653"
+  ],
+  "district": "Mitte",
+  "last_verified": "2026-10-16",
+  "sites": [
+   {
+    "name": "Sitz legal (Impressum)",
+    "street": "Edisonstr. 63",
+    "postcode": "12459"
+   }
+  ],
+  "instruments": [
+   "strings",
+   "keyboard",
+   "woodwind",
+   "brass",
+   "guitar_plucked",
+   "accordion",
+   "voice",
+   "percussion"
+  ],
+  "instruments_detail": [
+   "accordion",
+   "recorder",
+   "bass",
+   "viola",
+   "cello",
+   "electric guitar",
+   "violin",
+   "singing",
+   "guitar",
+   "harp",
+   "keyboard",
+   "clarinet",
+   "piano",
+   "lute",
+   "flute",
+   "ukulele",
+   "saxophone",
+   "drums",
+   "trumpet"
+  ],
+  "found_by": "district-scout:mitte"
+ },
+ {
+  "id": "mitte-musikcoach-berlin",
+  "name": "Musikcoach Berlin",
+  "category": "PRV",
+  "address": {
+   "street": "Schwedenstraße 14",
+   "postcode": "13357",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email": "info@musikcoach-berlin.de",
+   "email_source_url": "https://musikcoach-berlin.de/kontakt/",
+   "phone": "0170 8350805",
+   "website": "https://musikcoach-berlin.de/"
+  },
+  "offer": {
+   "status": "none_found",
+   "url": "https://musikcoach-berlin.de/",
+   "checked": "2026-10-16"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Network of about ten music coaches in a Gesundbrunnen courtyard building, teaching voice, guitar, bass, piano, drums and band workshops. No strings and no jobs page.",
+  "sources": [
+   "https://musikcoach-berlin.de/",
+   "https://musikcoach-berlin.de/kontakt/",
+   "https://musikcoach-berlin.de/impressum/"
+  ],
+  "district": "Mitte",
+  "last_verified": "2026-10-16",
+  "instruments": [
+   "woodwind",
+   "brass",
+   "guitar_plucked",
+   "keyboard",
+   "percussion",
+   "voice"
+  ],
+  "instruments_detail": [
+   "singing",
+   "woodwinds",
+   "brass",
+   "guitar",
+   "ukulele",
+   "electric and double bass",
+   "piano",
+   "keyboard",
+   "drums",
+   "percussion",
+   "cajon"
+  ],
+  "found_by": "district-scout:mitte"
+ },
+ {
+  "id": "mitte-studio-balu",
+  "name": "Studio Balu",
+  "category": "PRV",
+  "address": {
+   "street": "Torfstraße 13a",
+   "postcode": "13353",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email": "info@studiobalu.de",
+   "email_source_url": "https://studiobalu.de/ueber-uns/impressum/",
+   "phone": "030 88530290",
+   "website": "https://studiobalu.de/"
+  },
+  "offer": {
+   "status": "none_found",
+   "url": "https://studiobalu.de/",
+   "checked": "2026-10-16"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Children's music and dance studio in Wedding (U9 Amrumer Strasse) run by its owner. Offers early-years music courses, not string instruments, and lists no jobs.",
+  "sources": [
+   "https://studiobalu.de/",
+   "https://studiobalu.de/ueber-uns/impressum/"
+  ],
+  "district": "Mitte",
+  "last_verified": "2026-10-16",
+  "instruments": [
+   "voice"
+  ],
+  "instruments_detail": [
+   "early childhood music courses",
+   "children choir"
+  ],
+  "found_by": "district-scout:mitte"
+ },
+ {
+  "id": "mitte-moa-musikschule",
+  "name": "moamusikschule",
+  "category": "PRV",
+  "district": "Mitte",
+  "address": {
+   "street": "Rathenower Str. 43",
+   "postcode": "10559",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "strings",
+   "woodwind",
+   "accordion",
+   "voice",
+   "keyboard"
+  ],
+  "instruments_detail": [
+   "violin",
+   "clarinet",
+   "accordion",
+   "early childhood music",
+   "instrument carousel"
+  ],
+  "contact": {
+   "website": "http://www.moamusikschule.de/",
+   "email": "info@moamusikschule.de",
+   "email_source_url": "http://www.moamusikschule.de/stellenangebote/"
+  },
+  "offer": {
+   "status": "posted",
+   "title": "Fachkräfte für Violine, Klarinette und Akkordeon (auf Honorarbasis)",
+   "url": "http://www.moamusikschule.de/stellenangebote/",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "honorar_hourly",
+   "evidence": "auf Honorarbasis"
+  },
+  "email_language": "de",
+  "summary_en": "Private music school in Moabit with early-years courses and instrument lessons for children. Its jobs page seeks violin, clarinet and accordion teachers on a fee basis.",
+  "sources": [
+   "http://www.moamusikschule.de/stellenangebote/",
+   "http://www.moamusikschule.de/impressum",
+   "https://www.kindaling.de/anbieter/moamusikschule"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-sing-akademie-zu-berlin",
+  "name": "Sing-Akademie zu Berlin",
+  "category": "CHO",
+  "district": "Mitte",
+  "address": {
+   "street": "Alt-Moabit 25",
+   "postcode": "10559",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "voice"
+  ],
+  "instruments_detail": [
+   "mixed choir",
+   "chamber choirs",
+   "girls' choirs",
+   "voice training for young singers"
+  ],
+  "contact": {
+   "website": "https://www.sing-akademie.de/",
+   "email": "buero@sing-akademie.de",
+   "email_source_url": "https://www.sing-akademie.de/de/impressum",
+   "phone": "+49 30 2091 2830"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Historic choral institution in Moabit with a main choir, chamber choirs and a girls' choir programme including individual voice training.",
+  "sources": [
+   "https://www.sing-akademie.de/de/impressum"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-rundfunkchor-berlin-sing",
+  "name": "Rundfunkchor Berlin (education programme SING!)",
+  "category": "OUT",
+  "district": "Mitte",
+  "address": {
+   "street": "Charlottenstraße 56",
+   "postcode": "10117",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "voice"
+  ],
+  "instruments_detail": [
+   "children's choirs in primary schools",
+   "training for teachers and choir leaders"
+  ],
+  "contact": {
+   "website": "https://www.rundfunkchor-berlin.de/",
+   "phone": "+49 30 20 29 87 22"
+  },
+  "offer": {
+   "status": "initiative_welcome",
+   "title": "SING!: choir leaders and music pedagogues wanted (open applications)",
+   "url": "https://www.rundfunkchor-berlin.de/sing",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Education programme of the Rundfunkchor Berlin that sets up singing choirs in primary schools. It says it is always looking for choir leaders and music or social pedagogues.",
+  "sources": [
+   "https://www.rundfunkchor-berlin.de/kontakt",
+   "https://www.rundfunkchor-berlin.de/sing"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27",
+  "secondary_categories": [
+   "CHO"
+  ]
+ },
+ {
+  "id": "mitte-staatsoper-junge-staatsoper",
+  "name": "Staatsoper Unter den Linden (Junge Staatsoper)",
+  "category": "OUT",
+  "district": "Mitte",
+  "address": {
+   "street": "Unter den Linden 7",
+   "postcode": "10117",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "strings",
+   "woodwind",
+   "brass",
+   "voice"
+  ],
+  "instruments_detail": [
+   "children's opera orchestra",
+   "children's opera projects"
+  ],
+  "contact": {
+   "website": "https://www.staatsoper-berlin.de/de/junge-staatsoper/",
+   "email": "operleben@staatsoper-berlin.de",
+   "email_source_url": "https://www.staatsoper-berlin.de/de/junge-staatsoper/",
+   "phone": "+49 30 20 35 46 97"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Education department of the Berlin State Opera with a children's opera orchestra and school opera projects.",
+  "sources": [
+   "https://www.staatsoper-berlin.de/de/junge-staatsoper/"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-konzerthaus-berlin",
+  "name": "Konzerthaus Berlin (education and audience orchestra)",
+  "category": "OUT",
+  "district": "Mitte",
+  "address": {
+   "street": "Gendarmenmarkt 2",
+   "postcode": "10117",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "strings",
+   "woodwind",
+   "brass",
+   "percussion"
+  ],
+  "instruments_detail": [
+   "audience orchestra",
+   "orchestral academy",
+   "family and children's concerts"
+  ],
+  "contact": {
+   "website": "https://www.konzerthaus.de/",
+   "email": "kontakt@konzerthaus.de",
+   "email_source_url": "https://www.konzerthaus.de/de/impressum",
+   "phone": "+49 30 20 30 9 0"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Concert hall at Gendarmenmarkt with an audience orchestra open to the public, an orchestra academy and children's programmes.",
+  "sources": [
+   "https://www.konzerthaus.de/de/engagement",
+   "https://www.konzerthaus.de/de/impressum"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-klavierschule-berenstein",
+  "name": "Klavierschule Berenstein",
+  "category": "PNO",
+  "district": "Mitte",
+  "address": {
+   "street": "Bergstraße 18",
+   "postcode": "10115",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "keyboard"
+  ],
+  "instruments_detail": [
+   "piano"
+  ],
+  "contact": {
+   "website": "https://klavierschule-berenstein.com/",
+   "email": "info@klavierschule-berenstein.com",
+   "email_source_url": "https://klavierschule-berenstein.com/impressum",
+   "phone": "030 214 724 60"
+  },
+  "offer": {
+   "status": "initiative_welcome",
+   "title": "Klavierlehrer*innen gesucht (Standort Schliemannstraße)",
+   "url": "https://klavierschule-berenstein.com/jobs",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "honorar_hourly",
+   "evidence": "faire Vergütung auf Honorarbasis"
+  },
+  "email_language": "de",
+  "summary_en": "Piano school in Mitte with a second site in Prenzlauer Berg, teaching children, teenagers and adults. Its jobs page seeks piano teachers on a fee basis for the Prenzlauer Berg site.",
+  "sources": [
+   "https://klavierschule-berenstein.com/",
+   "https://klavierschule-berenstein.com/impressum",
+   "https://klavierschule-berenstein.com/jobs"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27",
+  "sites": [
+   {
+    "name": "Standort Prenzlauer Berg (Schliemannstraße)"
+   }
+  ]
+ },
+ {
+  "id": "mitte-berliner-domkantorei",
+  "name": "Berliner Domkantorei (Berliner Dom)",
+  "category": "CHO",
+  "district": "Mitte",
+  "address": {
+   "street": "Am Lustgarten",
+   "postcode": "10178",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "voice"
+  ],
+  "instruments_detail": [
+   "oratorio choir",
+   "chamber choir",
+   "motet choir"
+  ],
+  "contact": {
+   "website": "https://www.berlinerdom.de/musik/unsere-musiker/berliner-domkantorei/",
+   "email": "domkantorei@berlinerdom.de",
+   "email_source_url": "https://www.berlinerdom.de/musik/unsere-musiker/berliner-domkantorei/"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Amateur choirs of the Berlin Cathedral (oratorio choir, chamber choir, motet choir) that admit singers after an audition.",
+  "sources": [
+   "https://www.berlinerdom.de/musik/unsere-musiker/berliner-domkantorei/",
+   "https://www.berlinerdom.de/impressum/"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ }
+]

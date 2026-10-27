@@ -1,0 +1,167 @@
+[
+  {
+    "id": "MUN",
+    "label_en": "Municipal music school",
+    "description_en": "District-run Musikschule (bezirkliche Musikschule): public teaching for children and adults, usually with several branches.",
+    "layer": "teaching_music",
+    "color": "#1A7F37",
+    "municipal": true,
+    "keywords_de": [
+      "Musikschule Bezirksamt",
+      "bezirkliche Musikschule",
+      "Musikschule Fachgruppe"
+    ],
+    "keywords_en": [
+      "municipal music school Berlin",
+      "public music school Berlin"
+    ]
+  },
+  {
+    "id": "PRV",
+    "label_en": "Private music school or academy",
+    "description_en": "Independent music schools, academies and studios teaching one or several instruments to a general public.",
+    "layer": "teaching_music",
+    "color": "#F28E2B",
+    "municipal": false,
+    "keywords_de": [
+      "Musikschule privat",
+      "Musikakademie",
+      "Instrumentalunterricht Berlin",
+      "Musikunterricht Kinder Erwachsene"
+    ],
+    "keywords_en": [
+      "private music school Berlin",
+      "music academy Berlin",
+      "instrument lessons Berlin"
+    ]
+  },
+  {
+    "id": "PNO",
+    "label_en": "Piano school",
+    "description_en": "Schools or studios dedicated mainly to piano and keyboard teaching. A music school that teaches piano among other instruments stays in PRV.",
+    "layer": "teaching_music",
+    "color": "#17A398",
+    "municipal": false,
+    "keywords_de": [
+      "Klavierschule",
+      "Klavierunterricht Berlin",
+      "Klavierstudio"
+    ],
+    "keywords_en": [
+      "piano school Berlin",
+      "piano lessons Berlin"
+    ]
+  },
+  {
+    "id": "WND",
+    "label_en": "Wind band or wind school",
+    "description_en": "Wind and brass bands, wind-instrument schools and youth wind ensembles that teach players. A general music school that offers wind instruments stays in PRV or MUN.",
+    "layer": "teaching_music",
+    "color": "#D62728",
+    "municipal": false,
+    "keywords_de": [
+      "Blasorchester",
+      "Bläserschule",
+      "Blasmusik",
+      "Posaunenchor",
+      "Jugendblasorchester"
+    ],
+    "keywords_en": [
+      "wind band Berlin",
+      "brass band Berlin",
+      "wind music school Berlin"
+    ]
+  },
+  {
+    "id": "EDU",
+    "label_en": "School or college with instrument classes",
+    "description_en": "General schools, Gymnasien with a music profile and international schools that offer instrument lessons, string classes or orchestras.",
+    "layer": "teaching_music",
+    "color": "#E6B800",
+    "municipal": false,
+    "keywords_de": [
+      "Schule mit Musikprofil",
+      "Streicherklasse",
+      "Bläserklasse",
+      "Schulorchester",
+      "Instrumentalunterricht Schule"
+    ],
+    "keywords_en": [
+      "school with music profile Berlin",
+      "school orchestra Berlin",
+      "instrument classes school Berlin"
+    ]
+  },
+  {
+    "id": "HOC",
+    "label_en": "Conservatory or university music department",
+    "description_en": "Hochschulen and university institutes that employ instrumental teachers (Lehrauftrag) or run pre-college programmes.",
+    "layer": "teaching_music",
+    "color": "#7B3FA0",
+    "municipal": false,
+    "keywords_de": [
+      "Hochschule für Musik",
+      "Lehrauftrag Musik",
+      "studienvorbereitende Ausbildung"
+    ],
+    "keywords_en": [
+      "music conservatory Berlin",
+      "university music department Berlin"
+    ]
+  },
+  {
+    "id": "ENS",
+    "label_en": "Amateur or youth orchestra and ensemble",
+    "description_en": "Amateur, youth and university orchestras and chamber ensembles that hire section coaches or conductors.",
+    "layer": "teaching_music",
+    "color": "#8C564B",
+    "municipal": false,
+    "keywords_de": [
+      "Jugendorchester",
+      "Laienorchester",
+      "Kammerorchester Amateur",
+      "Streichorchester"
+    ],
+    "keywords_en": [
+      "youth orchestra Berlin",
+      "amateur orchestra Berlin"
+    ]
+  },
+  {
+    "id": "OUT",
+    "label_en": "Music outreach programme",
+    "description_en": "Education and outreach (Musikvermittlung) programmes of concert halls, orchestras and cultural institutions that hire freelance music teachers.",
+    "layer": "teaching_music",
+    "color": "#6A00FF",
+    "municipal": false,
+    "keywords_de": [
+      "Musikvermittlung",
+      "Education Programm Orchester",
+      "Konzerthaus Education"
+    ],
+    "keywords_en": [
+      "music outreach Berlin",
+      "orchestra education programme Berlin"
+    ]
+  },
+  {
+    "id": "CHO",
+    "label_en": "Choir or vocal institution",
+    "description_en": "Choirs, vocal ensembles, singing schools and vocal-training institutions. A music school that teaches singing among other subjects stays in PRV or MUN.",
+    "layer": "singing",
+    "color": "#E377C2",
+    "municipal": false,
+    "keywords_de": [
+      "Chor Berlin",
+      "Gesangsschule",
+      "Gesangsunterricht",
+      "Kinderchor",
+      "Singakademie"
+    ],
+    "keywords_en": [
+      "choir Berlin",
+      "singing school Berlin",
+      "vocal ensemble Berlin"
+    ]
+  }
+]

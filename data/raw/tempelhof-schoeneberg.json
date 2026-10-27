@@ -1,0 +1,471 @@
+[
+  {
+    "id": "tempelhof-schoeneberg-leo-kestenberg-musikschule",
+    "name": "Leo Kestenberg Musikschule Tempelhof-Schöneberg",
+    "category": "MUN",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Grunewaldstraße 6-7",
+      "postcode": "10823",
+      "city": "Berlin"
+    },
+    "sites": [
+      {
+        "name": "Zweigstelle Schöneberg",
+        "street": "Ebersstraße 9",
+        "postcode": "10827"
+      },
+      {
+        "name": "Standort Alt-Mariendorf",
+        "street": "Alt-Mariendorf 43",
+        "postcode": "12107"
+      },
+      {
+        "name": "Gemeinschaftshaus Lichtenrade",
+        "street": "Barnetstraße 11",
+        "postcode": "12305"
+      },
+      {
+        "name": "Dietrich-Bonhoeffer-Kirche Lichtenrade",
+        "street": "Rackebüller Weg 64",
+        "postcode": "12305"
+      },
+      {
+        "name": "Nachbarschaftszentrum Steinmetzstraße",
+        "street": "Steinmetzstraße 68",
+        "postcode": "10783"
+      },
+      {
+        "name": "Nachbarschaftsheim Weiße Rose",
+        "street": "Martin-Luther-Straße 77",
+        "postcode": "10825"
+      }
+    ],
+    "contact": {
+      "phone": "030 90277 6967",
+      "website": "https://www.lkms.de",
+      "email": "kontakt@lkms.de",
+      "email_source_url": "https://www.lkms.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "mixed",
+      "evidence": "E9b/E10 TV Musikschullehrkräfte Land Berlin (closed 2026 postings of the Tempelhof-Schöneberg music school)",
+      "is_guess": false
+    },
+    "conditions": {
+      "pay": "34,85 (Honorarsatz 1, with full qualification, 2026 table)",
+      "pay_unit": "EUR/45 min",
+      "pay_source_url": "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/av-mus-honorare-gesamt_neu.pdf",
+      "requirements": "The 2026 ads ask for an equivalent degree (anabin or ZAB for foreign degrees). AV MuS-Honorare expires on 31.12.2026: 2027 conditions yet to be published."
+    },
+    "email_language": "de",
+    "summary_en": "District music school with a strings department (violin, viola) and an orchestra school. No open string post found; the strings head is the contact for freelance (Honorar) applications.",
+    "sources": [
+      "https://www.lkms.de",
+      "https://lkms.de/streichinstrumente.html",
+      "https://lkms.de/impressum.html",
+      "https://www.berlin.de/sen/kultur/kultureinrichtungen/musikschulen/adressen/",
+      "https://lkms.de/orte.html",
+      "https://www.lkms.de/willkommen"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "strings",
+      "guitar and plucked instruments",
+      "wind instruments",
+      "drums and percussion",
+      "jazz, rock, pop",
+      "keyboard instruments",
+      "voice",
+      "early music",
+      "accordion",
+      "music theory",
+      "elementary music education"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg"
+  },
+  {
+    "id": "tempelhof-schoeneberg-bb-musikschule",
+    "name": "B&B Musikschule Berlin",
+    "category": "PRV",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Dominicusstraße 32",
+      "postcode": "10827",
+      "city": "Berlin"
+    },
+    "last_verified": "2026-10-27",
+    "email_language": "de",
+    "contact": {
+      "email": "info@bb-musikstudio.de",
+      "email_source_url": "https://www.bb-musikschule.de/kontakt",
+      "phone": "0173 8408934",
+      "website": "https://www.bb-musikschule.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "conditions": {
+      "requirements": "The website says the partners teach and that freelance teachers use the rooms; it does not publish conditions for teaching staff."
+    },
+    "summary_en": "Small private music school in Schöneberg teaching violin and viola, with freelance teachers using its rooms. No job page; speculative application possible.",
+    "sources": [
+      "https://www.bb-musikschule.de",
+      "https://www.bb-musikschule.de/kontakt",
+      "https://miz.org/de/institutionen/bb-musikschule-i38883"
+    ],
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "voice"
+    ],
+    "instruments_detail": [
+      "voice (classical, pop, rock, jazz)",
+      "piano",
+      "keyboard",
+      "guitar",
+      "electric guitar",
+      "electric bass",
+      "ukulele",
+      "trumpet",
+      "saxophone",
+      "clarinet",
+      "flute",
+      "tin whistle",
+      "recorder",
+      "violin",
+      "viola",
+      "cello",
+      "double bass"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg"
+  },
+  {
+    "id": "tempelhof-schoeneberg-simplay-musikschule",
+    "name": "simplay Musikschule",
+    "category": "PRV",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Friedrich-Wilhelm-Platz 9",
+      "postcode": "12161",
+      "city": "Berlin"
+    },
+    "last_verified": "2026-10-27",
+    "email_language": "de",
+    "sites": [
+      {
+        "name": "simplay Bundesallee",
+        "street": "Bundesallee 77",
+        "postcode": "12161"
+      },
+      {
+        "name": "simplay Blankenbergstraße (Impressum)",
+        "street": "Blankenbergstraße 12",
+        "postcode": "12161"
+      }
+    ],
+    "contact": {
+      "email": "info@simplay.de",
+      "email_source_url": "https://www.simplay.de/impressum",
+      "phone": "030 7974 7699",
+      "website": "https://www.simplay.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "conditions": {
+      "requirements": "The website highlights professionally trained and certified teaching staff."
+    },
+    "summary_en": "Certified private music school in Friedenau with three sites, offering violin and viola and string ensembles. No job page found; send a speculative application.",
+    "sources": [
+      "https://www.simplay.de",
+      "https://www.simplay.de/impressum",
+      "https://miz.org/de/musikleben/institutionen/musikschulen/berlin"
+    ],
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "accordion",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "piano",
+      "keyboard",
+      "organ",
+      "accordion",
+      "guitar",
+      "electric guitar",
+      "ukulele",
+      "double bass",
+      "electric bass",
+      "cello",
+      "violin",
+      "viola",
+      "saxophone",
+      "clarinet",
+      "trumpet",
+      "flute",
+      "recorder",
+      "horn",
+      "oboe",
+      "voice",
+      "drums and percussion"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg"
+  },
+  {
+    "id": "tempelhof-schoeneberg-streicherklassen-punkt-berlin",
+    "name": "STREICHERKLASSEN punkt BERLIN",
+    "category": "PRV",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Eisenacher Str. 47",
+      "postcode": "10823",
+      "city": "Berlin"
+    },
+    "last_verified": "2026-10-27",
+    "email_language": "de",
+    "contact": {
+      "website": "https://streicherklassen.berlin",
+      "email": "kontakt@streicherklassen.berlin",
+      "email_source_url": "https://streicherklassen.berlin/kontakt/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "conditions": {
+      "requirements": "Does not publish conditions for teaching staff."
+    },
+    "summary_en": "Private string-only music school in Schöneberg teaching violin, viola, cello and double bass in a mixed string orchestra. No job page; speculative application possible.",
+    "sources": [
+      "https://streicherklassen.berlin",
+      "https://streicherklassen.berlin/kontakt/",
+      "https://streicherklassen.berlin/impressum-datenschutz/",
+      "https://miz.org/de/institutionen/streicherklassen-punkt-berlin-i34200"
+    ],
+    "instruments": [
+      "strings"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg"
+  },
+  {
+    "id": "tempelhof-schoeneberg-deutsch-tuerkische-musikakademie",
+    "name": "Deutsch-Türkische Musikakademie gGmbH",
+    "category": "PRV",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Kyffhäuserstraße 23",
+      "postcode": "10781",
+      "city": "Berlin"
+    },
+    "last_verified": "2026-10-27",
+    "email_language": "de",
+    "contact": {
+      "website": "https://www.d-t-musikakademie.de",
+      "email": "info@d-t-musikakademie.de",
+      "email_source_url": "https://www.d-t-musikakademie.de/impressum/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "conditions": {
+      "requirements": "Does not publish conditions for teaching staff."
+    },
+    "summary_en": "Non-profit music academy in Schöneberg offering violin in Western and classical Turkish style, with English-speaking violin teachers. No job page found.",
+    "sources": [
+      "https://www.d-t-musikakademie.de",
+      "https://www.d-t-musikakademie.de/streichinstrumente/",
+      "https://www.d-t-musikakademie.de/dozenten/",
+      "https://www.d-t-musikakademie.de/impressum/"
+    ],
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "woodwind",
+      "brass",
+      "strings",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "keyboard instruments",
+      "plucked instruments",
+      "wind instruments",
+      "bowed strings (violin)",
+      "percussion",
+      "choir and singing"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg"
+  },
+  {
+    "id": "tempelhof-schoeneberg-internationale-musikschule-berlin",
+    "name": "Internationale Musikschule Berlin",
+    "category": "PRV",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Eisenacher Straße 49",
+      "postcode": "10823",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "strings",
+      "woodwind",
+      "voice"
+    ],
+    "instruments_detail": [
+      "piano",
+      "guitar",
+      "violin",
+      "cello",
+      "recorder",
+      "flute",
+      "voice",
+      "composition",
+      "music theory",
+      "early music education"
+    ],
+    "contact": {
+      "email": "musikschule@ims-berlin.de",
+      "email_source_url": "https://www.musik-schule-berlin.de/impressum/",
+      "phone": "030 27595300",
+      "website": "https://www.musik-schule-berlin.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private international music school with lessons in piano, guitar, violin, cello, recorder, flute and voice, plus early music education. No teacher recruitment page found.",
+    "sources": [
+      "https://www.musik-schule-berlin.de/",
+      "https://www.musik-schule-berlin.de/impressum/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "tempelhof-schoeneberg-piano-insel",
+    "name": "Piano Insel Berlin",
+    "category": "PNO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Martin-Luther-Straße 78",
+      "postcode": "10825",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "keyboard"
+    ],
+    "instruments_detail": [
+      "piano"
+    ],
+    "contact": {
+      "website": "https://klavierunterrichtinberlin.com/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Stellenausschreibungen: piano teachers wanted",
+      "url": "https://klavierunterrichtinberlin.com/stellenausschreibungen",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "faire Vergütung auf Honorarbasis"
+    },
+    "conditions": {
+      "requirements": "Completed piano degree, stage experience, good German (English and other languages an advantage)."
+    },
+    "email_language": "de",
+    "summary_en": "Piano-only studio in Schöneberg that invites qualified piano teachers to apply, paid on a fee basis. Applications go through the website form.",
+    "sources": [
+      "https://klavierunterrichtinberlin.com/",
+      "https://klavierunterrichtinberlin.com/stellenausschreibungen"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "tempelhof-schoeneberg-konzertchor-friedenau",
+    "name": "Konzertchor Friedenau",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Taunusstraße 6",
+      "postcode": "12161",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing"
+    ],
+    "contact": {
+      "phone": "030 82 70 76 42",
+      "website": "https://www.konzertchorfriedenau.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur concert choir of about 100 singers under professional artistic direction, founded in 1987 at the Nachbarschaftsheim Schöneberg. It invites experienced singers to join.",
+    "sources": [
+      "https://www.konzertchorfriedenau.de/",
+      "https://menzeldorf.nbhs.de/fileadmin/nachbarschaftsheim/freizeit_kultur/downloads/Konzertchor_Friedenau/konzertchor20jahre.pdf"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27"
+  }
+]
