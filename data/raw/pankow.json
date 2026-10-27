@@ -649,5 +649,649 @@
     ],
     "found_by": "district-scout:pankow",
     "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-klavierschule-berlin",
+    "name": "Klavierschule Berlin",
+    "category": "PNO",
+    "district": "Pankow",
+    "address": {
+      "street": "Lychener Straße 12",
+      "postcode": "10437",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "keyboard"
+    ],
+    "instruments_detail": [
+      "piano"
+    ],
+    "contact": {
+      "website": "https://klavierschule-berlin.com/",
+      "email": "mail@klavierschule-berlin.com",
+      "email_source_url": "https://klavierschule-berlin.com/kontakt.htm",
+      "phone": "030-52686280"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Klavierlehrer gesucht - Honorarstelle Klavier",
+      "url": "https://klavierschule-berlin.com/",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "sucht qualifizierte Honorarkräfte für ein bis zwei Tage/Woche",
+      "is_guess": false
+    },
+    "email_language": "de",
+    "summary_en": "Piano school in Prenzlauer Berg for children, teens and adults. Its homepage seeks freelance piano teachers for one to two days a week.",
+    "sources": [
+      "https://klavierschule-berlin.com/",
+      "https://klavierschule-berlin.com/kontakt.htm"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-klavierschule-berenstein-prenzlauer-berg",
+    "name": "Klavierschule Berenstein",
+    "category": "PNO",
+    "district": "Pankow",
+    "address": {
+      "street": "Schliemannstraße 17",
+      "postcode": "10437",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "keyboard"
+    ],
+    "instruments_detail": [
+      "piano"
+    ],
+    "contact": {
+      "website": "https://klavierschule-berenstein.com/",
+      "email": "info@klavierschule-berenstein.com",
+      "email_source_url": "https://klavierschule-berenstein.com/impressum-2/"
+    },
+    "offer": {
+      "status": "posted",
+      "title": "Klavierlehrkräfte (m/w) für den Standort Schliemanstrasse",
+      "url": "https://klavierschule-berenstein.com/jobs/",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "faire Vergütung auf Honorarbasis",
+      "is_guess": false
+    },
+    "email_language": "de",
+    "summary_en": "Piano-only school with a Prenzlauer Berg site and two sites in Mitte. Its jobs page seeks piano teachers for the Schliemannstraße site on a fee basis.",
+    "sources": [
+      "https://klavierschule-berenstein.com/",
+      "https://klavierschule-berenstein.com/kontakt/",
+      "https://klavierschule-berenstein.com/jobs/",
+      "https://klavierschule-berenstein.com/impressum-2/"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "sites": [
+      {
+        "name": "Standort 1 Mitte",
+        "street": "Bergstraße 18",
+        "postcode": "10115"
+      },
+      {
+        "name": "Standort 2 Mitte",
+        "street": "Wöhlertstraße 11",
+        "postcode": "10115"
+      }
+    ]
+  },
+  {
+    "id": "pankow-kantorei-hoffnungskirche",
+    "name": "Kantorei der Hoffnungskirche Pankow",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Elsa-Brändström-Straße 36",
+      "postcode": "13189",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "church music"
+    ],
+    "contact": {
+      "website": "https://www.hoffnungskirche-pankow.de/",
+      "email": "gemeinde@hoffnungskirche-pankow.de",
+      "email_source_url": "https://www.hoffnungskirche-pankow.de/musik-kultur/chore-instrumentalgruppen/unsere-kantorei"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choir of about 60 singers that gives concerts with professional orchestras and soloists. It rehearses on Wednesday evenings in the parish hall.",
+    "sources": [
+      "https://www.hoffnungskirche-pankow.de/musik-kultur/chore-instrumentalgruppen/unsere-kantorei",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-blaeserchor-hoffnungskirche",
+    "name": "Bläserchor der Hoffnungskirche Pankow",
+    "category": "WND",
+    "district": "Pankow",
+    "address": {
+      "street": "Elsa-Brändström-Straße 36",
+      "postcode": "13189",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass instruments"
+    ],
+    "contact": {
+      "website": "https://www.hoffnungskirche-pankow.de/page/135/blaeserchor",
+      "email": "gemeinde@hoffnungskirche-pankow.de",
+      "email_source_url": "https://www.hoffnungskirche-pankow.de/page/135/blaeserchor"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass choir that rehearses about every two weeks on Tuesday evenings and welcomes new players.",
+    "sources": [
+      "https://www.hoffnungskirche-pankow.de/page/135/blaeserchor",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/posaunenchore-im-evangelischen-kirchenkreis-berlin-nord-ost"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-konzertchor-niederschoenhausen",
+    "name": "Konzertchor Niederschönhausen",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Dietzgenstraße 19-23",
+      "postcode": "13156",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "concert choir"
+    ],
+    "contact": {
+      "website": "https://konzertchor-niederschoenhausen.de/",
+      "email": "vorstand@verein-friedenskirche.de",
+      "email_source_url": "https://konzertchor-niederschoenhausen.de/index.php/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Concert choir of the Friedenskirche in Niederschönhausen, currently rehearsing Cherubini's Requiem in C minor. It rehearses on Monday evenings.",
+    "sources": [
+      "https://konzertchor-niederschoenhausen.de/index.php/impressum",
+      "https://www.friedenskirche-nordend.de/project/kirchenmusik/",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-blaeserchor-friedenskirche-niederschoenhausen",
+    "name": "Bläserchor der Friedenskirche Niederschönhausen",
+    "category": "WND",
+    "district": "Pankow",
+    "address": {
+      "street": "Dietzgenstraße 19-23",
+      "postcode": "13156",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass choir",
+      "junior brass players"
+    ],
+    "contact": {
+      "website": "https://www.friedenskirche-nordend.de/project/kirchenmusik/",
+      "email": "buero@friedenskirche-nordend.de",
+      "email_source_url": "https://www.friedenskirche-nordend.de/project/kirchenmusik/",
+      "phone": "+49 30 4762900"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass choir with a junior group (Jungbläser), both rehearsing on Tuesday evenings in the parish hall. The parish also runs a church choir and a children's choir.",
+    "sources": [
+      "https://www.friedenskirche-nordend.de/project/kirchenmusik/",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/posaunenchore-im-evangelischen-kirchenkreis-berlin-nord-ost"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-posaunenchor-weissensee",
+    "name": "Posaunenchor der Kirchengemeinde Weißensee",
+    "category": "WND",
+    "district": "Pankow",
+    "address": {
+      "street": "Mirbachplatz 2",
+      "postcode": "13086",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "trombone choir",
+      "brass instruments"
+    ],
+    "contact": {
+      "website": "https://kirchengemeinde-weissensee.de/blaeserchor/",
+      "email": "buero@kirchengemeinde-weissensee.de",
+      "email_source_url": "https://kg-ws.de/impressum/",
+      "phone": "(030) 960 66 79 13"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass choir that rehearses on Wednesday afternoons and says it always seeks new players. Beginners can have free lessons and borrow an instrument.",
+    "sources": [
+      "https://kirchengemeinde-weissensee.de/blaeserchor/",
+      "https://kg-ws.de/impressum/",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/posaunenchore-im-evangelischen-kirchenkreis-berlin-nord-ost"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-chor-kirchengemeinde-weissensee",
+    "name": "Chor der Kirchengemeinde Weißensee",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Mirbachplatz 2",
+      "postcode": "13086",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "church music"
+    ],
+    "contact": {
+      "website": "https://kirchengemeinde-weissensee.de/chor/",
+      "email": "buero@kirchengemeinde-weissensee.de",
+      "email_source_url": "https://kg-ws.de/impressum/",
+      "phone": "(030) 960 66 79 13"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choir that rehearses on Tuesday evenings in the parish hall at Mirbachplatz and welcomes new singers.",
+    "sources": [
+      "https://kirchengemeinde-weissensee.de/chor/",
+      "https://kg-ws.de/impressum/",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-kantorei-alt-pankow",
+    "name": "Kantorei Alt-Pankow",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Breite Straße 38",
+      "postcode": "13187",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "church music"
+    ],
+    "contact": {
+      "website": "https://alt-pankow.de/kirchenchor/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choir that rehearses on Monday evenings in the Gemeindehaus Alt-Pankow and seeks tenors, basses and high sopranos.",
+    "sources": [
+      "https://alt-pankow.de/kirchenchor/",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-kantorei-franzoesisch-buchholz",
+    "name": "Kantorei Französisch Buchholz",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Hauptstraße 58",
+      "postcode": "13127",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "church music"
+    ],
+    "contact": {
+      "website": "https://www.evangelisch-buchholz.de/mitmachen/kantorei",
+      "email": "pfarramt@evangelisch-buchholz.de",
+      "email_source_url": "https://www.evangelisch-buchholz.de/impressum",
+      "phone": "+49 30 4742850"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish Kantorei that rehearses on Tuesday evenings; no choir experience is required.",
+    "sources": [
+      "https://www.evangelisch-buchholz.de/mitmachen/kantorei",
+      "https://www.evangelisch-buchholz.de/impressum",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-chore-martin-luther-kirchengemeinde-pankow",
+    "name": "Chöre der Martin-Luther-Kirchengemeinde Pankow (Lutherhaus)",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Pradelstraße 11",
+      "postcode": "13187",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "pop choir",
+      "children's choir"
+    ],
+    "contact": {
+      "website": "https://lutherhaus-pankow.de/",
+      "email": "buero@lutherhaus-pankow.de",
+      "email_source_url": "https://lutherhaus-pankow.de/impressum",
+      "phone": "030 485 68 74"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choirs at the Lutherhaus: an open Lutherchor on Tuesdays, a regional pop choir on Wednesdays and a regional children's choir.",
+    "sources": [
+      "https://lutherhaus-pankow.de/",
+      "https://lutherhaus-pankow.de/lutherchor",
+      "https://lutherhaus-pankow.de/regionaler-popchor",
+      "https://lutherhaus-pankow.de/impressum"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-posaunenchor-rosenthal-wilhelmsruh",
+    "name": "Posaunenchor Rosenthal-Wilhelmsruh",
+    "category": "WND",
+    "district": "Pankow",
+    "address": {
+      "street": "Hauptstraße 153",
+      "postcode": "13158",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass instruments"
+    ],
+    "contact": {
+      "website": "https://kirche-rosenthal-wilhelmsruh.de/angebote/musik/posaunenchor.html",
+      "phone": "030 9123 600"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Brass choir of about twelve players that rehearses on Wednesdays at the Wilhelmsruh parish hall. Newcomers and beginners are welcome.",
+    "sources": [
+      "https://kirche-rosenthal-wilhelmsruh.de/angebote/musik/posaunenchor.html",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/posaunenchore-im-evangelischen-kirchenkreis-berlin-nord-ost"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "sites": [
+      {
+        "name": "Probenort Gemeindesaal Wilhelmsruh",
+        "street": "Goethestraße 3",
+        "postcode": "13158"
+      }
+    ]
+  },
+  {
+    "id": "pankow-kirchenchor-rosenthal-wilhelmsruh",
+    "name": "Kirchenchor Rosenthal-Wilhelmsruh",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Hauptstraße 153",
+      "postcode": "13158",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "church music"
+    ],
+    "contact": {
+      "website": "https://kirche-rosenthal-wilhelmsruh.de/angebote/musik/kirchenchor.html",
+      "phone": "030 9123 600"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choir that rehearses on Thursday evenings at the Wilhelmsruh parish hall; newcomers are welcome at any time.",
+    "sources": [
+      "https://kirche-rosenthal-wilhelmsruh.de/angebote/musik/kirchenchor.html",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "sites": [
+      {
+        "name": "Probenort Gemeindehaus Wilhelmsruh",
+        "street": "Goethestraße 3",
+        "postcode": "13158"
+      }
+    ]
+  },
+  {
+    "id": "pankow-westerland-musikschule",
+    "name": "Westerland Musikschule",
+    "category": "PRV",
+    "district": "Pankow",
+    "address": {
+      "street": "Prenzlauer Promenade 149-152",
+      "postcode": "13189",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "piano",
+      "keyboard",
+      "acoustic guitar",
+      "electric guitar",
+      "electric bass",
+      "double bass",
+      "tenor banjo / mandolin",
+      "5-string banjo",
+      "ukulele",
+      "violin",
+      "viola",
+      "cello",
+      "drums",
+      "percussion",
+      "trumpet",
+      "recorder",
+      "clarinet",
+      "flute",
+      "saxophone",
+      "trombone",
+      "tuba",
+      "singing",
+      "speech and presence training"
+    ],
+    "contact": {
+      "email": "info@westerlandschule.de",
+      "email_source_url": "https://www.westerlandschule.de/impressum",
+      "phone": "030 4730 7000",
+      "website": "https://www.westerlandschule.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school at Pankow with lessons in keyboard, plucked and bowed strings, winds, brass, percussion and singing, plus early music education and music theory.",
+    "sources": [
+      "https://www.westerlandschule.de/",
+      "https://www.westerlandschule.de/unterricht",
+      "https://www.westerlandschule.de/impressum",
+      "https://www.westerlandschule.de/kontakt"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-chor-st-hedwigs-kathedrale",
+    "name": "Chor der Sankt Hedwigs-Kathedrale (Kathedralmusik, Jugendkathedralchor)",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Fehrbelliner Straße 99",
+      "postcode": "10119",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "cathedral choir",
+      "youth cathedral choir (ages 6 to 18)",
+      "preparatory children's choir"
+    ],
+    "contact": {
+      "website": "https://www.hedwigschor-berlin.de/",
+      "email": "info@hedwigschor-berlin.de",
+      "email_source_url": "https://www.hedwigschor-berlin.de/ansprechpartner/buero-kathedralmusik/",
+      "email_obfuscated": true,
+      "phone": "030 308 77 98 0"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Music office of St. Hedwig's Cathedral with the cathedral choir, a youth choir of about 40 children and teenagers and a preparatory choir. No job or voice-training vacancy is listed.",
+    "sources": [
+      "https://www.hedwigschor-berlin.de/",
+      "https://www.hedwigschor-berlin.de/ansprechpartner/buero-kathedralmusik/"
+    ],
+    "found_by": "district-scout:mitte",
+    "last_verified": "2026-10-27"
   }
 ]

@@ -25,3 +25,17 @@ duckduckgo html (ECONNRESET), bdfm.de (connection refused), schadow-gymnasium.de
 
 ## Outside district
 None found.
+
+## Second pass (2026-10-27)
+- Added 7: CHO Zehlendorfer Pauluskantorei, Johanneskantorei Lichterfelde, Matthäus-Kantorei Steglitz, Shalom Chor Berlin; WND Posaunenchor Johannes Lichterfelde, Bläserchor Matthäus Steglitz; EDU Hermann-Ehlers-Gymnasium (no generic email on site, phone only).
+- Church choirs and brass choirs are listed with `none_found` offers: the pages recruit singers/players, not teachers. The Johannes parish church-musician post (deadline 2026-02-28) is expired and is not instrumental teaching.
+- No new PNO entity: Gelbe Seiten Klavierunterricht for the district lists only individual teachers. Piano Academy Berlin (Kissinger Str. 14, 12157) is a piano school but in Tempelhof-Schöneberg.
+- Searches: 14 WebSearch calls (mostly irrelevant results); Gelbe Seiten lists (musikschule, chor, klavierunterricht, gesangsunterricht, blasorchester); miz.org search page (no usable results).
+- Failed: paulus-zehlendorf.de, johannes-lichterfelde.de, kirche-lichterfelde.de (Cloudflare check), schadow-gymnasium.de (SSL error, not bypassed), lilienthal-gymnasium.de (resolves to Anklam, wrong), dorfkirche-zehlendorf.de (domain for sale), Kinderchor Paulinchen page (reset).
+- Not added, no official site found: Freie Musikschule Lichterfelde-West (Baseler Str. 69), The Music School - music is fun (Lupsteiner Weg 68A), Musikschule Düppelstr. 22, Private Musikschule Johannes Knebel (person name), Paula Fürst Musikschule.
+- Candidates not yet checked: Lichterfelde and Lankwitz Posaunenchöre other than Johannes, Kantoreien of Dahlem, Nikolassee, Lankwitz; Schadow-Gymnasium.
+- Johannes Posaunenchor page shows an obfuscated personal-looking mailbox; the parish office mailbox info@ is used instead.
+
+### Outside district (second pass)
+- Piano Academy Berlin, Kissinger Str. 14, 12157 Berlin (Tempelhof-Schöneberg), https://www.piano-academy-berlin.de/
+- Philharmonischer Chor Berlin e.V., Bayreuther Str. 8, 10787 Berlin (Charlottenburg-Wilmersdorf/Schöneberg area), https://philharmonischer-chor.berlin/

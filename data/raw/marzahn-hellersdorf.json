@@ -268,5 +268,226 @@
       "https://www.johann-strauss-grundschule.de/musikbetonung/",
       "https://www.johann-strauss-grundschule.de/impressum-und-datenschutz/"
     ]
+  },
+  {
+    "id": "marzahn-hellersdorf-posaunenchor-kirchengemeinde-hellersdorf",
+    "name": "Posaunenchor und Jugendpopchor der Ev. Kirchengemeinde Berlin-Hellersdorf",
+    "category": "WND",
+    "address": {
+      "street": "Glauchauer Straße 7",
+      "postcode": "12627",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 99 18 013",
+      "email": "ev-kg-hellersdorf@t-online.de",
+      "email_source_url": "https://www.ev-kirche-hellersdorf.de/impressum",
+      "website": "https://www.ev-kirche-hellersdorf.de/"
+    },
+    "instruments": [
+      "brass",
+      "voice"
+    ],
+    "instruments_detail": [
+      "brass (Posaunenchor, jazz and Dixie group Colour Brass)",
+      "youth pop choir",
+      "band"
+    ],
+    "summary_en": "Parish brass choir rehearsing on Thursdays in the church, plus a youth pop choir and band. Newcomers and returning brass players are welcome; no teaching post confirmed as open.",
+    "sources": [
+      "https://www.ev-kirche-hellersdorf.de/gemeindeleben/singen-und-musizieren/posaunenchor",
+      "https://www.ev-kirche-hellersdorf.de/gemeindeleben/singen-und-musizieren/jugendpopchor",
+      "https://www.ev-kirche-hellersdorf.de/impressum"
+    ],
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    }
+  },
+  {
+    "id": "marzahn-hellersdorf-gemeindechor-versoehnungskirchengemeinde-biesdorf",
+    "name": "Gemeindechor der Ev. Versöhnungskirchengemeinde Berlin-Biesdorf",
+    "category": "CHO",
+    "address": {
+      "street": "Alt-Biesdorf 59",
+      "postcode": "12683",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 514 35 93",
+      "email": "info@ev-kirche-biesdorf.de",
+      "email_source_url": "https://www.ev-kirche-biesdorf.de/kontakt/impressum.html",
+      "website": "https://www.ev-kirche-biesdorf.de/"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "church choir",
+      "gospel choir",
+      "handbell choir"
+    ],
+    "summary_en": "Parish music with a church choir, a gospel choir and a handbell choir. A new cantor takes over on 1 November 2026, so the church music post appears filled.",
+    "sources": [
+      "https://www.ev-kirche-biesdorf.de/musik.html",
+      "https://www.ev-kirche-biesdorf.de/kontakt/impressum.html",
+      "https://www.ev-kirche-biesdorf.de/"
+    ],
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    }
+  },
+  {
+    "id": "marzahn-hellersdorf-otto-nagel-gymnasium",
+    "name": "Otto-Nagel-Gymnasium",
+    "category": "EDU",
+    "address": {
+      "street": "Schulstraße 11",
+      "postcode": "12683",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 514 38 64",
+      "email": "sekretariat@ong.berlin",
+      "email_source_url": "https://ong.berlin/impressum/",
+      "website": "https://ong.berlin/"
+    },
+    "instruments": [
+      "woodwind",
+      "brass"
+    ],
+    "instruments_detail": [
+      "wind band class (Bläserklasse)"
+    ],
+    "summary_en": "Secondary school in Biesdorf with a wind band class (Bläserklasse) running since 2022/23 for beginners on wind instruments. No jobs page found.",
+    "sources": [
+      "https://ong.berlin/musik/",
+      "https://ong.berlin/otto-und-die-windmacher-im-kammermusiksaal-der-philharmonie/",
+      "https://ong.berlin/impressum/"
+    ],
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    }
+  },
+  {
+    "id": "marzahn-hellersdorf-musikkabinett-animato-mahlsdorf-sued",
+    "name": "Musikkabinett ANIMATO Mahlsdorf-Süd",
+    "category": "PRV",
+    "address": {
+      "street": "Hultschiner Damm 132",
+      "postcode": "12623",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 55 57 83 89",
+      "email": "info@musikkabinett-mahlsdorf.de",
+      "email_source_url": "https://musikkabinett-mahlsdorf.de/impressum/",
+      "website": "https://musikkabinett-mahlsdorf.de/"
+    },
+    "instruments": [
+      "woodwind",
+      "keyboard",
+      "strings",
+      "voice"
+    ],
+    "instruments_detail": [
+      "recorder",
+      "clarinet",
+      "saxophone",
+      "piano",
+      "harpsichord",
+      "music theory and ear training",
+      "violin",
+      "voice",
+      "choir"
+    ],
+    "summary_en": "Small private music studio in Mahlsdorf teaching recorder, clarinet, saxophone, piano and harpsichord, with violin and voice taught in the same house. Lessons for children, adults and seniors.",
+    "sources": [
+      "https://musikkabinett-mahlsdorf.de/",
+      "https://musikkabinett-mahlsdorf.de/spektrum/",
+      "https://musikkabinett-mahlsdorf.de/impressum/",
+      "https://musikkabinett-mahlsdorf.de/kontakt/"
+    ],
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    }
+  },
+  {
+    "id": "marzahn-hellersdorf-b1-musikschule-mahlsdorf",
+    "name": "B1 Musikschule (Standort Mahlsdorf)",
+    "category": "PRV",
+    "address": {
+      "street": "Alt-Mahlsdorf 100",
+      "postcode": "12623",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 31989031",
+      "website": "https://b1musikschule.weebly.com/"
+    },
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "voice",
+      "percussion",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "piano",
+      "keyboard",
+      "guitar",
+      "electric guitar",
+      "voice",
+      "cajon",
+      "recorder",
+      "flute"
+    ],
+    "summary_en": "Private music school with a branch in Mahlsdorf teaching piano, guitar, voice, cajon, recorder and flute. No jobs page found.",
+    "sources": [
+      "https://b1musikschule.weebly.com/mahlsdorf.html",
+      "https://b1musikschule.weebly.com/impressum.html"
+    ],
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    }
   }
 ]

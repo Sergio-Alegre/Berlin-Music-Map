@@ -222,70 +222,6 @@
     "found_by": "district-scout:friedrichshain-kreuzberg"
   },
   {
-    "id": "friedrichshain-kreuzberg-musikschule-kolesnikov",
-    "name": "Musikschule Kolesnikov",
-    "category": "PRV",
-    "address": {
-      "street": "Samariterstraße 25",
-      "postcode": "10247",
-      "city": "Berlin"
-    },
-    "contact": {
-      "email": "info@musikschule-berlin.com",
-      "email_source_url": "http://www.musikschule-berlin.com/ueberuns.php",
-      "phone": "030 20261418",
-      "website": "http://www.musikschule-berlin.com/"
-    },
-    "offer": {
-      "status": "none_found",
-      "url": "http://www.musikschule-berlin.com/",
-      "checked": "2026-10-15"
-    },
-    "contract": {
-      "type": "unknown"
-    },
-    "email_language": "de",
-    "summary_en": "Private music school in Friedrichshain (since 2005) offering violin and cello lessons. Its jobs list on 2026-10-15 named only cello and flute teachers.",
-    "sources": [
-      "http://www.musikschule-berlin.com/",
-      "http://www.musikschule-berlin.com/impressum.php",
-      "http://www.musikschule-berlin.com/ueberuns.php"
-    ],
-    "district": "Friedrichshain-Kreuzberg",
-    "last_verified": "2026-10-15",
-    "instruments": [
-      "strings",
-      "keyboard",
-      "guitar_plucked",
-      "woodwind",
-      "percussion",
-      "accordion",
-      "voice"
-    ],
-    "instruments_detail": [
-      "violin",
-      "cello",
-      "piano",
-      "accordion",
-      "organ",
-      "keyboard",
-      "recorder",
-      "flute",
-      "clarinet",
-      "saxophone",
-      "trumpet",
-      "harmonica",
-      "drums",
-      "guitar",
-      "bass guitar",
-      "electric guitar",
-      "balalaika",
-      "domra",
-      "voice"
-    ],
-    "found_by": "district-scout:friedrichshain-kreuzberg"
-  },
-  {
     "id": "friedrichshain-kreuzberg-doremi-musikwerkstatt",
     "name": "DOREMI Musikwerkstatt",
     "category": "PRV",
@@ -438,53 +374,6 @@
     "found_by": "district-scout:friedrichshain-kreuzberg"
   },
   {
-    "id": "friedrichshain-kreuzberg-lab-der-musik",
-    "name": "Lab der Musik",
-    "category": "PRV",
-    "address": {
-      "street": "Kottbusser Damm 67",
-      "postcode": "10967",
-      "city": "Berlin"
-    },
-    "contact": {
-      "phone": "0152-06600422",
-      "website": "https://www.lab-der-musik.de"
-    },
-    "offer": {
-      "status": "none_found",
-      "checked": "2026-10-27"
-    },
-    "contract": {
-      "type": "unknown"
-    },
-    "email_language": "de",
-    "summary_en": "Young private music school at Kottbusser Damm teaching piano, guitar, violin, cello, woodwinds and voice to all ages. No job notice found; its own website did not load on 2026-10-27.",
-    "sources": [
-      "https://sellwerk.de/firmenprofil/lab-der-musik",
-      "https://rausgegangen.de/en/organizations/lab-der-musik-2/"
-    ],
-    "district": "Friedrichshain-Kreuzberg",
-    "found_by": "district-scout:friedrichshain-kreuzberg",
-    "last_verified": "2026-10-27",
-    "instruments": [
-      "keyboard",
-      "guitar_plucked",
-      "strings",
-      "woodwind",
-      "voice"
-    ],
-    "instruments_detail": [
-      "piano",
-      "guitar",
-      "violin",
-      "cello",
-      "clarinet",
-      "oboe",
-      "flute",
-      "voice"
-    ]
-  },
-  {
     "id": "friedrichshain-kreuzberg-kantorei-friedrichshain",
     "name": "Kantorei Friedrichshain (Ev. Kirchengemeinde Friedrichshain-Süd)",
     "category": "CHO",
@@ -525,5 +414,217 @@
       "children's choirs",
       "recorder circle"
     ]
+  },
+  {
+    "id": "friedrichshain-kreuzberg-btmk-konservatorium-tuerkische-musik",
+    "name": "Konservatorium für türkische Musik Berlin (BTMK)",
+    "category": "PRV",
+    "address": {
+      "street": "Bergmannstraße 29",
+      "postcode": "10961",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@btmk.de",
+      "email_source_url": "https://www.btmk.de/contact",
+      "phone": "+49 30 69504601",
+      "website": "https://www.btmk.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://www.btmk.de/lehrer",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Conservatory for classical Turkish music in the Bergmannkiez, with courses in voice and instrumental training for children and adults. No teacher vacancy is posted on the site.",
+    "sources": [
+      "https://www.btmk.de/",
+      "https://www.btmk.de/kurse",
+      "https://www.btmk.de/contact",
+      "https://www.tip-berlin.de/event/konservatorium-fuer-tuerkische-musik/"
+    ],
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "voice (Turkish classical music)",
+      "instrumental training (instruments not itemised on the courses page)"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-kirchenmusik-kg-vor-dem-halleschen-tor",
+    "name": "Kirchenmusik der Ev. Kirchengemeinde vor dem Halleschen Tor (Kantorei Passion, Kreuzberger Kurrende)",
+    "category": "CHO",
+    "address": {
+      "street": "Zossener Straße 65",
+      "postcode": "10961",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "gemeindebuero@kght.de",
+      "email_source_url": "https://www.kght.de/musik",
+      "phone": "030 232 538 601",
+      "website": "https://www.kght.de/musik"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://kirchenmusikerverband-ekbo.de/wp-content/uploads/2025/04/213_Berlin-1.pdf",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish music in Kreuzberg with the Kantorei Passion, church choirs, baby singing and the children's singing school Kreuzberger Kurrende. The 2025 call for the Kurrende director (50 percent, TV-EKBO) has expired.",
+    "sources": [
+      "https://www.kght.de/musik",
+      "https://www.kkbs.de/gemeindechoere",
+      "https://www.kkbs.de/kinderchoere",
+      "https://kirchenmusikerverband-ekbo.de/wp-content/uploads/2025/04/213_Berlin-1.pdf"
+    ],
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choirs",
+      "children's singing school",
+      "baby singing"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-emmaus-posaunenchor",
+    "name": "Emmaus-Posaunenchor (Ev. Kirchengemeinde Kreuzberg)",
+    "category": "WND",
+    "address": {
+      "street": "Lausitzer Platz 8a",
+      "postcode": "10997",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "posaunenchor@emmaus.de",
+      "email_source_url": "https://www.emmaus.de/posaunenchor",
+      "phone": "+49 30 616 93 10",
+      "website": "https://www.evkgk.de/musikalische-angebote"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "url": "https://www.emmaus.de/posaunenchor",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass choir at the Emmaus church that welcomes beginners, lends instruments and offers individual lessons. It also runs a group for advanced beginners and plans a youth brass group.",
+    "sources": [
+      "https://www.emmaus.de/posaunenchor",
+      "https://www.evkgk.de/musikalische-angebote",
+      "https://www.evkgk.de/kontakt-/kontakt",
+      "https://www.kkbs.de/posaunenchoere-und-blaeserarbeit"
+    ],
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "trombone",
+      "trumpet",
+      "brass choir"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-kirchenmusik-ev-kirchengemeinde-kreuzberg",
+    "name": "Chöre der Ev. Kirchengemeinde Kreuzberg (Ölberg-Chor, Kantorei Kreuzberg)",
+    "category": "CHO",
+    "address": {
+      "street": "Lausitzer Platz 8a",
+      "postcode": "10997",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "buero@evkgk.de",
+      "email_source_url": "https://www.evkgk.de/kontakt-/kontakt",
+      "phone": "+49 30 616 93 10",
+      "website": "https://www.evkgk.de/musikalische-angebote"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://www.evkgk.de/musikalische-angebote",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish music at the Emmaus church with the Ölberg-Chor, the Kantorei Kreuzberg, children's choirs and a parish band. No vacancy for choir leaders or voice teachers was found.",
+    "sources": [
+      "https://www.evkgk.de/musikalische-angebote",
+      "https://www.evkgk.de/kontakt-/kontakt",
+      "https://www.kkbs.de/gemeindechoere"
+    ],
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choirs",
+      "children's choirs",
+      "preschool singing"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-hermann-hesse-gymnasium",
+    "name": "Hermann-Hesse-Gymnasium",
+    "category": "EDU",
+    "address": {
+      "street": "Böckhstraße 16",
+      "postcode": "10967",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kontakt@hhg-kreuzberg.de",
+      "email_source_url": "https://hesse-kreuzberg.de/impressum/",
+      "phone": "030 66 64 34 09 0",
+      "website": "https://hesse-kreuzberg.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://hesse-kreuzberg.de/fach/musik/",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Public secondary school in Kreuzberg with band profile courses (grades 7-10, the lower grades run with the district music school), a choir club and a music ensemble course. No vacancy found.",
+    "sources": [
+      "https://hesse-kreuzberg.de/fach/musik/",
+      "https://hesse-kreuzberg.de/impressum/",
+      "https://www.berlin.de/musikschule-friedrichshain-kreuzberg/unterricht/kooperation-mit-schulen/artikel.1047456.php"
+    ],
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "band profile course (instruments not itemised)",
+      "school choir",
+      "music ensemble course"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:friedrichshain-kreuzberg"
   }
 ]

@@ -342,5 +342,80 @@
     ],
     "found_by": "district-scout:reinickendorf",
     "last_verified": "2026-10-27"
+  },
+  {
+    "id": "reinickendorf-absolutely-unterhaltsam",
+    "name": "Absolutely Unterhaltsam e. V.",
+    "category": "CHO",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Egidystraße 6",
+      "postcode": "13509",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kontakt@absolutely-unterhaltsam.de",
+      "email_source_url": "https://absolutely-unterhaltsam.club/impressum",
+      "website": "https://absolutely-unterhaltsam.club/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "a cappella voices"
+    ],
+    "email_language": "de",
+    "summary_en": "A cappella choir association with about 22 singers from Berlin and Brandenburg, based in the north of Berlin. No teaching vacancy found.",
+    "sources": [
+      "https://absolutely-unterhaltsam.club/",
+      "https://absolutely-unterhaltsam.club/impressum",
+      "https://www.zlb.de/musik-in-berlin/linksammlung-mitmachen-und-lernen"
+    ],
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-achorpella",
+    "name": "aCHORpella",
+    "category": "CHO",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Solquellstraße 45",
+      "postcode": "13467",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.achorpella.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "a cappella voices (rock, pop, musical)"
+    ],
+    "email_language": "de",
+    "summary_en": "Mixed a cappella choir of about 25 singers rehearsing on Wednesday evenings in Hermsdorf. New singers can try six rehearsals; musical basics are expected.",
+    "sources": [
+      "https://www.achorpella.de/",
+      "https://www.achorpella.de/impressum",
+      "https://www.achorpella.de/mitsingen",
+      "https://www.zlb.de/musik-in-berlin/linksammlung-mitmachen-und-lernen"
+    ],
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:reinickendorf"
   }
 ]

@@ -674,5 +674,287 @@
     ],
     "found_by": "district-scout:steglitz-zehlendorf",
     "last_verified": "2026-10-27"
+  },
+  {
+    "id": "steglitz-zehlendorf-pauluskantorei-zehlendorf",
+    "name": "Zehlendorfer Pauluskantorei (Ev. Paulus-Kirchengemeinde)",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Teltower Damm 4-8",
+      "postcode": "14169",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kontakt@paulusgemeinde-zehlendorf.de",
+      "email_source_url": "https://www.paulusgemeinde-zehlendorf.de/ueber-uns/kontakt",
+      "phone": "030 8098320",
+      "website": "https://www.paulus-musik.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Oratorio choir of the Paulus parish in Zehlendorf, rehearsing on Thursday evenings, with a morning choir, a children's choir and a recorder ensemble. New singers join after trial rehearsals and an audition.",
+    "sources": [
+      "https://www.paulus-musik.de/",
+      "https://www.paulusgemeinde-zehlendorf.de/musik/choere--ensembles/kantorei",
+      "https://www.paulusgemeinde-zehlendorf.de/ueber-uns/kontakt",
+      "https://www.paulus-musik.de/impressum/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "oratorio choir",
+      "morning choir",
+      "children's choir",
+      "recorder ensemble"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-johanneskantorei-lichterfelde",
+    "name": "Johanneskantorei Lichterfelde (Ev. Johannes-Kirchengemeinde)",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Ringstraße 36",
+      "postcode": "12205",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@ev-johannes.de",
+      "email_source_url": "https://www.ev-johannes.de/",
+      "phone": "030 833 70 29",
+      "website": "https://www.ev-johannes.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church choir of the Johannes parish in Lichterfelde (Mondays), with children's and youth choirs and a Sunday-evening concert series. The parish ran a church musician post in 2026 (deadline passed).",
+    "sources": [
+      "https://www.ev-johannes.de/",
+      "https://www.ev-johannes.de/musik/kantorei",
+      "https://kirchenmusikerverband-ekbo.de/wp-content/uploads/2025/11/kg_johannes_lichterfelde.pdf"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "Kantorei",
+      "children's choir",
+      "youth choir",
+      "Lichterfelder Lerchen"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-posaunenchor-johannes-lichterfelde",
+    "name": "Posaunenchor der Johannes-Kirchengemeinde Lichterfelde",
+    "category": "WND",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Ringstraße 36",
+      "postcode": "12205",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@ev-johannes.de",
+      "email_source_url": "https://www.ev-johannes.de/",
+      "phone": "030 833 70 29",
+      "website": "https://www.ev-johannes.de/musik/posaunenchor"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church brass choir in Lichterfelde rehearsing on Wednesday evenings. Contact through the parish office.",
+    "sources": [
+      "https://www.ev-johannes.de/musik/posaunenchor",
+      "https://www.ev-johannes.de/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass choir (Posaunenchor)"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-matthaeus-kantorei-steglitz",
+    "name": "Matthäus-Kantorei Steglitz (Ev. Matthäus-Kirchengemeinde)",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Schloßstraße 44a",
+      "postcode": "12165",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "gemeinde@matthaeus-steglitz.de",
+      "email_source_url": "https://www.matthaeus-steglitz.de/",
+      "phone": "030 791 90 44",
+      "website": "https://www.matthaeus-steglitz.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church choir of the Matthäus parish in Steglitz (Mondays), seeking tenors and basses, with children's choirs from grade 1 and a young choir.",
+    "sources": [
+      "https://www.matthaeus-steglitz.de/",
+      "https://www.matthaeus-steglitz.de/kirchenmusik/matthaeus-kantorei",
+      "https://www.matthaeus-steglitz.de/kirchenmusik/kinderchor"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "Kantorei",
+      "children's choirs (Singmäuse, Kinderchor, Kinderkantorei)",
+      "young choir"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-blaeserchor-matthaeus-steglitz",
+    "name": "Bläserchor der Matthäus-Kirchengemeinde Steglitz",
+    "category": "WND",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Schloßstraße 44a",
+      "postcode": "12165",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "gemeinde@matthaeus-steglitz.de",
+      "email_source_url": "https://www.matthaeus-steglitz.de/kirchenmusik/blaeserchor",
+      "phone": "030 791 90 44",
+      "website": "https://www.matthaeus-steglitz.de/kirchenmusik/blaeserchor"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church wind and brass choir in Steglitz meeting on Thursday evenings in the parish hall. Contact through the parish office.",
+    "sources": [
+      "https://www.matthaeus-steglitz.de/kirchenmusik/blaeserchor",
+      "https://www.matthaeus-steglitz.de/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "wind and brass choir (Bläserchor)"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-shalom-chor-berlin",
+    "name": "Shalom Chor Berlin",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Rothenburgstraße 12a-13",
+      "postcode": "12165",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@shalom-chor-berlin.de",
+      "email_source_url": "https://www.shalom-chor-berlin.de/",
+      "website": "https://www.shalom-chor-berlin.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur choir singing synagogue music and Israeli songs, rehearsing on Tuesday evenings at the Baptist church in Steglitz. New singers are welcome.",
+    "sources": [
+      "https://www.shalom-chor-berlin.de/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choir"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-hermann-ehlers-gymnasium",
+    "name": "Hermann-Ehlers-Gymnasium",
+    "category": "EDU",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Elisenstraße 3-4",
+      "postcode": "12169",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 90299-2353",
+      "website": "https://hermann-ehlers-schule.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Public Gymnasium in Steglitz with a school band, a ukulele group and a grade 9 instrument course. Teaching posts require state teacher qualification.",
+    "sources": [
+      "https://hermann-ehlers-schule.de/",
+      "https://hermann-ehlers-schule.de/musik/",
+      "https://hermann-ehlers-schule.de/impressum/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "guitar_plucked",
+      "percussion",
+      "keyboard"
+    ],
+    "instruments_detail": [
+      "ukulele",
+      "guitar",
+      "drums",
+      "keyboard",
+      "school band"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
   }
 ]

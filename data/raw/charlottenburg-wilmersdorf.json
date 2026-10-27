@@ -661,5 +661,730 @@
     ],
     "found_by": "district-scout:charlottenburg-wilmersdorf",
     "last_verified": "2026-10-27"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-bandits-blasorchester",
+    "name": "Bandits (youth wind orchestra, Musikschule City West)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Eisenzahnstraße 47",
+      "postcode": "10709",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.31707.php",
+      "email": "bandits@ms-cw.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.31707.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Youngest wind orchestra of the district music school for players aged 8 to 14, rehearsing on Tuesdays in the Otto-von-Guericke-Schule. No conductor or coach call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.31707.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "woodwind",
+      "brass",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "wind instruments (no recorders)",
+      "percussion"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-wind-or-jester",
+    "name": "Wind-Or-Jester (symphonic wind orchestra, Musikschule City West)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Eisenzahnstraße 47",
+      "postcode": "10709",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.85512.php",
+      "email": "orchesterrat@woj.berlin",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.85512.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Symphonic wind orchestra of about 60 amateur players, active since 1988, rehearsing on Thursdays. It currently seeks players (bassoon, oboe, low brass, percussion); no conductor call.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.85512.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "woodwind",
+      "brass",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "flute",
+      "clarinet",
+      "oboe",
+      "bassoon",
+      "saxophone",
+      "trumpet",
+      "horn",
+      "trombone",
+      "euphonium",
+      "tuba",
+      "percussion"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-nota-bene-blaeserensemble",
+    "name": "Nota bene (wind and brass ensemble for adult beginners, Musikschule City West)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Goethestraße 19-24",
+      "postcode": "10625",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.90840.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Wind and brass ensemble for adult learners aged about 30 and over, rehearsing on Mondays at the Eichendorff-Grundschule. No conductor call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.90840.php",
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/info-service/kontakt/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "woodwind",
+      "brass",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "trombone",
+      "trumpet",
+      "horn",
+      "tuba",
+      "bass clarinet",
+      "saxophone",
+      "bassoon",
+      "percussion"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-saxonett",
+    "name": "Saxonett (saxophone quartets, Musikschule City West)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Platanenallee 16",
+      "postcode": "14050",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.90842.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Two saxophone quartets (youth and adult) of the district music school, rehearsing on Fridays. No leader call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.90842.php",
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/info-service/kontakt/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "saxophone"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-trombonata",
+    "name": "Trombonata (trombone ensemble, Musikschule City West)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Platanenallee 16",
+      "postcode": "14050",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.1492961.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Trombone ensemble of 10 to 12 players, from alto to contrabass trombone, rehearsing every other Friday at the music school. No leader call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.1492961.php",
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/info-service/kontakt/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "alto trombone",
+      "tenor trombone",
+      "bass trombone",
+      "contrabass trombone"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-madrigalchor-charlottenburg",
+    "name": "Madrigalchor Charlottenburg (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Westendallee 46",
+      "postcode": "14052",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90714.php",
+      "email": "info@madrigalchor-berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90714.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed four-part amateur choir of about 35 singers aged 16 to 66, singing Renaissance to modern works on Thursdays at the Herder-Gymnasium. New members can join at any time.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90714.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir (classical repertoire)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-consortium-musicum-berlin",
+    "name": "Consortium musicum Berlin (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Joachim-Friedrich-Straße 35-36",
+      "postcode": "10711",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.85524.php",
+      "email": "info@consortium-musicum-berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.85524.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed amateur choir founded in 1974 for singers aged about 20 to 55, rehearsing on Thursdays in the Halensee-Grundschule. No conductor call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.85524.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir (classical repertoire)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kaktus-chor",
+    "name": "Kaktus-Chor (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Westendallee 46",
+      "postcode": "14052",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90577.php",
+      "email": "kontakt@kaktus-chor.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90577.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed choir for singers aged about 35 to 85 combining art songs, Schlager and music theatre, rehearsing on Wednesdays at the Herder-Gymnasium. No conductor call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90577.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir (art song, Schlager)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kissi-chor",
+    "name": "Kissi-Chor (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Tölzer Straße 25",
+      "postcode": "14199",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90578.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "A cappella mixed choir of about 20 members, singing Renaissance to pop, rehearsing on Mondays in the Salvatorkirche parish hall. No conductor call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90578.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed a cappella choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-ayabas-frauenchor",
+    "name": "Ayabás Frauenchor Berlin (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Platanenallee 16",
+      "postcode": "14050",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.1594569.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Women's choir focused on Brazilian choral music, rehearsing on Wednesdays at the music school, with voice training on Mondays. A few places are open for experienced singers.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.1594569.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "women's choir (Brazilian repertoire)",
+      "voice training"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kammerchor-memoria-gedaechtniskirche",
+    "name": "Kammerchor Memoria (Kaiser-Wilhelm-Gedächtnis-Kirche)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Lietzenburger Straße 39",
+      "postcode": "10789",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.gedaechtniskirche-berlin.de/ueber/kirchenmusiker/kammerchor-memoria",
+      "email": "info@gedaechtniskirche-berlin.de",
+      "email_source_url": "https://www.gedaechtniskirche-berlin.de/impressum",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Project-based chamber choir at the Gedächtniskirche, founded in 2023, with about four rehearsals per project. Singers join by audition; no teacher call published.",
+    "sources": [
+      "https://www.gedaechtniskirche-berlin.de/ueber/kirchenmusiker/kammerchor-memoria",
+      "https://www.gedaechtniskirche-berlin.de/impressum"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "chamber choir (project-based)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-musikplus-musikschule-am-lietzensee",
+    "name": "musikplus! Musikschule am Lietzensee",
+    "category": "PRV",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Friedbergstraße 23",
+      "postcode": "14057",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://musikplus-berlin.de/",
+      "email": "info@musikplus-berlin.de",
+      "email_source_url": "https://musikplus-berlin.de/impressum-datenschutz/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "musikplus Berlin seeks committed music teachers (guitar, piano, voice, drums, violin or other)",
+      "url": "https://musikplus-berlin.de/musikplus-berlin-sucht-engagierte-musiklehrerinnen/",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school near the Lietzensee teaching keyboard, wind, string, plucked and percussion instruments, plus choir. Its jobs page invites guitar, piano, voice, drums and violin teachers to apply by email.",
+    "sources": [
+      "https://musikplus-berlin.de/",
+      "https://musikplus-berlin.de/impressum-datenschutz/",
+      "https://musikplus-berlin.de/musikplus-berlin-sucht-engagierte-musiklehrerinnen/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "strings",
+      "guitar_plucked",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "keyboard",
+      "wind instruments",
+      "string instruments",
+      "plucked string instruments",
+      "drums and percussion",
+      "choir",
+      "ear training"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-musik-atelier-richard-wagner-strasse",
+    "name": "musik atelier (Privatmusikschule)",
+    "category": "PRV",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Richard-Wagner-Straße 58",
+      "postcode": "10585",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.musikatelier-berlin.de/",
+      "email": "info@musikatelier-berlin.de",
+      "email_source_url": "https://www.musikatelier-berlin.de/impressum/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school in Charlottenburg teaching piano, voice, guitar, violin and recorder, plus early musical education for young children. No job page found.",
+    "sources": [
+      "https://www.musikatelier-berlin.de/",
+      "https://www.musikatelier-berlin.de/impressum/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "keyboard",
+      "voice",
+      "guitar_plucked",
+      "strings",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "piano",
+      "voice",
+      "guitar",
+      "electric guitar",
+      "violin",
+      "recorder",
+      "early musical education"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-heinz-berggruen-gymnasium",
+    "name": "Heinz-Berggruen-Gymnasium",
+    "category": "EDU",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Bayernallee 4",
+      "postcode": "14052",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://hbgym.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State gymnasium with a music profile, a wind band class (Bläserklasse) with extra weekly instrumental lessons, and choir, orchestra and big band. No teacher vacancy found.",
+    "sources": [
+      "https://hbgym.de/fachbereiche/musik/",
+      "https://hbgym.de/foerderverein/blaeserklassen/",
+      "https://miz.org/de/institutionen/heinz-berggruen-gymnasium-i28952"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "woodwind",
+      "brass",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "wind instruments (Bläserklasse)",
+      "choir",
+      "orchestra",
+      "big band"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-friedensburg-oberschule",
+    "name": "Friedensburg-Oberschule (Staatliche Europa-Schule Berlin)",
+    "category": "EDU",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Goethestraße 8-9",
+      "postcode": "10623",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.fosberlin.eu/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State secondary school with a music department where small groups learn string, wind or plucked instruments from the school collection, taught by external instrument teachers. No vacancy found.",
+    "sources": [
+      "https://www.fosberlin.eu/fachbereiche/musik",
+      "https://miz.org/de/institutionen/friedensburg-oberschule-i33967"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "strings",
+      "woodwind",
+      "guitar_plucked",
+      "voice"
+    ],
+    "instruments_detail": [
+      "string instruments",
+      "wind instruments",
+      "plucked instruments",
+      "upper-school choir",
+      "band AG"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kirchenmusik-neu-westend",
+    "name": "Kirchenmusik Neu-Westend (Kantorei, Bläserensemble, Silberklänge)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Eichenallee 47-53",
+      "postcode": "14050",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.kg-neu-westend.de/gruppen/musik",
+      "email": "info@kg-neu-westend.de",
+      "email_source_url": "https://www.kg-neu-westend.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Protestant parish with a Kantorei, a seniors' choir, the brass ensemble Kreuz#Blech and a seniors' string ensemble, all meeting in the parish hall. No vacancy found on the page.",
+    "sources": [
+      "http://www.kg-neu-westend.de/gruppen/musik",
+      "https://www.kg-neu-westend.de/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice",
+      "brass",
+      "strings"
+    ],
+    "instruments_detail": [
+      "Kantorei",
+      "seniors' choir",
+      "brass ensemble",
+      "string ensemble for seniors"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "secondary_categories": [
+      "WND",
+      "ENS"
+    ]
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kantorei-lietzenseegemeinde",
+    "name": "Kantorei und Kinderchor der Kirchengemeinde Am Lietzensee",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Herbartstraße 4-6",
+      "postcode": "14057",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.lietzenseegemeinde.de/gruppen",
+      "email": "buero@lietzenseegemeinde.de",
+      "email_source_url": "https://www.lietzenseegemeinde.de/kontakt"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choirs (Kantorei on Wednesdays, children's choir, Capella Cantorum) at the Lietzensee church; new singers are welcome. No teacher call found.",
+    "sources": [
+      "https://www.lietzenseegemeinde.de/gruppen",
+      "https://www.lietzenseegemeinde.de/kontakt"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "Kantorei",
+      "children's choir",
+      "chamber choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kirchenmusik-epiphanien",
+    "name": "Kirchenmusik der Kirchengemeinde Epiphanien (Kantorei)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Knobelsdorffstraße 72/74",
+      "postcode": "14059",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.epiphanien.de/page/211/kirchenmusik-epiphanien",
+      "email": "kontakt@epiphanien.de",
+      "email_source_url": "https://www.epiphanien.de/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish church music in Charlottenburg with a Kantorei, children's choirs and organ concerts. No rehearsal times or vacancies published on the page.",
+    "sources": [
+      "https://www.epiphanien.de/page/211/kirchenmusik-epiphanien",
+      "https://www.epiphanien.de/impressum"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "Kantorei",
+      "children's choirs"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
   }
 ]

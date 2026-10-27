@@ -23,3 +23,35 @@
 - Not verified (no website found): Happy Music (Apostel-Paulus-Str. 40), Silkymusic (Crellestr. 42), Schlagzeugschule Lutz Renziehausen (Schwäbische Str. 7); Das Örtliche only. Not added.
 - Not found: wind bands, youth orchestras, music-profile schools, guitar/accordion schools in the district.
 - Schools of LKMS (Askanisches Gymnasium, Eckener-Gymnasium, Rückert-Gymnasium etc.) show no instrument classes on their sites; not added as EDU. rueckert-gymnasium.de is a Düsseldorf school, not Berlin.
+
+## Second pass (2026-10-27)
+
+### Searches and sources
+- 9 WebSearch calls (Posaunenchor, Kantorei, piano schools, Bläserklassen, Gitarre/Klavier/Geige, private schools by postcode): results were almost entirely other cities; nothing usable.
+- Bing and DuckDuckGo via curl/WebFetch returned junk or nothing.
+- Chorverband Berlin member-choir database (public JSON behind https://www.chorverband-berlin.de/choere/mitgliedschoere/, filter Bezirk Tempelhof-Schöneberg): 48 choirs/ensembles; used as the source of choirs. Each site was then opened for e-mail and Impressum.
+- Gelbe Seiten (musikunterricht / musikschulen for Schöneberg, Lichtenrade, Mariendorf, Tempelhof), Das Örtliche Tempelhof, miz.org Berlin list (18 shown): nothing new with an official site.
+- School sites checked for instrument classes: Eckener-Gymnasium (added), Ulrich-von-Hutten-Gymnasium, Askanisches Gymnasium (only choir/band AGs, no instrument classes, not added).
+
+### Added (CHO 6, EDU 1)
+- CHO: Kantorei Tempelhof, Lichtenrader Chor, Schöneberger Klangkörper, Akazien-Grazien, Bancanta, Knabenchor Berlin. EDU: Eckener-Gymnasium.
+- For choirs the address is the rehearsal venue (church, Rathaus, school, community house), as given on the choir site or the Chorverband list. Bancanta and Knabenchor Berlin have Impressum addresses elsewhere (Bancanta in 14197; Knabenchor Ebersstr. 35, 10827, not shown to be an office), so check geocoding. Akazien-Grazien states the Rathaus as its postal address; its only e-mail is a web.de role mailbox of the choir (kept).
+- No hiring information found for any of them (offer none_found).
+
+### Removed
+- Konzertchor Friedenau: listed in data/exclusions.json (domain lost, no official page); removed from the file. It still appears in the Chorverband list (Holsteinische Str. 30, 12161) without website.
+
+### Outside district / not added
+- Piano Academy Berlin, Kissinger Str. 14, 12157: geocodes to Steglitz (Steglitz-Zehlendorf), https://www.piano-academy-berlin.de
+- Hermann-Ehlers-Gymnasium, Elisenstr. 3-4, 12169 (Steglitz-Zehlendorf): band, Ukulele, ensemble course.
+- Vokalhelden (children's choirs, Schöneberg groups at Neumark-Grundschule Steinmetzstr. 46 and Steinmetzstr. 68): seat Karl-Marx-Str. 145, 12043 (Neukölln), https://www.vokalhelden.de; has an "Offene Stellen" section under /team. For the Neukölln scout.
+- MendelssohnKammerChor Berlin: Impressum seat Eylauer Str. 12, 10965 (Friedrichshain-Kreuzberg); rehearses in Bülowstr. 71-72, Schöneberg.
+- Not added because the Impressum address is a private person or c/o: Junge Sinfonie Berlin (c/o Rubensstr. 106, 12157; rehearses at Grazer Platz 4; no project planned), Berliner Figuralchor (private address in 14163), Hanns-Eisler-Chor Berlin, Treffpunkt Fermate, Gebrannte Mandeln, Chorus Berlin, Singfrauen Berlin, Lichtenrader Männerchor 1911 (personal e-mails only).
+- Not added, unclear fit or unreachable: Lichtenrader Gospelchor, St. Konrad Gospelchor, tunety, Kiezchor Schöneberg (pop/gospel amateur choirs, no classical focus); Sonari-Chor (frameset page, no address or contact); Chorwerkstatt Schöneberg, ensemberlino vocale, vocal-concertisten, Kleine Berliner Chorversuchung (sites unreachable); Ensemble Polyvox (6-voice ensemble, no contact page content).
+- Kantorei der Ev. Kirchengemeinde Mariendorf: the domain ev-kirchengemeinde-mariendorf.de now serves spam content (casino, Itzehoe address); not usable.
+- Time to Sing! (Grunewaldstr. 91, 10823): single vocal coach, site not reachable; individual teacher, not an entity.
+- Directory-only, no website: MUSIK 360° Musikunterricht (Tempelhofer Damm 149), Chinesisches Musikcentrum (Westarpstr. 5), Schlagzeugschule Renziehausen (Schwäbische Str. 7; renziehausen.de is an unrelated coaching firm), Happy Music, Silkymusic.
+
+### Still not found
+- Wind bands, Posaunenchöre, youth orchestras, piano-only schools (besides Piano Insel), guitar/accordion schools in the district; EKBO and parish sites for Schöneberg/Tempelhof either do not resolve or have no music pages. Suggest a manual check of the Chorverband "Instrumentalensemble" filter and parish newsletters.
+- Hiring: no new ad found.

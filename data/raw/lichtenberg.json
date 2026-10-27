@@ -389,5 +389,51 @@
   ],
   "found_by": "district-scout:lichtenberg",
   "last_verified": "2026-10-27"
+ },
+ {
+  "id": "lichtenberg-canzonetta-kinderchor",
+  "name": "Kinderchor Canzonetta - children sing for Europe e.V.",
+  "category": "CHO",
+  "district": "Lichtenberg",
+  "address": {
+   "street": "Sewanstraße 43a",
+   "postcode": "10319",
+   "city": "Berlin"
+  },
+  "contact": {
+   "email": "chorbuero@canzonetta-berlin.de",
+   "email_source_url": "https://canzonetta-berlin.de/impressum",
+   "phone": "030 5084949",
+   "website": "https://canzonetta-berlin.de/"
+  },
+  "instruments": [
+   "voice"
+  ],
+  "instruments_detail": [
+   "preschool choir",
+   "basic choir",
+   "children's choir",
+   "concert choir",
+   "chamber choir",
+   "voice training"
+  ],
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27",
+   "url": "https://canzonetta-berlin.de/karriere/"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Choir school in Friedrichsfelde with graded children's and youth choirs from preschool age and a chamber choir. Its Chorleitung call (paid by monthly Honorar) closed on 18 September 2026.",
+  "sources": [
+   "https://canzonetta-berlin.de/",
+   "https://canzonetta-berlin.de/impressum",
+   "https://canzonetta-berlin.de/karriere/",
+   "https://www.dasoertliche.de/Themen/Musikschule/Berlin-Lichtenberg.html"
+  ],
+  "found_by": "district-scout:lichtenberg",
+  "last_verified": "2026-10-27"
  }
 ]

@@ -299,5 +299,140 @@
       "choir courses"
     ],
     "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-ev-kirchengemeinde-johannisthal-kirchenmusik",
+    "name": "Ev. Kirchengemeinde Johannisthal: Kirchenmusik (Kantorei, Posaunenchor, Flötenkreis)",
+    "category": "CHO",
+    "secondary_categories": [
+      "WND",
+      "ENS"
+    ],
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Sterndamm 92",
+      "postcode": "12487",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "buero@kirche-johannisthal.de",
+      "email_source_url": "https://www.ev-kirche-johannisthal.de/kontaktimpressum/",
+      "email_obfuscated": true,
+      "phone": "030 636 13 48",
+      "website": "https://www.ev-kirche-johannisthal.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish church music in Johannisthal with a Kantorei, a Gemeindechor, a Posaunenchor, a flute circle and an instrumental circle. The Kantor post was filled in September 2026; the Posaunenchor welcomes new players.",
+    "sources": [
+      "https://www.ev-kirche-johannisthal.de/",
+      "https://www.ev-kirche-johannisthal.de/kontaktimpressum/",
+      "https://www.ev-kirche-johannisthal.de/kirchenmusik/der-johannisthaler-posaunenchor/",
+      "https://kirchenmusikerverband-ekbo.de/wp-content/uploads/2025/12/kg_johannisthal_oberschoeneweide.pdf"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice",
+      "brass",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "choir singing (Kantorei, Gemeindechor)",
+      "trombone choir (Posaunenchor)",
+      "flute circle",
+      "instrumental circle"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-evangelische-schule-koepenick",
+    "name": "Evangelische Schule Köpenick (Gymnasium)",
+    "category": "EDU",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Grüne Trift 169",
+      "postcode": "12557",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 544490 2700",
+      "website": "https://www.ev-schule-koepenick.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Protestant Gymnasium with an extended music curriculum and a singing class (Singklasse) in grades 5 and 6 with joint choir work. It also stages school musicals and band evenings.",
+    "sources": [
+      "https://www.ev-schule-koepenick.de/fachbereich-musik/",
+      "https://www.ev-schule-koepenick.de/kontakt/",
+      "https://www.ev-schule-koepenick.de/impressum"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "singing class (choir work, grades 5-6)",
+      "school band"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-ev-kirchengemeinde-friedrichshagen-kirchenmusik",
+    "name": "Ev. Kirchengemeinde Friedrichshagen: Kirchenmusik (Christophoruskirche)",
+    "category": "CHO",
+    "secondary_categories": [
+      "WND",
+      "ENS"
+    ],
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Bölschestraße 27-30",
+      "postcode": "12587",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@christophorus-kirche.de",
+      "email_source_url": "http://www.christophorus-kirche.de/kontakt",
+      "phone": "030 64 55 73 0",
+      "website": "http://www.christophorus-kirche.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish music in Friedrichshagen with a Kantorei, a chamber choir, a children's and a youth Kantorei, a wind ensemble and a flute circle. The page invites newcomers to join rehearsals.",
+    "sources": [
+      "http://www.christophorus-kirche.de/musik",
+      "http://www.christophorus-kirche.de/kontakt",
+      "https://www.christophorus-kirche.de/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice",
+      "brass",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "choir singing (Kantorei, chamber choir, children's and youth choirs)",
+      "wind ensemble",
+      "flute circle"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
   }
 ]

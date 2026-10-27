@@ -1,5 +1,50 @@
 [
   {
+    "id": "charlottenburg-wilmersdorf-ayabas-frauenchor",
+    "name": "Ayabás Frauenchor Berlin (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Platanenallee 16",
+      "postcode": "14050",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.1594569.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Women's choir focused on Brazilian choral music, rehearsing on Wednesdays at the music school, with voice training on Mondays. A few places are open for experienced singers.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.1594569.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "women's choir (Brazilian repertoire)",
+      "voice training"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5132499,
+      "lng": 13.2709747,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Theodor-Heuss-Platz West",
+      "distance_m": 438
+    }
+  },
+  {
     "id": "charlottenburg-wilmersdorf-berliner-maedchenchor",
     "name": "Berliner Mädchenchor (Musikschule City West)",
     "category": "CHO",
@@ -70,6 +115,493 @@
     "nearest_station": {
       "name": "S+U Bundesplatz",
       "distance_m": 294
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-consortium-musicum-berlin",
+    "name": "Consortium musicum Berlin (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Joachim-Friedrich-Straße 35-36",
+      "postcode": "10711",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.85524.php",
+      "email": "info@consortium-musicum-berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.85524.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed amateur choir founded in 1974 for singers aged about 20 to 55, rehearsing on Thursdays in the Halensee-Grundschule. No conductor call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.85524.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir (classical repertoire)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.500254,
+      "lng": 13.2956961,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Halensee",
+      "distance_m": 449
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kaktus-chor",
+    "name": "Kaktus-Chor (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Westendallee 46",
+      "postcode": "14052",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90577.php",
+      "email": "kontakt@kaktus-chor.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90577.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed choir for singers aged about 35 to 85 combining art songs, Schlager and music theatre, rehearsing on Wednesdays at the Herder-Gymnasium. No conductor call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90577.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir (art song, Schlager)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5110483,
+      "lng": 13.2581855,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Heerstr.",
+      "distance_m": 338
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kammerchor-memoria-gedaechtniskirche",
+    "name": "Kammerchor Memoria (Kaiser-Wilhelm-Gedächtnis-Kirche)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Lietzenburger Straße 39",
+      "postcode": "10789",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.gedaechtniskirche-berlin.de/ueber/kirchenmusiker/kammerchor-memoria",
+      "email": "info@gedaechtniskirche-berlin.de",
+      "email_source_url": "https://www.gedaechtniskirche-berlin.de/impressum",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Project-based chamber choir at the Gedächtniskirche, founded in 2023, with about four rehearsals per project. Singers join by audition; no teacher call published.",
+    "sources": [
+      "https://www.gedaechtniskirche-berlin.de/ueber/kirchenmusiker/kammerchor-memoria",
+      "https://www.gedaechtniskirche-berlin.de/impressum"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "chamber choir (project-based)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.4996437,
+      "lng": 13.3335537,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Augsburger Str.",
+      "distance_m": 116
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kantorei-lietzenseegemeinde",
+    "name": "Kantorei und Kinderchor der Kirchengemeinde Am Lietzensee",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Herbartstraße 4-6",
+      "postcode": "14057",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.lietzenseegemeinde.de/gruppen",
+      "email": "buero@lietzenseegemeinde.de",
+      "email_source_url": "https://www.lietzenseegemeinde.de/kontakt"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choirs (Kantorei on Wednesdays, children's choir, Capella Cantorum) at the Lietzensee church; new singers are welcome. No teacher call found.",
+    "sources": [
+      "https://www.lietzenseegemeinde.de/gruppen",
+      "https://www.lietzenseegemeinde.de/kontakt"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "Kantorei",
+      "children's choir",
+      "chamber choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5042821,
+      "lng": 13.2873554,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Messe Nord",
+      "distance_m": 442
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kirchenmusik-neu-westend",
+    "name": "Kirchenmusik Neu-Westend (Kantorei, Bläserensemble, Silberklänge)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Eichenallee 47-53",
+      "postcode": "14050",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.kg-neu-westend.de/gruppen/musik",
+      "email": "info@kg-neu-westend.de",
+      "email_source_url": "https://www.kg-neu-westend.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Protestant parish with a Kantorei, a seniors' choir, the brass ensemble Kreuz#Blech and a seniors' string ensemble, all meeting in the parish hall. No vacancy found on the page.",
+    "sources": [
+      "http://www.kg-neu-westend.de/gruppen/musik",
+      "https://www.kg-neu-westend.de/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice",
+      "brass",
+      "strings"
+    ],
+    "instruments_detail": [
+      "Kantorei",
+      "seniors' choir",
+      "brass ensemble",
+      "string ensemble for seniors"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "secondary_categories": [
+      "WND",
+      "ENS"
+    ],
+    "geo": {
+      "lat": 52.5181315,
+      "lng": 13.2600675,
+      "precision": "street",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Neu-Westend",
+      "distance_m": 240
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kirchenmusik-epiphanien",
+    "name": "Kirchenmusik der Kirchengemeinde Epiphanien (Kantorei)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Knobelsdorffstraße 72/74",
+      "postcode": "14059",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.epiphanien.de/page/211/kirchenmusik-epiphanien",
+      "email": "kontakt@epiphanien.de",
+      "email_source_url": "https://www.epiphanien.de/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish church music in Charlottenburg with a Kantorei, children's choirs and organ concerts. No rehearsal times or vacancies published on the page.",
+    "sources": [
+      "https://www.epiphanien.de/page/211/kirchenmusik-epiphanien",
+      "https://www.epiphanien.de/impressum"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "Kantorei",
+      "children's choirs"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5134008,
+      "lng": 13.2934962,
+      "precision": "street",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Sophie-Charlotte-Platz",
+      "distance_m": 414
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-kissi-chor",
+    "name": "Kissi-Chor (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Tölzer Straße 25",
+      "postcode": "14199",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90578.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "A cappella mixed choir of about 20 members, singing Renaissance to pop, rehearsing on Mondays in the Salvatorkirche parish hall. No conductor call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90578.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed a cappella choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.4795979,
+      "lng": 13.2936889,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Hohenzollerndamm",
+      "distance_m": 1352
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-madrigalchor-charlottenburg",
+    "name": "Madrigalchor Charlottenburg (Musikschule City West)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Westendallee 46",
+      "postcode": "14052",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90714.php",
+      "email": "info@madrigalchor-berlin.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90714.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed four-part amateur choir of about 35 singers aged 16 to 66, singing Renaissance to modern works on Thursdays at the Herder-Gymnasium. New members can join at any time.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90714.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir (classical repertoire)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5110483,
+      "lng": 13.2581855,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Heerstr.",
+      "distance_m": 338
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-friedensburg-oberschule",
+    "name": "Friedensburg-Oberschule (Staatliche Europa-Schule Berlin)",
+    "category": "EDU",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Goethestraße 8-9",
+      "postcode": "10623",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.fosberlin.eu/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State secondary school with a music department where small groups learn string, wind or plucked instruments from the school collection, taught by external instrument teachers. No vacancy found.",
+    "sources": [
+      "https://www.fosberlin.eu/fachbereiche/musik",
+      "https://miz.org/de/institutionen/friedensburg-oberschule-i33967"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "strings",
+      "woodwind",
+      "guitar_plucked",
+      "voice"
+    ],
+    "instruments_detail": [
+      "string instruments",
+      "wind instruments",
+      "plucked instruments",
+      "upper-school choir",
+      "band AG"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5098869,
+      "lng": 13.3201431,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Ernst-Reuter-Platz",
+      "distance_m": 299
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-heinz-berggruen-gymnasium",
+    "name": "Heinz-Berggruen-Gymnasium",
+    "category": "EDU",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Bayernallee 4",
+      "postcode": "14052",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://hbgym.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State gymnasium with a music profile, a wind band class (Bläserklasse) with extra weekly instrumental lessons, and choir, orchestra and big band. No teacher vacancy found.",
+    "sources": [
+      "https://hbgym.de/fachbereiche/musik/",
+      "https://hbgym.de/foerderverein/blaeserklassen/",
+      "https://miz.org/de/institutionen/heinz-berggruen-gymnasium-i28952"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "woodwind",
+      "brass",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "wind instruments (Bläserklasse)",
+      "choir",
+      "orchestra",
+      "big band"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5113593,
+      "lng": 13.2669598,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Theodor-Heuss-Platz West",
+      "distance_m": 379
     }
   },
   {
@@ -853,6 +1385,431 @@
     }
   },
   {
+    "id": "charlottenburg-wilmersdorf-musik-atelier-richard-wagner-strasse",
+    "name": "musik atelier (Privatmusikschule)",
+    "category": "PRV",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Richard-Wagner-Straße 58",
+      "postcode": "10585",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.musikatelier-berlin.de/",
+      "email": "info@musikatelier-berlin.de",
+      "email_source_url": "https://www.musikatelier-berlin.de/impressum/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school in Charlottenburg teaching piano, voice, guitar, violin and recorder, plus early musical education for young children. No job page found.",
+    "sources": [
+      "https://www.musikatelier-berlin.de/",
+      "https://www.musikatelier-berlin.de/impressum/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "keyboard",
+      "voice",
+      "guitar_plucked",
+      "strings",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "piano",
+      "voice",
+      "guitar",
+      "electric guitar",
+      "violin",
+      "recorder",
+      "early musical education"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5169564,
+      "lng": 13.306909,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Richard-Wagner-Platz",
+      "distance_m": 17
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-musikplus-musikschule-am-lietzensee",
+    "name": "musikplus! Musikschule am Lietzensee",
+    "category": "PRV",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Friedbergstraße 23",
+      "postcode": "14057",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://musikplus-berlin.de/",
+      "email": "info@musikplus-berlin.de",
+      "email_source_url": "https://musikplus-berlin.de/impressum-datenschutz/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "musikplus Berlin seeks committed music teachers (guitar, piano, voice, drums, violin or other)",
+      "url": "https://musikplus-berlin.de/musikplus-berlin-sucht-engagierte-musiklehrerinnen/",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school near the Lietzensee teaching keyboard, wind, string, plucked and percussion instruments, plus choir. Its jobs page invites guitar, piano, voice, drums and violin teachers to apply by email.",
+    "sources": [
+      "https://musikplus-berlin.de/",
+      "https://musikplus-berlin.de/impressum-datenschutz/",
+      "https://musikplus-berlin.de/musikplus-berlin-sucht-engagierte-musiklehrerinnen/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "keyboard",
+      "woodwind",
+      "brass",
+      "strings",
+      "guitar_plucked",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "keyboard",
+      "wind instruments",
+      "string instruments",
+      "plucked string instruments",
+      "drums and percussion",
+      "choir",
+      "ear training"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5040103,
+      "lng": 13.2947073,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Charlottenburg",
+      "distance_m": 668
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-bandits-blasorchester",
+    "name": "Bandits (youth wind orchestra, Musikschule City West)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Eisenzahnstraße 47",
+      "postcode": "10709",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.31707.php",
+      "email": "bandits@ms-cw.de",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.31707.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Youngest wind orchestra of the district music school for players aged 8 to 14, rehearsing on Tuesdays in the Otto-von-Guericke-Schule. No conductor or coach call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.31707.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "woodwind",
+      "brass",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "wind instruments (no recorders)",
+      "percussion"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.4923981,
+      "lng": 13.3052388,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Konstanzer Str.",
+      "distance_m": 415
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-nota-bene-blaeserensemble",
+    "name": "Nota bene (wind and brass ensemble for adult beginners, Musikschule City West)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Goethestraße 19-24",
+      "postcode": "10625",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.90840.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Wind and brass ensemble for adult learners aged about 30 and over, rehearsing on Mondays at the Eichendorff-Grundschule. No conductor call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.90840.php",
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/info-service/kontakt/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "woodwind",
+      "brass",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "trombone",
+      "trumpet",
+      "horn",
+      "tuba",
+      "bass clarinet",
+      "saxophone",
+      "bassoon",
+      "percussion"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5092478,
+      "lng": 13.3129933,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Deutsche Oper",
+      "distance_m": 363
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-saxonett",
+    "name": "Saxonett (saxophone quartets, Musikschule City West)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Platanenallee 16",
+      "postcode": "14050",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.90842.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Two saxophone quartets (youth and adult) of the district music school, rehearsing on Fridays. No leader call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.90842.php",
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/info-service/kontakt/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "saxophone"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5132499,
+      "lng": 13.2709747,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Theodor-Heuss-Platz West",
+      "distance_m": 438
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-trombonata",
+    "name": "Trombonata (trombone ensemble, Musikschule City West)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Platanenallee 16",
+      "postcode": "14050",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.1492961.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Trombone ensemble of 10 to 12 players, from alto to contrabass trombone, rehearsing every other Friday at the music school. No leader call published.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.1492961.php",
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/info-service/kontakt/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "alto trombone",
+      "tenor trombone",
+      "bass trombone",
+      "contrabass trombone"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.5132499,
+      "lng": 13.2709747,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Theodor-Heuss-Platz West",
+      "distance_m": 438
+    }
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-wind-or-jester",
+    "name": "Wind-Or-Jester (symphonic wind orchestra, Musikschule City West)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Eisenzahnstraße 47",
+      "postcode": "10709",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.85512.php",
+      "email": "orchesterrat@woj.berlin",
+      "email_source_url": "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.85512.php"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Symphonic wind orchestra of about 60 amateur players, active since 1988, rehearsing on Thursdays. It currently seeks players (bassoon, oboe, low brass, percussion); no conductor call.",
+    "sources": [
+      "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/orchester-ensembles/blaeser-ensembles/artikel.85512.php"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "woodwind",
+      "brass",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "flute",
+      "clarinet",
+      "oboe",
+      "bassoon",
+      "saxophone",
+      "trumpet",
+      "horn",
+      "trombone",
+      "euphonium",
+      "tuba",
+      "percussion"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass2",
+    "geo": {
+      "lat": 52.4923981,
+      "lng": 13.3052388,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Konstanzer Str.",
+      "distance_m": 415
+    }
+  },
+  {
+    "id": "friedrichshain-kreuzberg-kirchenmusik-ev-kirchengemeinde-kreuzberg",
+    "name": "Chöre der Ev. Kirchengemeinde Kreuzberg (Ölberg-Chor, Kantorei Kreuzberg)",
+    "category": "CHO",
+    "address": {
+      "street": "Lausitzer Platz 8a",
+      "postcode": "10997",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "buero@evkgk.de",
+      "email_source_url": "https://www.evkgk.de/kontakt-/kontakt",
+      "phone": "+49 30 616 93 10",
+      "website": "https://www.evkgk.de/musikalische-angebote"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://www.evkgk.de/musikalische-angebote",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish music at the Emmaus church with the Ölberg-Chor, the Kantorei Kreuzberg, children's choirs and a parish band. No vacancy for choir leaders or voice teachers was found.",
+    "sources": [
+      "https://www.evkgk.de/musikalische-angebote",
+      "https://www.evkgk.de/kontakt-/kontakt",
+      "https://www.kkbs.de/gemeindechoere"
+    ],
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choirs",
+      "children's choirs",
+      "preschool singing"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "geo": {
+      "lat": 52.4999041,
+      "lng": 13.4308053,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Görlitzer Bahnhof",
+      "distance_m": 249
+    }
+  },
+  {
     "id": "friedrichshain-kreuzberg-kantorei-friedrichshain",
     "name": "Kantorei Friedrichshain (Ev. Kirchengemeinde Friedrichshain-Süd)",
     "category": "CHO",
@@ -902,6 +1859,59 @@
     "nearest_station": {
       "name": "S Ostkreuz",
       "distance_m": 853
+    }
+  },
+  {
+    "id": "friedrichshain-kreuzberg-kirchenmusik-kg-vor-dem-halleschen-tor",
+    "name": "Kirchenmusik der Ev. Kirchengemeinde vor dem Halleschen Tor (Kantorei Passion, Kreuzberger Kurrende)",
+    "category": "CHO",
+    "address": {
+      "street": "Zossener Straße 65",
+      "postcode": "10961",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "gemeindebuero@kght.de",
+      "email_source_url": "https://www.kght.de/musik",
+      "phone": "030 232 538 601",
+      "website": "https://www.kght.de/musik"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://kirchenmusikerverband-ekbo.de/wp-content/uploads/2025/04/213_Berlin-1.pdf",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish music in Kreuzberg with the Kantorei Passion, church choirs, baby singing and the children's singing school Kreuzberger Kurrende. The 2025 call for the Kurrende director (50 percent, TV-EKBO) has expired.",
+    "sources": [
+      "https://www.kght.de/musik",
+      "https://www.kkbs.de/gemeindechoere",
+      "https://www.kkbs.de/kinderchoere",
+      "https://kirchenmusikerverband-ekbo.de/wp-content/uploads/2025/04/213_Berlin-1.pdf"
+    ],
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choirs",
+      "children's singing school",
+      "baby singing"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "geo": {
+      "lat": 52.4963881,
+      "lng": 13.3960189,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Hallesches Tor",
+      "distance_m": 327
     }
   },
   {
@@ -957,6 +1967,58 @@
     "nearest_station": {
       "name": "U Frankfurter Tor",
       "distance_m": 164
+    }
+  },
+  {
+    "id": "friedrichshain-kreuzberg-hermann-hesse-gymnasium",
+    "name": "Hermann-Hesse-Gymnasium",
+    "category": "EDU",
+    "address": {
+      "street": "Böckhstraße 16",
+      "postcode": "10967",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kontakt@hhg-kreuzberg.de",
+      "email_source_url": "https://hesse-kreuzberg.de/impressum/",
+      "phone": "030 66 64 34 09 0",
+      "website": "https://hesse-kreuzberg.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://hesse-kreuzberg.de/fach/musik/",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Public secondary school in Kreuzberg with band profile courses (grades 7-10, the lower grades run with the district music school), a choir club and a music ensemble course. No vacancy found.",
+    "sources": [
+      "https://hesse-kreuzberg.de/fach/musik/",
+      "https://hesse-kreuzberg.de/impressum/",
+      "https://www.berlin.de/musikschule-friedrichshain-kreuzberg/unterricht/kooperation-mit-schulen/artikel.1047456.php"
+    ],
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "band profile course (instruments not itemised)",
+      "school choir",
+      "music ensemble course"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "geo": {
+      "lat": 52.4928845,
+      "lng": 13.4189219,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Schönleinstr.",
+      "distance_m": 242
     }
   },
   {
@@ -1224,6 +2286,58 @@
     }
   },
   {
+    "id": "friedrichshain-kreuzberg-btmk-konservatorium-tuerkische-musik",
+    "name": "Konservatorium für türkische Musik Berlin (BTMK)",
+    "category": "PRV",
+    "address": {
+      "street": "Bergmannstraße 29",
+      "postcode": "10961",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@btmk.de",
+      "email_source_url": "https://www.btmk.de/contact",
+      "phone": "+49 30 69504601",
+      "website": "https://www.btmk.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "url": "https://www.btmk.de/lehrer",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Conservatory for classical Turkish music in the Bergmannkiez, with courses in voice and instrumental training for children and adults. No teacher vacancy is posted on the site.",
+    "sources": [
+      "https://www.btmk.de/",
+      "https://www.btmk.de/kurse",
+      "https://www.btmk.de/contact",
+      "https://www.tip-berlin.de/event/konservatorium-fuer-tuerkische-musik/"
+    ],
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "voice (Turkish classical music)",
+      "instrumental training (instruments not itemised on the courses page)"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "geo": {
+      "lat": 52.4888143,
+      "lng": 13.395442,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Gneisenaustr.",
+      "distance_m": 329
+    }
+  },
+  {
     "id": "friedrichshain-kreuzberg-musikschule-berliner-stadtmusikanten",
     "name": "Musikschule Berliner Stadtmusikanten",
     "category": "PRV",
@@ -1355,6 +2469,59 @@
     }
   },
   {
+    "id": "friedrichshain-kreuzberg-emmaus-posaunenchor",
+    "name": "Emmaus-Posaunenchor (Ev. Kirchengemeinde Kreuzberg)",
+    "category": "WND",
+    "address": {
+      "street": "Lausitzer Platz 8a",
+      "postcode": "10997",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "posaunenchor@emmaus.de",
+      "email_source_url": "https://www.emmaus.de/posaunenchor",
+      "phone": "+49 30 616 93 10",
+      "website": "https://www.evkgk.de/musikalische-angebote"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "url": "https://www.emmaus.de/posaunenchor",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass choir at the Emmaus church that welcomes beginners, lends instruments and offers individual lessons. It also runs a group for advanced beginners and plans a youth brass group.",
+    "sources": [
+      "https://www.emmaus.de/posaunenchor",
+      "https://www.evkgk.de/musikalische-angebote",
+      "https://www.evkgk.de/kontakt-/kontakt",
+      "https://www.kkbs.de/posaunenchoere-und-blaeserarbeit"
+    ],
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "trombone",
+      "trumpet",
+      "brass choir"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "geo": {
+      "lat": 52.4999041,
+      "lng": 13.4308053,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Görlitzer Bahnhof",
+      "distance_m": 249
+    }
+  },
+  {
     "id": "lichtenberg-kantorei-karlshorst",
     "name": "Kantorei Karlshorst (Bach bewegt)",
     "category": "CHO",
@@ -1400,6 +2567,62 @@
     "nearest_station": {
       "name": "S Karlshorst",
       "distance_m": 538
+    }
+  },
+  {
+    "id": "lichtenberg-canzonetta-kinderchor",
+    "name": "Kinderchor Canzonetta - children sing for Europe e.V.",
+    "category": "CHO",
+    "district": "Lichtenberg",
+    "address": {
+      "street": "Sewanstraße 43a",
+      "postcode": "10319",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "chorbuero@canzonetta-berlin.de",
+      "email_source_url": "https://canzonetta-berlin.de/impressum",
+      "phone": "030 5084949",
+      "website": "https://canzonetta-berlin.de/"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "preschool choir",
+      "basic choir",
+      "children's choir",
+      "concert choir",
+      "chamber choir",
+      "voice training"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27",
+      "url": "https://canzonetta-berlin.de/karriere/"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Choir school in Friedrichsfelde with graded children's and youth choirs from preschool age and a chamber choir. Its Chorleitung call (paid by monthly Honorar) closed on 18 September 2026.",
+    "sources": [
+      "https://canzonetta-berlin.de/",
+      "https://canzonetta-berlin.de/impressum",
+      "https://canzonetta-berlin.de/karriere/",
+      "https://www.dasoertliche.de/Themen/Musikschule/Berlin-Lichtenberg.html"
+    ],
+    "found_by": "district-scout:lichtenberg",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.4985075,
+      "lng": 13.5024901,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Betriebsbahnhof Rummelsburg",
+      "distance_m": 102
     }
   },
   {
@@ -1834,6 +3057,57 @@
     }
   },
   {
+    "id": "marzahn-hellersdorf-gemeindechor-versoehnungskirchengemeinde-biesdorf",
+    "name": "Gemeindechor der Ev. Versöhnungskirchengemeinde Berlin-Biesdorf",
+    "category": "CHO",
+    "address": {
+      "street": "Alt-Biesdorf 59",
+      "postcode": "12683",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 514 35 93",
+      "email": "info@ev-kirche-biesdorf.de",
+      "email_source_url": "https://www.ev-kirche-biesdorf.de/kontakt/impressum.html",
+      "website": "https://www.ev-kirche-biesdorf.de/"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "church choir",
+      "gospel choir",
+      "handbell choir"
+    ],
+    "summary_en": "Parish music with a church choir, a gospel choir and a handbell choir. A new cantor takes over on 1 November 2026, so the church music post appears filled.",
+    "sources": [
+      "https://www.ev-kirche-biesdorf.de/musik.html",
+      "https://www.ev-kirche-biesdorf.de/kontakt/impressum.html",
+      "https://www.ev-kirche-biesdorf.de/"
+    ],
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "geo": {
+      "lat": 52.5093717,
+      "lng": 13.555524,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Elsterwerdaer Platz",
+      "distance_m": 500
+    }
+  },
+  {
     "district": "Marzahn-Hellersdorf",
     "offer": {
       "status": "none_found",
@@ -1926,6 +3200,56 @@
     "nearest_station": {
       "name": "S Poelchaustr.",
       "distance_m": 1975
+    }
+  },
+  {
+    "id": "marzahn-hellersdorf-otto-nagel-gymnasium",
+    "name": "Otto-Nagel-Gymnasium",
+    "category": "EDU",
+    "address": {
+      "street": "Schulstraße 11",
+      "postcode": "12683",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 514 38 64",
+      "email": "sekretariat@ong.berlin",
+      "email_source_url": "https://ong.berlin/impressum/",
+      "website": "https://ong.berlin/"
+    },
+    "instruments": [
+      "woodwind",
+      "brass"
+    ],
+    "instruments_detail": [
+      "wind band class (Bläserklasse)"
+    ],
+    "summary_en": "Secondary school in Biesdorf with a wind band class (Bläserklasse) running since 2022/23 for beginners on wind instruments. No jobs page found.",
+    "sources": [
+      "https://ong.berlin/musik/",
+      "https://ong.berlin/otto-und-die-windmacher-im-kammermusiksaal-der-philharmonie/",
+      "https://ong.berlin/impressum/"
+    ],
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "geo": {
+      "lat": 52.5121139,
+      "lng": 13.5491004,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Biesdorf",
+      "distance_m": 519
     }
   },
   {
@@ -2043,6 +3367,124 @@
     "nearest_station": {
       "name": "S Poelchaustr.",
       "distance_m": 1180
+    }
+  },
+  {
+    "id": "marzahn-hellersdorf-b1-musikschule-mahlsdorf",
+    "name": "B1 Musikschule (Standort Mahlsdorf)",
+    "category": "PRV",
+    "address": {
+      "street": "Alt-Mahlsdorf 100",
+      "postcode": "12623",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 31989031",
+      "website": "https://b1musikschule.weebly.com/"
+    },
+    "instruments": [
+      "keyboard",
+      "guitar_plucked",
+      "voice",
+      "percussion",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "piano",
+      "keyboard",
+      "guitar",
+      "electric guitar",
+      "voice",
+      "cajon",
+      "recorder",
+      "flute"
+    ],
+    "summary_en": "Private music school with a branch in Mahlsdorf teaching piano, guitar, voice, cajon, recorder and flute. No jobs page found.",
+    "sources": [
+      "https://b1musikschule.weebly.com/mahlsdorf.html",
+      "https://b1musikschule.weebly.com/impressum.html"
+    ],
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "geo": {
+      "lat": 52.5044772,
+      "lng": 13.6172636,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Mahlsdorf",
+      "distance_m": 1093
+    }
+  },
+  {
+    "id": "marzahn-hellersdorf-musikkabinett-animato-mahlsdorf-sued",
+    "name": "Musikkabinett ANIMATO Mahlsdorf-Süd",
+    "category": "PRV",
+    "address": {
+      "street": "Hultschiner Damm 132",
+      "postcode": "12623",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 55 57 83 89",
+      "email": "info@musikkabinett-mahlsdorf.de",
+      "email_source_url": "https://musikkabinett-mahlsdorf.de/impressum/",
+      "website": "https://musikkabinett-mahlsdorf.de/"
+    },
+    "instruments": [
+      "woodwind",
+      "keyboard",
+      "strings",
+      "voice"
+    ],
+    "instruments_detail": [
+      "recorder",
+      "clarinet",
+      "saxophone",
+      "piano",
+      "harpsichord",
+      "music theory and ear training",
+      "violin",
+      "voice",
+      "choir"
+    ],
+    "summary_en": "Small private music studio in Mahlsdorf teaching recorder, clarinet, saxophone, piano and harpsichord, with violin and voice taught in the same house. Lessons for children, adults and seniors.",
+    "sources": [
+      "https://musikkabinett-mahlsdorf.de/",
+      "https://musikkabinett-mahlsdorf.de/spektrum/",
+      "https://musikkabinett-mahlsdorf.de/impressum/",
+      "https://musikkabinett-mahlsdorf.de/kontakt/"
+    ],
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "geo": {
+      "lat": 52.4863745,
+      "lng": 13.6050428,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Mahlsdorf",
+      "distance_m": 3571
     }
   },
   {
@@ -2172,6 +3614,58 @@
     }
   },
   {
+    "id": "marzahn-hellersdorf-posaunenchor-kirchengemeinde-hellersdorf",
+    "name": "Posaunenchor und Jugendpopchor der Ev. Kirchengemeinde Berlin-Hellersdorf",
+    "category": "WND",
+    "address": {
+      "street": "Glauchauer Straße 7",
+      "postcode": "12627",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 99 18 013",
+      "email": "ev-kg-hellersdorf@t-online.de",
+      "email_source_url": "https://www.ev-kirche-hellersdorf.de/impressum",
+      "website": "https://www.ev-kirche-hellersdorf.de/"
+    },
+    "instruments": [
+      "brass",
+      "voice"
+    ],
+    "instruments_detail": [
+      "brass (Posaunenchor, jazz and Dixie group Colour Brass)",
+      "youth pop choir",
+      "band"
+    ],
+    "summary_en": "Parish brass choir rehearsing on Thursdays in the church, plus a youth pop choir and band. Newcomers and returning brass players are welcome; no teaching post confirmed as open.",
+    "sources": [
+      "https://www.ev-kirche-hellersdorf.de/gemeindeleben/singen-und-musizieren/posaunenchor",
+      "https://www.ev-kirche-hellersdorf.de/gemeindeleben/singen-und-musizieren/jugendpopchor",
+      "https://www.ev-kirche-hellersdorf.de/impressum"
+    ],
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "geo": {
+      "lat": 52.5287376,
+      "lng": 13.6057229,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Hellersdorf",
+      "distance_m": 821
+    }
+  },
+  {
     "id": "mitte-berliner-domkantorei",
     "name": "Berliner Domkantorei (Berliner Dom)",
     "category": "CHO",
@@ -2218,6 +3712,56 @@
     "nearest_station": {
       "name": "U Museumsinsel",
       "distance_m": 51
+    }
+  },
+  {
+    "id": "mitte-marienkantorei",
+    "name": "MarienKantorei (St. Marienkirche)",
+    "category": "CHO",
+    "district": "Mitte",
+    "address": {
+      "street": "Waisenstraße 28",
+      "postcode": "10179",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "oratorio choir",
+      "chamber choir",
+      "liturgical choir"
+    ],
+    "contact": {
+      "website": "https://marienkirche-berlin.de/musik/",
+      "email": "buero@marienkirche-berlin.de",
+      "email_source_url": "https://marienkirche-berlin.de/impressum/",
+      "phone": "030 24 75 95 10"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church choirs of the St. Marien congregation near Alexanderplatz: an oratorio choir, a chamber choir and a liturgical choir with weekly rehearsals. No open call for singers or teachers is published.",
+    "sources": [
+      "https://marienkirche-berlin.de/musik/",
+      "https://marienkirche-berlin.de/impressum/"
+    ],
+    "found_by": "district-scout:mitte",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5164876,
+      "lng": 13.4140406,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Klosterstr.",
+      "distance_m": 169
     }
   },
   {
@@ -2268,6 +3812,293 @@
     "nearest_station": {
       "name": "U Turmstr.",
       "distance_m": 570
+    }
+  },
+  {
+    "id": "mitte-allegro-grundschule",
+    "name": "Allegro-Grundschule",
+    "category": "EDU",
+    "district": "Mitte",
+    "address": {
+      "street": "Lützowstraße 83-85",
+      "postcode": "10785",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "woodwind",
+      "strings",
+      "brass",
+      "guitar_plucked",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "flute (compulsory in grades 1 and 2)",
+      "small-group instrumental lessons from grade 3",
+      "string, guitar, wind and drum ensembles",
+      "children's choir"
+    ],
+    "contact": {
+      "website": "https://www.allegro-grundschule.de/",
+      "phone": "(030) 257572710"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State primary school in Tiergarten with a music profile: flute lessons in grades 1 and 2, instrumental lessons from grade 3, ensembles and a children's choir. No vacancy is listed.",
+    "sources": [
+      "https://miz.org/de/institutionen/allegro-grundschule-i2108",
+      "https://www.allegro-grundschule.de/"
+    ],
+    "found_by": "district-scout:mitte",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5025639,
+      "lng": 13.3625892,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Kurfürstenstr.",
+      "distance_m": 354
+    }
+  },
+  {
+    "id": "mitte-evangelische-schule-berlin-mitte",
+    "name": "Evangelische Schule Berlin Mitte",
+    "category": "EDU",
+    "district": "Mitte",
+    "address": {
+      "street": "Rochstraße 7",
+      "postcode": "10178",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "school orchestra for grades 4 to 6 (classical orchestral instruments, drums)",
+      "brass coaching with Musikschule Fanny Hensel",
+      "school choir"
+    ],
+    "contact": {
+      "website": "https://www.ev-schule-mitte.de/",
+      "phone": "030 70725482"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Protestant school in Mitte with a school orchestra of about 60 pupils, a school choir and a brass cooperation with the district music school. No music teacher vacancy is listed.",
+    "sources": [
+      "https://www.ev-schule-mitte.de/schulleben/schulorchester",
+      "https://www.ev-schule-mitte.de/impressum"
+    ],
+    "found_by": "district-scout:mitte",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.52294,
+      "lng": 13.4067681,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Hackescher Markt",
+      "distance_m": 229
+    }
+  },
+  {
+    "id": "mitte-humboldthain-grundschule",
+    "name": "Humboldthain-Grundschule",
+    "category": "EDU",
+    "district": "Mitte",
+    "address": {
+      "street": "Grenzstraße 7",
+      "postcode": "13355",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "cello",
+      "guitar",
+      "recorder",
+      "flute",
+      "clarinet",
+      "saxophone",
+      "trumpet",
+      "tenor horn",
+      "trombone",
+      "brass and string ensembles",
+      "three school choirs"
+    ],
+    "contact": {
+      "website": "https://www.humboldthain-grundschule.de/",
+      "email": "sekretariat@humboldthain.schule.berlin.de",
+      "email_source_url": "https://www.humboldthain-grundschule.de/impressum",
+      "phone": "(030) 46777330"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State primary school in Gesundbrunnen with a music profile: group lessons on strings, winds, brass and guitar from grade 3, instrument loans, ensembles and three choirs. No vacancy is listed.",
+    "sources": [
+      "https://miz.org/de/institutionen/humboldthain-grundschule-i2110",
+      "https://www.humboldthain-grundschule.de/impressum",
+      "https://www.humboldthain-grundschule.de/musikbetonung/instrumentalunterricht/"
+    ],
+    "found_by": "district-scout:mitte",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.54347,
+      "lng": 13.3797516,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Humboldthain",
+      "distance_m": 188
+    }
+  },
+  {
+    "id": "mitte-musikgymnasium-carl-philipp-emanuel-bach",
+    "name": "Musikgymnasium Carl Philipp Emanuel Bach",
+    "category": "EDU",
+    "district": "Mitte",
+    "address": {
+      "street": "Rheinsberger Straße 4/5",
+      "postcode": "10115",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "all orchestral instruments",
+      "piano",
+      "guitar",
+      "voice",
+      "jazz",
+      "orchestra",
+      "choir",
+      "jazz ensemble"
+    ],
+    "contact": {
+      "website": "https://www.musikgymnasium-berlin.de/",
+      "email": "sekretariat@musikgymnasium-bach.de",
+      "email_source_url": "https://www.musikgymnasium-berlin.de/",
+      "phone": "(030) 901891530"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State specialist music school (grades 5 to 13) with compulsory one-to-one instrumental lessons, an orchestra, a choir and a jazz ensemble. Instrumental teachers come from the two Berlin music universities; no vacancy is listed.",
+    "sources": [
+      "https://www.musikgymnasium-berlin.de/",
+      "https://miz.org/de/institutionen/musikgymnasium-carl-philipp-emanuel-bach-i2150"
+    ],
+    "found_by": "district-scout:mitte",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5367932,
+      "lng": 13.3956605,
+      "precision": "street",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Bernauer Str.",
+      "distance_m": 163
+    }
+  },
+  {
+    "id": "mitte-papageno-grundschule",
+    "name": "Papageno-Grundschule",
+    "category": "EDU",
+    "district": "Mitte",
+    "address": {
+      "street": "Bergstraße 58",
+      "postcode": "10115",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "strings",
+      "woodwind",
+      "guitar_plucked",
+      "voice"
+    ],
+    "instruments_detail": [
+      "recorder",
+      "guitar",
+      "violin",
+      "cello",
+      "orchestra",
+      "guitar ensemble",
+      "flute ensemble",
+      "school band",
+      "choir"
+    ],
+    "contact": {
+      "website": "http://www.papageno-grundschule.de",
+      "phone": "(030) 30881711"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State primary school with a music profile: optional choir or instrument lessons (recorder, guitar, violin, cello) from grade 2 and ensembles from grade 3. No vacancy is listed.",
+    "sources": [
+      "https://miz.org/de/institutionen/papageno-grundschule-i2373"
+    ],
+    "found_by": "district-scout:mitte",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5325304,
+      "lng": 13.3902581,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Nordbahnhof",
+      "distance_m": 168
     }
   },
   {
@@ -2911,7 +4742,7 @@
       "phone": "030 214 724 60"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "posted",
       "title": "Klavierlehrer*innen gesucht (Standort Schliemannstraße)",
       "url": "https://klavierschule-berenstein.com/jobs",
       "checked": "2026-10-27"
@@ -2931,7 +4762,26 @@
     "last_verified": "2026-10-27",
     "sites": [
       {
-        "name": "Standort Prenzlauer Berg (Schliemannstraße)"
+        "name": "Standort Prenzlauer Berg (Schliemannstraße)",
+        "street": "Schliemannstraße 17",
+        "postcode": "10437",
+        "geo": {
+          "lat": 52.5438305,
+          "lng": 13.4200473,
+          "precision": "address",
+          "source": "nominatim"
+        }
+      },
+      {
+        "name": "Standort 2 Mitte",
+        "street": "Wöhlertstraße 11",
+        "postcode": "10115",
+        "geo": {
+          "lat": 52.5371806,
+          "lng": 13.3791146,
+          "precision": "address",
+          "source": "nominatim"
+        }
       }
     ],
     "geo": {
@@ -3212,6 +5062,56 @@
     }
   },
   {
+    "id": "mitte-posaunenchor-st-marien-friedrichswerder",
+    "name": "Posaunenchor St. Marien-Friedrichswerder",
+    "category": "WND",
+    "district": "Mitte",
+    "address": {
+      "street": "Taubenstraße 6",
+      "postcode": "10117",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "trombone choir (brass band)"
+    ],
+    "contact": {
+      "website": "https://marienkirche-berlin.de/musik/",
+      "email": "buero@marienkirche-berlin.de",
+      "email_source_url": "https://marienkirche-berlin.de/impressum/",
+      "phone": "030 24 75 95 10"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Interested players are invited to get in touch",
+      "url": "https://marienkirche-berlin.de/musik/",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church brass choir of the St. Marien-Friedrichswerder congregation, rehearsing on Wednesdays at the Schleiermacherhaus. The page invites interested people to get in touch.",
+    "sources": [
+      "https://marienkirche-berlin.de/musik/",
+      "https://marienkirche-berlin.de/impressum/"
+    ],
+    "found_by": "district-scout:mitte",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5127475,
+      "lng": 13.3875056,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Anton-Wilhelm-Amo-Str.",
+      "distance_m": 116
+    }
+  },
+  {
     "id": "neukoelln-chorverband-berlin",
     "name": "Chorverband Berlin e.V. (Deutsches Chorzentrum)",
     "category": "CHO",
@@ -3434,6 +5334,60 @@
     }
   },
   {
+    "id": "neukoelln-neukoellner-oper-jugend",
+    "name": "Neuköllner Oper (NO Jung and NO Kids youth programmes)",
+    "category": "OUT",
+    "district": "Neukölln",
+    "address": {
+      "street": "Karl-Marx-Straße 131-133",
+      "postcode": "12043",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "music-making and singing in youth music-theatre ensembles (no individual lessons listed)"
+    ],
+    "contact": {
+      "email": "info@neukoellneroper.de",
+      "email_source_url": "https://www.neukoellneroper.de/impressum/",
+      "phone": "030/688907 77",
+      "website": "https://www.neukoellneroper.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "conditions": {
+      "requirements": "The Ausschreibungen page lists only technical posts and says unsolicited applications (Initiativbewerbungen) go to the info address; no music-education vacancy."
+    },
+    "email_language": "de",
+    "summary_en": "Opera house with youth ensembles NO Jung (young people) and NO Kids (ages 10 to 15) that create music-theatre productions with professional artists. No music-teaching vacancy posted; unsolicited applications are accepted.",
+    "sources": [
+      "https://www.neukoellneroper.de/",
+      "https://www.neukoellneroper.de/zukunft/junge-nko/",
+      "https://www.neukoellneroper.de/neukoellner-oper-kinder-klub/",
+      "https://www.neukoellneroper.de/ausschreibungen/",
+      "https://www.neukoellneroper.de/impressum/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.4775631,
+      "lng": 13.439333,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Karl-Marx-Str.",
+      "distance_m": 103
+    }
+  },
+  {
     "id": "neukoelln-global-music-academy",
     "name": "Global Music Academy",
     "category": "PRV",
@@ -3537,6 +5491,412 @@
     "nearest_station": {
       "name": "S+U Hermannstr.",
       "distance_m": 214
+    }
+  },
+  {
+    "id": "pankow-chor-kirchengemeinde-weissensee",
+    "name": "Chor der Kirchengemeinde Weißensee",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Mirbachplatz 2",
+      "postcode": "13086",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "church music"
+    ],
+    "contact": {
+      "website": "https://kirchengemeinde-weissensee.de/chor/",
+      "email": "buero@kirchengemeinde-weissensee.de",
+      "email_source_url": "https://kg-ws.de/impressum/",
+      "phone": "(030) 960 66 79 13"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choir that rehearses on Tuesday evenings in the parish hall at Mirbachplatz and welcomes new singers.",
+    "sources": [
+      "https://kirchengemeinde-weissensee.de/chor/",
+      "https://kg-ws.de/impressum/",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5524396,
+      "lng": 13.4495795,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Greifswalder Str.",
+      "distance_m": 1741
+    }
+  },
+  {
+    "id": "pankow-chor-st-hedwigs-kathedrale",
+    "name": "Chor der Sankt Hedwigs-Kathedrale (Kathedralmusik, Jugendkathedralchor)",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Fehrbelliner Straße 99",
+      "postcode": "10119",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "cathedral choir",
+      "youth cathedral choir (ages 6 to 18)",
+      "preparatory children's choir"
+    ],
+    "contact": {
+      "website": "https://www.hedwigschor-berlin.de/",
+      "email": "info@hedwigschor-berlin.de",
+      "email_source_url": "https://www.hedwigschor-berlin.de/ansprechpartner/buero-kathedralmusik/",
+      "email_obfuscated": true,
+      "phone": "030 308 77 98 0"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Music office of St. Hedwig's Cathedral with the cathedral choir, a youth choir of about 40 children and teenagers and a preparatory choir. No job or voice-training vacancy is listed.",
+    "sources": [
+      "https://www.hedwigschor-berlin.de/",
+      "https://www.hedwigschor-berlin.de/ansprechpartner/buero-kathedralmusik/"
+    ],
+    "found_by": "district-scout:mitte",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5306497,
+      "lng": 13.4095569,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Rosa-Luxemburg-Platz",
+      "distance_m": 233
+    }
+  },
+  {
+    "id": "pankow-chore-martin-luther-kirchengemeinde-pankow",
+    "name": "Chöre der Martin-Luther-Kirchengemeinde Pankow (Lutherhaus)",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Pradelstraße 11",
+      "postcode": "13187",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "pop choir",
+      "children's choir"
+    ],
+    "contact": {
+      "website": "https://lutherhaus-pankow.de/",
+      "email": "buero@lutherhaus-pankow.de",
+      "email_source_url": "https://lutherhaus-pankow.de/impressum",
+      "phone": "030 485 68 74"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choirs at the Lutherhaus: an open Lutherchor on Tuesdays, a regional pop choir on Wednesdays and a regional children's choir.",
+    "sources": [
+      "https://lutherhaus-pankow.de/",
+      "https://lutherhaus-pankow.de/lutherchor",
+      "https://lutherhaus-pankow.de/regionaler-popchor",
+      "https://lutherhaus-pankow.de/impressum"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5645866,
+      "lng": 13.3962987,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Wollankstr.",
+      "distance_m": 216
+    }
+  },
+  {
+    "id": "pankow-kantorei-alt-pankow",
+    "name": "Kantorei Alt-Pankow",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Breite Straße 38",
+      "postcode": "13187",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "church music"
+    ],
+    "contact": {
+      "website": "https://alt-pankow.de/kirchenchor/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choir that rehearses on Monday evenings in the Gemeindehaus Alt-Pankow and seeks tenors, basses and high sopranos.",
+    "sources": [
+      "https://alt-pankow.de/kirchenchor/",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5702134,
+      "lng": 13.408827,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S+U Pankow",
+      "distance_m": 346
+    }
+  },
+  {
+    "id": "pankow-kantorei-franzoesisch-buchholz",
+    "name": "Kantorei Französisch Buchholz",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Hauptstraße 58",
+      "postcode": "13127",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "church music"
+    ],
+    "contact": {
+      "website": "https://www.evangelisch-buchholz.de/mitmachen/kantorei",
+      "email": "pfarramt@evangelisch-buchholz.de",
+      "email_source_url": "https://www.evangelisch-buchholz.de/impressum",
+      "phone": "+49 30 4742850"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish Kantorei that rehearses on Tuesday evenings; no choir experience is required.",
+    "sources": [
+      "https://www.evangelisch-buchholz.de/mitmachen/kantorei",
+      "https://www.evangelisch-buchholz.de/impressum",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.6083069,
+      "lng": 13.4339912,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Blankenburg",
+      "distance_m": 2416
+    }
+  },
+  {
+    "id": "pankow-kantorei-hoffnungskirche",
+    "name": "Kantorei der Hoffnungskirche Pankow",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Elsa-Brändström-Straße 36",
+      "postcode": "13189",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "church music"
+    ],
+    "contact": {
+      "website": "https://www.hoffnungskirche-pankow.de/",
+      "email": "gemeinde@hoffnungskirche-pankow.de",
+      "email_source_url": "https://www.hoffnungskirche-pankow.de/musik-kultur/chore-instrumentalgruppen/unsere-kantorei"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choir of about 60 singers that gives concerts with professional orchestras and soloists. It rehearses on Wednesday evenings in the parish hall.",
+    "sources": [
+      "https://www.hoffnungskirche-pankow.de/musik-kultur/chore-instrumentalgruppen/unsere-kantorei",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5595816,
+      "lng": 13.4193553,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Vinetastr.",
+      "distance_m": 466
+    }
+  },
+  {
+    "id": "pankow-kirchenchor-rosenthal-wilhelmsruh",
+    "name": "Kirchenchor Rosenthal-Wilhelmsruh",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Hauptstraße 153",
+      "postcode": "13158",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "church music"
+    ],
+    "contact": {
+      "website": "https://kirche-rosenthal-wilhelmsruh.de/angebote/musik/kirchenchor.html",
+      "phone": "030 9123 600"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choir that rehearses on Thursday evenings at the Wilhelmsruh parish hall; newcomers are welcome at any time.",
+    "sources": [
+      "https://kirche-rosenthal-wilhelmsruh.de/angebote/musik/kirchenchor.html",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "sites": [
+      {
+        "name": "Probenort Gemeindehaus Wilhelmsruh",
+        "street": "Goethestraße 3",
+        "postcode": "13158",
+        "geo": {
+          "lat": 52.5505286,
+          "lng": 13.4342755,
+          "precision": "address",
+          "source": "nominatim"
+        }
+      }
+    ],
+    "geo": {
+      "lat": 52.6000241,
+      "lng": 13.378281,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Wilhelmsruh",
+      "distance_m": 2878
+    }
+  },
+  {
+    "id": "pankow-konzertchor-niederschoenhausen",
+    "name": "Konzertchor Niederschönhausen",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Dietzgenstraße 19-23",
+      "postcode": "13156",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing",
+      "concert choir"
+    ],
+    "contact": {
+      "website": "https://konzertchor-niederschoenhausen.de/",
+      "email": "vorstand@verein-friedenskirche.de",
+      "email_source_url": "https://konzertchor-niederschoenhausen.de/index.php/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Concert choir of the Friedenskirche in Niederschönhausen, currently rehearsing Cherubini's Requiem in C minor. It rehearses on Monday evenings.",
+    "sources": [
+      "https://konzertchor-niederschoenhausen.de/index.php/impressum",
+      "https://www.friedenskirche-nordend.de/project/kirchenmusik/",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/kirchenchore"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5891706,
+      "lng": 13.4017043,
+      "precision": "street",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Pankow-Heinersdorf",
+      "distance_m": 2761
     }
   },
   {
@@ -3695,6 +6055,58 @@
     "nearest_station": {
       "name": "S+U Pankow",
       "distance_m": 959
+    }
+  },
+  {
+    "id": "pankow-klavierschule-berlin",
+    "name": "Klavierschule Berlin",
+    "category": "PNO",
+    "district": "Pankow",
+    "address": {
+      "street": "Lychener Straße 12",
+      "postcode": "10437",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "keyboard"
+    ],
+    "instruments_detail": [
+      "piano"
+    ],
+    "contact": {
+      "website": "https://klavierschule-berlin.com/",
+      "email": "mail@klavierschule-berlin.com",
+      "email_source_url": "https://klavierschule-berlin.com/kontakt.htm",
+      "phone": "030-52686280"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "title": "Klavierlehrer gesucht - Honorarstelle Klavier",
+      "url": "https://klavierschule-berlin.com/",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "honorar_hourly",
+      "evidence": "sucht qualifizierte Honorarkräfte für ein bis zwei Tage/Woche",
+      "is_guess": false
+    },
+    "email_language": "de",
+    "summary_en": "Piano school in Prenzlauer Berg for children, teens and adults. Its homepage seeks freelance piano teachers for one to two days a week.",
+    "sources": [
+      "https://klavierschule-berlin.com/",
+      "https://klavierschule-berlin.com/kontakt.htm"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5417991,
+      "lng": 13.4156434,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Eberswalder Str.",
+      "distance_m": 251
     }
   },
   {
@@ -4294,6 +6706,84 @@
     }
   },
   {
+    "id": "pankow-westerland-musikschule",
+    "name": "Westerland Musikschule",
+    "category": "PRV",
+    "district": "Pankow",
+    "address": {
+      "street": "Prenzlauer Promenade 149-152",
+      "postcode": "13189",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "strings",
+      "keyboard",
+      "woodwind",
+      "brass",
+      "guitar_plucked",
+      "voice",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "piano",
+      "keyboard",
+      "acoustic guitar",
+      "electric guitar",
+      "electric bass",
+      "double bass",
+      "tenor banjo / mandolin",
+      "5-string banjo",
+      "ukulele",
+      "violin",
+      "viola",
+      "cello",
+      "drums",
+      "percussion",
+      "trumpet",
+      "recorder",
+      "clarinet",
+      "flute",
+      "saxophone",
+      "trombone",
+      "tuba",
+      "singing",
+      "speech and presence training"
+    ],
+    "contact": {
+      "email": "info@westerlandschule.de",
+      "email_source_url": "https://www.westerlandschule.de/impressum",
+      "phone": "030 4730 7000",
+      "website": "https://www.westerlandschule.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Private music school at Pankow with lessons in keyboard, plucked and bowed strings, winds, brass, percussion and singing, plus early music education and music theory.",
+    "sources": [
+      "https://www.westerlandschule.de/",
+      "https://www.westerlandschule.de/unterricht",
+      "https://www.westerlandschule.de/impressum",
+      "https://www.westerlandschule.de/kontakt"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5596084,
+      "lng": 13.4264625,
+      "precision": "street",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Vinetastr.",
+      "distance_m": 1067
+    }
+  },
+  {
     "id": "pankow-wundermusikschule",
     "name": "WunderMusikSchule",
     "category": "PRV",
@@ -4384,6 +6874,259 @@
     "nearest_station": {
       "name": "U Vinetastr.",
       "distance_m": 32
+    }
+  },
+  {
+    "id": "pankow-blaeserchor-friedenskirche-niederschoenhausen",
+    "name": "Bläserchor der Friedenskirche Niederschönhausen",
+    "category": "WND",
+    "district": "Pankow",
+    "address": {
+      "street": "Dietzgenstraße 19-23",
+      "postcode": "13156",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass choir",
+      "junior brass players"
+    ],
+    "contact": {
+      "website": "https://www.friedenskirche-nordend.de/project/kirchenmusik/",
+      "email": "buero@friedenskirche-nordend.de",
+      "email_source_url": "https://www.friedenskirche-nordend.de/project/kirchenmusik/",
+      "phone": "+49 30 4762900"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass choir with a junior group (Jungbläser), both rehearsing on Tuesday evenings in the parish hall. The parish also runs a church choir and a children's choir.",
+    "sources": [
+      "https://www.friedenskirche-nordend.de/project/kirchenmusik/",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/posaunenchore-im-evangelischen-kirchenkreis-berlin-nord-ost"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5891706,
+      "lng": 13.4017043,
+      "precision": "street",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Pankow-Heinersdorf",
+      "distance_m": 2761
+    }
+  },
+  {
+    "id": "pankow-blaeserchor-hoffnungskirche",
+    "name": "Bläserchor der Hoffnungskirche Pankow",
+    "category": "WND",
+    "district": "Pankow",
+    "address": {
+      "street": "Elsa-Brändström-Straße 36",
+      "postcode": "13189",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass instruments"
+    ],
+    "contact": {
+      "website": "https://www.hoffnungskirche-pankow.de/page/135/blaeserchor",
+      "email": "gemeinde@hoffnungskirche-pankow.de",
+      "email_source_url": "https://www.hoffnungskirche-pankow.de/page/135/blaeserchor"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass choir that rehearses about every two weeks on Tuesday evenings and welcomes new players.",
+    "sources": [
+      "https://www.hoffnungskirche-pankow.de/page/135/blaeserchor",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/posaunenchore-im-evangelischen-kirchenkreis-berlin-nord-ost"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5595816,
+      "lng": 13.4193553,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Vinetastr.",
+      "distance_m": 466
+    }
+  },
+  {
+    "id": "pankow-posaunenchor-rosenthal-wilhelmsruh",
+    "name": "Posaunenchor Rosenthal-Wilhelmsruh",
+    "category": "WND",
+    "district": "Pankow",
+    "address": {
+      "street": "Hauptstraße 153",
+      "postcode": "13158",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass instruments"
+    ],
+    "contact": {
+      "website": "https://kirche-rosenthal-wilhelmsruh.de/angebote/musik/posaunenchor.html",
+      "phone": "030 9123 600"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Brass choir of about twelve players that rehearses on Wednesdays at the Wilhelmsruh parish hall. Newcomers and beginners are welcome.",
+    "sources": [
+      "https://kirche-rosenthal-wilhelmsruh.de/angebote/musik/posaunenchor.html",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/posaunenchore-im-evangelischen-kirchenkreis-berlin-nord-ost"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "sites": [
+      {
+        "name": "Probenort Gemeindesaal Wilhelmsruh",
+        "street": "Goethestraße 3",
+        "postcode": "13158",
+        "geo": {
+          "lat": 52.5505286,
+          "lng": 13.4342755,
+          "precision": "address",
+          "source": "nominatim"
+        }
+      }
+    ],
+    "geo": {
+      "lat": 52.6000241,
+      "lng": 13.378281,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Wilhelmsruh",
+      "distance_m": 2878
+    }
+  },
+  {
+    "id": "pankow-posaunenchor-weissensee",
+    "name": "Posaunenchor der Kirchengemeinde Weißensee",
+    "category": "WND",
+    "district": "Pankow",
+    "address": {
+      "street": "Mirbachplatz 2",
+      "postcode": "13086",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "trombone choir",
+      "brass instruments"
+    ],
+    "contact": {
+      "website": "https://kirchengemeinde-weissensee.de/blaeserchor/",
+      "email": "buero@kirchengemeinde-weissensee.de",
+      "email_source_url": "https://kg-ws.de/impressum/",
+      "phone": "(030) 960 66 79 13"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass choir that rehearses on Wednesday afternoons and says it always seeks new players. Beginners can have free lessons and borrow an instrument.",
+    "sources": [
+      "https://kirchengemeinde-weissensee.de/blaeserchor/",
+      "https://kg-ws.de/impressum/",
+      "https://www.kirche-berlin-nordost.de/musik/choere-und-gruppen/posaunenchore-im-evangelischen-kirchenkreis-berlin-nord-ost"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.5524396,
+      "lng": 13.4495795,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Greifswalder Str.",
+      "distance_m": 1741
+    }
+  },
+  {
+    "id": "reinickendorf-absolutely-unterhaltsam",
+    "name": "Absolutely Unterhaltsam e. V.",
+    "category": "CHO",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Egidystraße 6",
+      "postcode": "13509",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kontakt@absolutely-unterhaltsam.de",
+      "email_source_url": "https://absolutely-unterhaltsam.club/impressum",
+      "website": "https://absolutely-unterhaltsam.club/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "a cappella voices"
+    ],
+    "email_language": "de",
+    "summary_en": "A cappella choir association with about 22 singers from Berlin and Brandenburg, based in the north of Berlin. No teaching vacancy found.",
+    "sources": [
+      "https://absolutely-unterhaltsam.club/",
+      "https://absolutely-unterhaltsam.club/impressum",
+      "https://www.zlb.de/musik-in-berlin/linksammlung-mitmachen-und-lernen"
+    ],
+    "last_verified": "2026-10-27",
+    "found_by": "district-scout:reinickendorf",
+    "geo": {
+      "lat": 52.5993999,
+      "lng": 13.304385,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Waidmannslust",
+      "distance_m": 1586
     }
   },
   {
@@ -4850,6 +7593,204 @@
     }
   },
   {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-weinbergkirchengemeinde-chor",
+    "name": "Ev. Weinbergkirchengemeinde (Gemeindechor and Kinderchor)",
+    "category": "CHO",
+    "address": {
+      "street": "Heerstraße 367",
+      "postcode": "13595",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.weinberggemeinde.de/chor/",
+      "phone": "030 361 42 83"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "parish choir",
+      "children's choir",
+      "ukulele group"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Parish in Spandau with a parish choir (Thursdays at the Gnadenkirche, tenors and basses wanted), a children's choir, a ukulele group and a senior singing circle. Its half-time cantor post (start 1 December 2026) had a deadline of 15 October 2026, so it is no longer open.",
+    "sources": [
+      "https://www.weinberggemeinde.de/chor/",
+      "https://www.weinberggemeinde.de/privacy-policy/",
+      "https://www.weinberggemeinde.de/2026/08/13/stellenausschreibung-c-kantorenstelle-in-der-ev-weinbergkirchengemeinde-berlin-spandau-mit-50-raz-zum-1-dezember-2026/"
+    ],
+    "geo": {
+      "lat": 52.516864,
+      "lng": 13.1714514,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Spandau",
+      "distance_m": 3325
+    }
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-kantorei-st-nikolai",
+    "name": "Kantorei St. Nikolai",
+    "category": "CHO",
+    "address": {
+      "street": "Reformationsplatz 6",
+      "postcode": "13597",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.nikolai-spandau.de/mitmachen/musikalische-angebote/die-kantorei-st-nikolai",
+      "email": "gemeindebuero@nikolai-spandau.de",
+      "email_source_url": "https://www.nikolai-spandau.de/impressum",
+      "phone": "030 322 944 555"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "oratorio choir (80 singers)",
+      "vocal coaching for members"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Oratorio choir of about 80 singers at the St. Nikolai church, performing Bach, Mozart, Brahms and similar works with professional soloists. It rehearses on Thursday evenings, with vocal coaching for members; young singers are welcome.",
+    "sources": [
+      "https://www.nikolai-spandau.de/mitmachen/musikalische-angebote/die-kantorei-st-nikolai",
+      "https://www.nikolai-spandau.de/impressum"
+    ],
+    "geo": {
+      "lat": 52.5381668,
+      "lng": 13.2057359,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Altstadt Spandau",
+      "distance_m": 146
+    }
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-christian-morgenstern-grundschule",
+    "name": "Christian-Morgenstern-Grundschule",
+    "category": "EDU",
+    "address": {
+      "street": "Räcknitzer Steig 12",
+      "postcode": "13593",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "http://www.christian-morgenstern-grundschule.de/",
+      "email": "sekretariat@05g22.schule.berlin.de",
+      "email_source_url": "http://www.christian-morgenstern-grundschule.de/impressum",
+      "phone": "030 364 79 30"
+    },
+    "instruments": [
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "percussion/drumming",
+      "choir"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Primary school with the Musikalische Grundschule profile, offering percussion (drumming) and choir groups and regular music evenings. No teaching vacancy is published.",
+    "sources": [
+      "http://www.christian-morgenstern-grundschule.de/",
+      "http://www.christian-morgenstern-grundschule.de/impressum",
+      "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/schul-und-sportamt/schule/artikel.685162.php"
+    ],
+    "geo": {
+      "lat": 52.5220959,
+      "lng": 13.167744,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Spandau",
+      "distance_m": 3072
+    }
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-grundschule-an-der-pulvermuehle",
+    "name": "Grundschule an der Pulvermühle",
+    "category": "EDU",
+    "address": {
+      "street": "Grützmacherweg 7",
+      "postcode": "13599",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "http://gs-pulvermuehle.de/"
+    },
+    "instruments": [
+      "strings",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello (string classes with the Musikschule Spandau)",
+      "drumming"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Primary school in Haselhorst with string classes (violin, viola, cello) run with the Musikschule Spandau, free for the first two years. Lessons are given by the municipal music school.",
+    "sources": [
+      "https://www.berlin.de/ba-spandau/aktuelles/pressemitteilungen/2024/pressemitteilung.1491907.php",
+      "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/schul-und-sportamt/schule/artikel.683695.php"
+    ],
+    "geo": {
+      "lat": 52.5436763,
+      "lng": 13.2279439,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Haselhorst",
+      "distance_m": 638
+    }
+  },
+  {
     "id": "spandau-kant-gymnasium",
     "name": "Kant-Gymnasium Spandau",
     "category": "EDU",
@@ -4943,6 +7884,60 @@
     "nearest_station": {
       "name": "S+U Rathaus Spandau",
       "distance_m": 319
+    }
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-paul-moor-grundschule",
+    "name": "Paul-Moor-Grundschule",
+    "category": "EDU",
+    "address": {
+      "street": "Adamstraße 24",
+      "postcode": "13595",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "http://paulmoor-gs.de/",
+      "email": "Sekretariat@05G21.schule.berlin.de",
+      "email_source_url": "http://paulmoor-gs.de/"
+    },
+    "instruments": [
+      "woodwind",
+      "brass",
+      "voice",
+      "guitar_plucked"
+    ],
+    "instruments_detail": [
+      "wind band classes (Bläserklassen)",
+      "recorder/flute group",
+      "ukulele group",
+      "school choir"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Certified Musikalische Grundschule with wind band classes, a school choir, a ukulele group and a flute group. Instrument teaching is part of the school programme rather than an advertised teaching job.",
+    "sources": [
+      "http://paulmoor-gs.de/",
+      "http://paulmoor-gs.de/musikalische-grundschule",
+      "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/schul-und-sportamt/schule/artikel.685192.php"
+    ],
+    "geo": {
+      "lat": 52.5210945,
+      "lng": 13.1901891,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Spandau",
+      "distance_m": 2002
     }
   },
   {
@@ -5402,6 +8397,260 @@
     }
   },
   {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-turmblaeser-st-nikolai",
+    "name": "Turmbläser St. Nikolai",
+    "category": "WND",
+    "address": {
+      "street": "Reformationsplatz 6",
+      "postcode": "13597",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.nikolai-spandau.de/mitmachen/musikalische-angebote/turmblaser",
+      "email": "gemeindebuero@nikolai-spandau.de",
+      "email_source_url": "https://www.nikolai-spandau.de/impressum",
+      "phone": "030 322 944 555"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "trumpet",
+      "horn",
+      "trombone",
+      "tuba"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Amateur brass ensemble of the St. Nikolai parish in the classical ten-part line-up, giving several concerts a year and playing in services. It is not recruiting new members at present but sometimes adds extra players for projects.",
+    "sources": [
+      "https://www.nikolai-spandau.de/mitmachen/musikalische-angebote/turmblaser",
+      "https://www.nikolai-spandau.de/impressum"
+    ],
+    "geo": {
+      "lat": 52.5381668,
+      "lng": 13.2057359,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Altstadt Spandau",
+      "distance_m": 146
+    }
+  },
+  {
+    "id": "steglitz-zehlendorf-johanneskantorei-lichterfelde",
+    "name": "Johanneskantorei Lichterfelde (Ev. Johannes-Kirchengemeinde)",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Ringstraße 36",
+      "postcode": "12205",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@ev-johannes.de",
+      "email_source_url": "https://www.ev-johannes.de/",
+      "phone": "030 833 70 29",
+      "website": "https://www.ev-johannes.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church choir of the Johannes parish in Lichterfelde (Mondays), with children's and youth choirs and a Sunday-evening concert series. The parish ran a church musician post in 2026 (deadline passed).",
+    "sources": [
+      "https://www.ev-johannes.de/",
+      "https://www.ev-johannes.de/musik/kantorei",
+      "https://kirchenmusikerverband-ekbo.de/wp-content/uploads/2025/11/kg_johannes_lichterfelde.pdf"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "Kantorei",
+      "children's choir",
+      "youth choir",
+      "Lichterfelder Lerchen"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf",
+    "geo": {
+      "lat": 52.4372206,
+      "lng": 13.2935968,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Lichterfelde West",
+      "distance_m": 864
+    }
+  },
+  {
+    "id": "steglitz-zehlendorf-matthaeus-kantorei-steglitz",
+    "name": "Matthäus-Kantorei Steglitz (Ev. Matthäus-Kirchengemeinde)",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Schloßstraße 44a",
+      "postcode": "12165",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "gemeinde@matthaeus-steglitz.de",
+      "email_source_url": "https://www.matthaeus-steglitz.de/",
+      "phone": "030 791 90 44",
+      "website": "https://www.matthaeus-steglitz.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church choir of the Matthäus parish in Steglitz (Mondays), seeking tenors and basses, with children's choirs from grade 1 and a young choir.",
+    "sources": [
+      "https://www.matthaeus-steglitz.de/",
+      "https://www.matthaeus-steglitz.de/kirchenmusik/matthaeus-kantorei",
+      "https://www.matthaeus-steglitz.de/kirchenmusik/kinderchor"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "Kantorei",
+      "children's choirs (Singmäuse, Kinderchor, Kinderkantorei)",
+      "young choir"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf",
+    "geo": {
+      "lat": 52.4561205,
+      "lng": 13.3185429,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S+U Rathaus Steglitz",
+      "distance_m": 223
+    }
+  },
+  {
+    "id": "steglitz-zehlendorf-shalom-chor-berlin",
+    "name": "Shalom Chor Berlin",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Rothenburgstraße 12a-13",
+      "postcode": "12165",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@shalom-chor-berlin.de",
+      "email_source_url": "https://www.shalom-chor-berlin.de/",
+      "website": "https://www.shalom-chor-berlin.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur choir singing synagogue music and Israeli songs, rehearsing on Tuesday evenings at the Baptist church in Steglitz. New singers are welcome.",
+    "sources": [
+      "https://www.shalom-chor-berlin.de/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choir"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf",
+    "geo": {
+      "lat": 52.4536657,
+      "lng": 13.3128298,
+      "precision": "street",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S+U Rathaus Steglitz",
+      "distance_m": 659
+    }
+  },
+  {
+    "id": "steglitz-zehlendorf-pauluskantorei-zehlendorf",
+    "name": "Zehlendorfer Pauluskantorei (Ev. Paulus-Kirchengemeinde)",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Teltower Damm 4-8",
+      "postcode": "14169",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kontakt@paulusgemeinde-zehlendorf.de",
+      "email_source_url": "https://www.paulusgemeinde-zehlendorf.de/ueber-uns/kontakt",
+      "phone": "030 8098320",
+      "website": "https://www.paulus-musik.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Oratorio choir of the Paulus parish in Zehlendorf, rehearsing on Thursday evenings, with a morning choir, a children's choir and a recorder ensemble. New singers join after trial rehearsals and an audition.",
+    "sources": [
+      "https://www.paulus-musik.de/",
+      "https://www.paulusgemeinde-zehlendorf.de/musik/choere--ensembles/kantorei",
+      "https://www.paulusgemeinde-zehlendorf.de/ueber-uns/kontakt",
+      "https://www.paulus-musik.de/impressum/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "oratorio choir",
+      "morning choir",
+      "children's choir",
+      "recorder ensemble"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf",
+    "geo": {
+      "lat": 52.4335097,
+      "lng": 13.259755,
+      "precision": "street",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Zehlendorf",
+      "distance_m": 186
+    }
+  },
+  {
     "id": "steglitz-zehlendorf-droste-huelshoff-gymnasium",
     "name": "Droste-Hülshoff-Gymnasium",
     "category": "EDU",
@@ -5449,6 +8698,59 @@
     "nearest_station": {
       "name": "S Zehlendorf",
       "distance_m": 370
+    }
+  },
+  {
+    "id": "steglitz-zehlendorf-hermann-ehlers-gymnasium",
+    "name": "Hermann-Ehlers-Gymnasium",
+    "category": "EDU",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Elisenstraße 3-4",
+      "postcode": "12169",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 90299-2353",
+      "website": "https://hermann-ehlers-schule.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Public Gymnasium in Steglitz with a school band, a ukulele group and a grade 9 instrument course. Teaching posts require state teacher qualification.",
+    "sources": [
+      "https://hermann-ehlers-schule.de/",
+      "https://hermann-ehlers-schule.de/musik/",
+      "https://hermann-ehlers-schule.de/impressum/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "guitar_plucked",
+      "percussion",
+      "keyboard"
+    ],
+    "instruments_detail": [
+      "ukulele",
+      "guitar",
+      "drums",
+      "keyboard",
+      "school band"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf",
+    "geo": {
+      "lat": 52.4529929,
+      "lng": 13.3343541,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S+U Rathaus Steglitz",
+      "distance_m": 920
     }
   },
   {
@@ -6198,6 +9500,453 @@
     }
   },
   {
+    "id": "steglitz-zehlendorf-blaeserchor-matthaeus-steglitz",
+    "name": "Bläserchor der Matthäus-Kirchengemeinde Steglitz",
+    "category": "WND",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Schloßstraße 44a",
+      "postcode": "12165",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "gemeinde@matthaeus-steglitz.de",
+      "email_source_url": "https://www.matthaeus-steglitz.de/kirchenmusik/blaeserchor",
+      "phone": "030 791 90 44",
+      "website": "https://www.matthaeus-steglitz.de/kirchenmusik/blaeserchor"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church wind and brass choir in Steglitz meeting on Thursday evenings in the parish hall. Contact through the parish office.",
+    "sources": [
+      "https://www.matthaeus-steglitz.de/kirchenmusik/blaeserchor",
+      "https://www.matthaeus-steglitz.de/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "wind and brass choir (Bläserchor)"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf",
+    "geo": {
+      "lat": 52.4561205,
+      "lng": 13.3185429,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S+U Rathaus Steglitz",
+      "distance_m": 223
+    }
+  },
+  {
+    "id": "steglitz-zehlendorf-posaunenchor-johannes-lichterfelde",
+    "name": "Posaunenchor der Johannes-Kirchengemeinde Lichterfelde",
+    "category": "WND",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Ringstraße 36",
+      "postcode": "12205",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@ev-johannes.de",
+      "email_source_url": "https://www.ev-johannes.de/",
+      "phone": "030 833 70 29",
+      "website": "https://www.ev-johannes.de/musik/posaunenchor"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church brass choir in Lichterfelde rehearsing on Wednesday evenings. Contact through the parish office.",
+    "sources": [
+      "https://www.ev-johannes.de/musik/posaunenchor",
+      "https://www.ev-johannes.de/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass choir (Posaunenchor)"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf",
+    "geo": {
+      "lat": 52.4372206,
+      "lng": 13.2935968,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Lichterfelde West",
+      "distance_m": 864
+    }
+  },
+  {
+    "id": "tempelhof-schoeneberg-akazien-grazien",
+    "name": "Akazien-Grazien e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Am Rathaus 2",
+      "postcode": "10825",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing (women's choir)"
+    ],
+    "contact": {
+      "website": "https://www.akaziengrazien.de",
+      "email": "akaziengrazien@web.de",
+      "email_source_url": "https://www.akaziengrazien.de/kontakt/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Women's choir that rehearses on Tuesday evenings in the Rathaus Schöneberg, with a repertoire from early music to pop and film music.",
+    "sources": [
+      "https://www.akaziengrazien.de/kontakt/",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.4852817,
+      "lng": 13.3423608,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Rathaus Schöneberg",
+      "distance_m": 273
+    }
+  },
+  {
+    "id": "tempelhof-schoeneberg-bancanta",
+    "name": "Bancanta e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Elßholzstraße 34-37",
+      "postcode": "10781",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing (classical to contemporary)"
+    ],
+    "contact": {
+      "website": "https://bancanta.de",
+      "email": "sing_mit@bancanta.de",
+      "email_source_url": "https://bancanta.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur choir rehearsing on Tuesday evenings at a Schöneberg school, performing works such as Mozart's Requiem and Britten's A Ceremony of Carols. It is looking for tenors and basses.",
+    "sources": [
+      "https://bancanta.de",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.4939087,
+      "lng": 13.3578592,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Kleistpark",
+      "distance_m": 480
+    }
+  },
+  {
+    "id": "tempelhof-schoeneberg-kantorei-tempelhof",
+    "name": "Kantorei Tempelhof",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Wolffring 72",
+      "postcode": "12101",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "sacred choral music"
+    ],
+    "contact": {
+      "website": "https://www.kantorei-tempelhof.de/",
+      "email": "kontakt@kantorei-tempelhof.de",
+      "email_source_url": "http://www.kantorei-tempelhof.de/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church choir of two Protestant parishes in Tempelhof, rehearsing at the Kirche auf dem Tempelhofer Feld. It sings sacred music from the Baroque to the 20th century and welcomes new singers.",
+    "sources": [
+      "https://www.kantorei-tempelhof.de/",
+      "http://www.kantorei-tempelhof.de/impressum",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.4816528,
+      "lng": 13.3780349,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Platz der Luftbrücke",
+      "distance_m": 720
+    }
+  },
+  {
+    "id": "tempelhof-schoeneberg-knabenchor-berlin",
+    "name": "Knabenchor Berlin e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Rheingaustraße 7",
+      "postcode": "12161",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "boys' and men's choir",
+      "group and solo singing lessons"
+    ],
+    "contact": {
+      "website": "https://knabenchor-berlin.de",
+      "email": "info@knabenchor-berlin.de",
+      "email_source_url": "https://knabenchor-berlin.de/contact"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Boys' and men's choir that rehearses at a primary school in Friedenau and offers basic musical training and singing lessons in small groups. Concerts range from oratorios to musicals.",
+    "sources": [
+      "https://knabenchor-berlin.de",
+      "https://knabenchor-berlin.de/contact",
+      "https://knabenchor-berlin.de/impressum",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.4695294,
+      "lng": 13.3224002,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Friedrich-Wilhelm-Platz",
+      "distance_m": 473
+    }
+  },
+  {
+    "id": "tempelhof-schoeneberg-lichtenrader-chor",
+    "name": "Lichtenrader Chor e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Barnetstraße 11",
+      "postcode": "12305",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing"
+    ],
+    "contact": {
+      "website": "https://lichtenraderchor.de",
+      "email": "vorstand@lichtenraderchor.de",
+      "email_source_url": "https://lichtenraderchor.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur choir in Lichtenrade rehearsing every Monday evening at the Gemeinschaftshaus Lichtenrade. It is looking for singers in all voice parts.",
+    "sources": [
+      "https://lichtenraderchor.de",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.3943365,
+      "lng": 13.4058167,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Lichtenrade",
+      "distance_m": 1172
+    }
+  },
+  {
+    "id": "tempelhof-schoeneberg-schoeneberger-klangkoerper",
+    "name": "Schöneberger Klangkörper e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "John-F.-Kennedy-Platz",
+      "postcode": "10825",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing (classical, pop, musical, folk)"
+    ],
+    "contact": {
+      "website": "https://www.schoeneberger-klangkoerper.de",
+      "email": "kontakt@schoeneberger-klangkoerper.de",
+      "email_source_url": "https://www.schoeneberger-klangkoerper.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed crossover choir founded in 1995 that rehearses on Thursday evenings at the Rathaus Schöneberg and is a course of the district music school. Currently seeking tenors and basses.",
+    "sources": [
+      "https://www.schoeneberger-klangkoerper.de",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.4844283,
+      "lng": 13.3449789,
+      "precision": "street",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Rathaus Schöneberg",
+      "distance_m": 295
+    }
+  },
+  {
+    "id": "tempelhof-schoeneberg-eckener-gymnasium",
+    "name": "Eckener-Gymnasium",
+    "category": "EDU",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Kaiserstraße 17-21",
+      "postcode": "12105",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "strings",
+      "woodwind",
+      "guitar_plucked",
+      "keyboard",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "saxophone",
+      "clarinet",
+      "guitar",
+      "electric guitar",
+      "electric bass",
+      "keyboard",
+      "drums",
+      "voice"
+    ],
+    "contact": {
+      "website": "https://eckener-gymnasium.de",
+      "email": "info@eckener-gymnasium.de",
+      "email_source_url": "https://eckener-gymnasium.de/impressum/",
+      "phone": "030 90277 7448"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State secondary school in Mariendorf with a school orchestra, a string club, a wind ensemble and band classes run with the district music school. Instrument lessons for strings, saxophone and clarinet are given in the afternoon.",
+    "sources": [
+      "https://eckener-gymnasium.de/kategorie/fachbereich/musisch-kuenstlerischer-fachbereich/musik/",
+      "https://eckener-gymnasium.de/impressum/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27",
+    "geo": {
+      "lat": 52.4447923,
+      "lng": 13.3803502,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "U Westphalweg",
+      "distance_m": 414
+    }
+  },
+  {
     "id": "tempelhof-schoeneberg-leo-kestenberg-musikschule",
     "name": "Leo Kestenberg Musikschule Tempelhof-Schöneberg",
     "category": "MUN",
@@ -6746,6 +10495,171 @@
     "nearest_station": {
       "name": "U Friedrich-Wilhelm-Platz",
       "distance_m": 27
+    }
+  },
+  {
+    "id": "treptow-koepenick-ev-kirchengemeinde-friedrichshagen-kirchenmusik",
+    "name": "Ev. Kirchengemeinde Friedrichshagen: Kirchenmusik (Christophoruskirche)",
+    "category": "CHO",
+    "secondary_categories": [
+      "WND",
+      "ENS"
+    ],
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Bölschestraße 27-30",
+      "postcode": "12587",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@christophorus-kirche.de",
+      "email_source_url": "http://www.christophorus-kirche.de/kontakt",
+      "phone": "030 64 55 73 0",
+      "website": "http://www.christophorus-kirche.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish music in Friedrichshagen with a Kantorei, a chamber choir, a children's and a youth Kantorei, a wind ensemble and a flute circle. The page invites newcomers to join rehearsals.",
+    "sources": [
+      "http://www.christophorus-kirche.de/musik",
+      "http://www.christophorus-kirche.de/kontakt",
+      "https://www.christophorus-kirche.de/"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice",
+      "brass",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "choir singing (Kantorei, chamber choir, children's and youth choirs)",
+      "wind ensemble",
+      "flute circle"
+    ],
+    "found_by": "district-scout:treptow-koepenick",
+    "geo": {
+      "lat": 52.4509759,
+      "lng": 13.62517,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Friedrichshagen",
+      "distance_m": 640
+    }
+  },
+  {
+    "id": "treptow-koepenick-ev-kirchengemeinde-johannisthal-kirchenmusik",
+    "name": "Ev. Kirchengemeinde Johannisthal: Kirchenmusik (Kantorei, Posaunenchor, Flötenkreis)",
+    "category": "CHO",
+    "secondary_categories": [
+      "WND",
+      "ENS"
+    ],
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Sterndamm 92",
+      "postcode": "12487",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "buero@kirche-johannisthal.de",
+      "email_source_url": "https://www.ev-kirche-johannisthal.de/kontaktimpressum/",
+      "email_obfuscated": true,
+      "phone": "030 636 13 48",
+      "website": "https://www.ev-kirche-johannisthal.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish church music in Johannisthal with a Kantorei, a Gemeindechor, a Posaunenchor, a flute circle and an instrumental circle. The Kantor post was filled in September 2026; the Posaunenchor welcomes new players.",
+    "sources": [
+      "https://www.ev-kirche-johannisthal.de/",
+      "https://www.ev-kirche-johannisthal.de/kontaktimpressum/",
+      "https://www.ev-kirche-johannisthal.de/kirchenmusik/der-johannisthaler-posaunenchor/",
+      "https://kirchenmusikerverband-ekbo.de/wp-content/uploads/2025/12/kg_johannisthal_oberschoeneweide.pdf"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice",
+      "brass",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "choir singing (Kantorei, Gemeindechor)",
+      "trombone choir (Posaunenchor)",
+      "flute circle",
+      "instrumental circle"
+    ],
+    "found_by": "district-scout:treptow-koepenick",
+    "geo": {
+      "lat": 52.4444886,
+      "lng": 13.5037019,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Schöneweide",
+      "distance_m": 1509
+    }
+  },
+  {
+    "id": "treptow-koepenick-evangelische-schule-koepenick",
+    "name": "Evangelische Schule Köpenick (Gymnasium)",
+    "category": "EDU",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Grüne Trift 169",
+      "postcode": "12557",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 544490 2700",
+      "website": "https://www.ev-schule-koepenick.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Protestant Gymnasium with an extended music curriculum and a singing class (Singklasse) in grades 5 and 6 with joint choir work. It also stages school musicals and band evenings.",
+    "sources": [
+      "https://www.ev-schule-koepenick.de/fachbereich-musik/",
+      "https://www.ev-schule-koepenick.de/kontakt/",
+      "https://www.ev-schule-koepenick.de/impressum"
+    ],
+    "last_verified": "2026-10-27",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "singing class (choir work, grades 5-6)",
+      "school band"
+    ],
+    "found_by": "district-scout:treptow-koepenick",
+    "geo": {
+      "lat": 52.4236559,
+      "lng": 13.5925699,
+      "precision": "address",
+      "source": "nominatim"
+    },
+    "nearest_station": {
+      "name": "S Grünau",
+      "distance_m": 2099
     }
   },
   {

@@ -20,3 +20,20 @@ About 10 web searches (municipal, private, piano, guitar/accordion, wind band, c
 
 ## Failed sources
 chorvereinigung-spandau.de (Impressum, Kontakt), psf-musikschule.de (403), kant-gymnasium-berlin.de, lily-braun-gymnasium.de/kontakt (no content).
+
+## Second pass (2026-10-27)
+
+Added 6 entities beyond the first pass: Kantorei St. Nikolai (CHO), Vormittagschor St. Nikolai (CHO), Turmbläser St. Nikolai (WND), Ev. Weinbergkirchengemeinde choirs (CHO), Paul-Moor-Grundschule, Christian-Morgenstern-Grundschule and Grundschule an der Pulvermühle (EDU; 7 in total). Nothing removed. Validation passes (16 entities).
+
+Searches: about 14 WebSearch calls (Posaunenchor, Kantorei, piano schools, choirs by Ortsteil, amateur orchestras, guitar/accordion/voice schools, school Bläser/Streicher classes, Popchor, Spielmannszug/Kammerchor, postcode search). Fetched: miz.org search (not filterable by district), Das Örtliche and Gelbe Seiten (only Bravissimo, Musikschule Spandau, PSF and Philharmonika listed, all already present), nikolai-spandau.de, weinberggemeinde.de, school pages of the Bezirksamt directory.
+
+Doubts and not added:
+- Popchor Spandau (popchor-spandau.de, Wix site): about 80 singers, belongs to the Kirchenkreis Spandau, but no street address or Impressum could be read, so it is not added. Check later.
+- Cantores Minores (children's early-music choir): performs at St. Nikolai but no Spandau address or own Impressum found.
+- Weinbergkirchengemeinde: Impressum gives Heerstraße 367, 13595; the job ad gives 13593. No institutional email on the Impressum (info@weinberggemeinde.de appears only in an EKBO PDF), so none recorded. Its C-Kantorenstelle (50 %, TV of the EKBO) had a deadline of 15 Oct 2026, so status is none_found. Rehearsals are at the Gnadenkirche, Jaczostr. 52.
+- Kantorei/Vormittagschor/Turmbläser St. Nikolai share the parish address (Reformationsplatz 6) and the parish office email from the Impressum; the three pages were reachable only via curl (WebFetch gave ECONNRESET).
+- Grundschule an der Pulvermühle: the string group is documented only in a Bezirksamt press release (2024) and the school's own site was not fetched (the Bezirksamt school page lists no string offer). No school email found.
+- Paul-Moor-Grundschule: the /blaeserklassen page was not read; the instruments of the wind classes are not stated.
+- Christian-Morgenstern-Grundschule: the school site was thin; percussion and choir come from the Bezirksamt school page.
+- Not found despite searching: dedicated private PNO, WND schools, Posaunenchor, independent amateur orchestra, further private music schools in Spandau (Das Örtliche and Gelbe Seiten list only the known ones). Other Spandau Grundschulen may have music programmes (not checked one by one).
+- Failed: kirchenkreis-spandau.de (TLS certificate mismatch), popchor-spandau.de content, weinberggemeinde.de/impressum (404).

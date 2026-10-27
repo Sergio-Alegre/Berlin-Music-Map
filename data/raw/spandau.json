@@ -471,5 +471,286 @@
     ],
     "found_by": "district-scout:spandau",
     "last_verified": "2026-10-27"
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-kantorei-st-nikolai",
+    "name": "Kantorei St. Nikolai",
+    "category": "CHO",
+    "address": {
+      "street": "Reformationsplatz 6",
+      "postcode": "13597",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.nikolai-spandau.de/mitmachen/musikalische-angebote/die-kantorei-st-nikolai",
+      "email": "gemeindebuero@nikolai-spandau.de",
+      "email_source_url": "https://www.nikolai-spandau.de/impressum",
+      "phone": "030 322 944 555"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "oratorio choir (80 singers)",
+      "vocal coaching for members"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Oratorio choir of about 80 singers at the St. Nikolai church, performing Bach, Mozart, Brahms and similar works with professional soloists. It rehearses on Thursday evenings, with vocal coaching for members; young singers are welcome.",
+    "sources": [
+      "https://www.nikolai-spandau.de/mitmachen/musikalische-angebote/die-kantorei-st-nikolai",
+      "https://www.nikolai-spandau.de/impressum"
+    ]
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-vormittagschor-st-nikolai",
+    "name": "Vormittagschor St. Nikolai",
+    "category": "CHO",
+    "address": {
+      "street": "Reformationsplatz 6",
+      "postcode": "13597",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.nikolai-spandau.de/mitmachen/musikalische-angebote/vormittagschor",
+      "email": "gemeindebuero@nikolai-spandau.de",
+      "email_source_url": "https://www.nikolai-spandau.de/impressum",
+      "phone": "030 322 944 555"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choir (canons, madrigals, folk songs, motets)"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Low-threshold daytime choir of about 45 singers, meeting on Tuesday mornings in the St. Nikolai parish hall. Anyone who wants to rediscover or develop their voice can join.",
+    "sources": [
+      "https://www.nikolai-spandau.de/mitmachen/musikalische-angebote/vormittagschor",
+      "https://www.nikolai-spandau.de/impressum"
+    ]
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-turmblaeser-st-nikolai",
+    "name": "Turmbläser St. Nikolai",
+    "category": "WND",
+    "address": {
+      "street": "Reformationsplatz 6",
+      "postcode": "13597",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.nikolai-spandau.de/mitmachen/musikalische-angebote/turmblaser",
+      "email": "gemeindebuero@nikolai-spandau.de",
+      "email_source_url": "https://www.nikolai-spandau.de/impressum",
+      "phone": "030 322 944 555"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "trumpet",
+      "horn",
+      "trombone",
+      "tuba"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Amateur brass ensemble of the St. Nikolai parish in the classical ten-part line-up, giving several concerts a year and playing in services. It is not recruiting new members at present but sometimes adds extra players for projects.",
+    "sources": [
+      "https://www.nikolai-spandau.de/mitmachen/musikalische-angebote/turmblaser",
+      "https://www.nikolai-spandau.de/impressum"
+    ]
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-weinbergkirchengemeinde-chor",
+    "name": "Ev. Weinbergkirchengemeinde (Gemeindechor and Kinderchor)",
+    "category": "CHO",
+    "address": {
+      "street": "Heerstraße 367",
+      "postcode": "13595",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.weinberggemeinde.de/chor/",
+      "phone": "030 361 42 83"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "parish choir",
+      "children's choir",
+      "ukulele group"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Parish in Spandau with a parish choir (Thursdays at the Gnadenkirche, tenors and basses wanted), a children's choir, a ukulele group and a senior singing circle. Its half-time cantor post (start 1 December 2026) had a deadline of 15 October 2026, so it is no longer open.",
+    "sources": [
+      "https://www.weinberggemeinde.de/chor/",
+      "https://www.weinberggemeinde.de/privacy-policy/",
+      "https://www.weinberggemeinde.de/2026/08/13/stellenausschreibung-c-kantorenstelle-in-der-ev-weinbergkirchengemeinde-berlin-spandau-mit-50-raz-zum-1-dezember-2026/"
+    ]
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-paul-moor-grundschule",
+    "name": "Paul-Moor-Grundschule",
+    "category": "EDU",
+    "address": {
+      "street": "Adamstraße 24",
+      "postcode": "13595",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "http://paulmoor-gs.de/",
+      "email": "Sekretariat@05G21.schule.berlin.de",
+      "email_source_url": "http://paulmoor-gs.de/"
+    },
+    "instruments": [
+      "woodwind",
+      "brass",
+      "voice",
+      "guitar_plucked"
+    ],
+    "instruments_detail": [
+      "wind band classes (Bläserklassen)",
+      "recorder/flute group",
+      "ukulele group",
+      "school choir"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Certified Musikalische Grundschule with wind band classes, a school choir, a ukulele group and a flute group. Instrument teaching is part of the school programme rather than an advertised teaching job.",
+    "sources": [
+      "http://paulmoor-gs.de/",
+      "http://paulmoor-gs.de/musikalische-grundschule",
+      "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/schul-und-sportamt/schule/artikel.685192.php"
+    ]
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-christian-morgenstern-grundschule",
+    "name": "Christian-Morgenstern-Grundschule",
+    "category": "EDU",
+    "address": {
+      "street": "Räcknitzer Steig 12",
+      "postcode": "13593",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "http://www.christian-morgenstern-grundschule.de/",
+      "email": "sekretariat@05g22.schule.berlin.de",
+      "email_source_url": "http://www.christian-morgenstern-grundschule.de/impressum",
+      "phone": "030 364 79 30"
+    },
+    "instruments": [
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "percussion/drumming",
+      "choir"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Primary school with the Musikalische Grundschule profile, offering percussion (drumming) and choir groups and regular music evenings. No teaching vacancy is published.",
+    "sources": [
+      "http://www.christian-morgenstern-grundschule.de/",
+      "http://www.christian-morgenstern-grundschule.de/impressum",
+      "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/schul-und-sportamt/schule/artikel.685162.php"
+    ]
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-27",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-grundschule-an-der-pulvermuehle",
+    "name": "Grundschule an der Pulvermühle",
+    "category": "EDU",
+    "address": {
+      "street": "Grützmacherweg 7",
+      "postcode": "13599",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "http://gs-pulvermuehle.de/"
+    },
+    "instruments": [
+      "strings",
+      "percussion"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello (string classes with the Musikschule Spandau)",
+      "drumming"
+    ],
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "summary_en": "Primary school in Haselhorst with string classes (violin, viola, cello) run with the Musikschule Spandau, free for the first two years. Lessons are given by the municipal music school.",
+    "sources": [
+      "https://www.berlin.de/ba-spandau/aktuelles/pressemitteilungen/2024/pressemitteilung.1491907.php",
+      "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/schul-und-sportamt/schule/artikel.683695.php"
+    ]
   }
 ]

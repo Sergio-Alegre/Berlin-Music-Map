@@ -433,24 +433,25 @@
     "last_verified": "2026-10-27"
   },
   {
-    "id": "tempelhof-schoeneberg-konzertchor-friedenau",
-    "name": "Konzertchor Friedenau",
+    "id": "tempelhof-schoeneberg-kantorei-tempelhof",
+    "name": "Kantorei Tempelhof",
     "category": "CHO",
     "district": "Tempelhof-Schöneberg",
     "address": {
-      "street": "Taunusstraße 6",
-      "postcode": "12161",
+      "street": "Wolffring 72",
+      "postcode": "12101",
       "city": "Berlin"
     },
     "instruments": [
       "voice"
     ],
     "instruments_detail": [
-      "choral singing"
+      "sacred choral music"
     ],
     "contact": {
-      "phone": "030 82 70 76 42",
-      "website": "https://www.konzertchorfriedenau.de/"
+      "website": "https://www.kantorei-tempelhof.de/",
+      "email": "kontakt@kantorei-tempelhof.de",
+      "email_source_url": "http://www.kantorei-tempelhof.de/impressum"
     },
     "offer": {
       "status": "none_found",
@@ -460,10 +461,254 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur concert choir of about 100 singers under professional artistic direction, founded in 1987 at the Nachbarschaftsheim Schöneberg. It invites experienced singers to join.",
+    "summary_en": "Church choir of two Protestant parishes in Tempelhof, rehearsing at the Kirche auf dem Tempelhofer Feld. It sings sacred music from the Baroque to the 20th century and welcomes new singers.",
     "sources": [
-      "https://www.konzertchorfriedenau.de/",
-      "https://menzeldorf.nbhs.de/fileadmin/nachbarschaftsheim/freizeit_kultur/downloads/Konzertchor_Friedenau/konzertchor20jahre.pdf"
+      "https://www.kantorei-tempelhof.de/",
+      "http://www.kantorei-tempelhof.de/impressum",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "tempelhof-schoeneberg-lichtenrader-chor",
+    "name": "Lichtenrader Chor e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Barnetstraße 11",
+      "postcode": "12305",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing"
+    ],
+    "contact": {
+      "website": "https://lichtenraderchor.de",
+      "email": "vorstand@lichtenraderchor.de",
+      "email_source_url": "https://lichtenraderchor.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur choir in Lichtenrade rehearsing every Monday evening at the Gemeinschaftshaus Lichtenrade. It is looking for singers in all voice parts.",
+    "sources": [
+      "https://lichtenraderchor.de",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "tempelhof-schoeneberg-schoeneberger-klangkoerper",
+    "name": "Schöneberger Klangkörper e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "John-F.-Kennedy-Platz",
+      "postcode": "10825",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing (classical, pop, musical, folk)"
+    ],
+    "contact": {
+      "website": "https://www.schoeneberger-klangkoerper.de",
+      "email": "kontakt@schoeneberger-klangkoerper.de",
+      "email_source_url": "https://www.schoeneberger-klangkoerper.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed crossover choir founded in 1995 that rehearses on Thursday evenings at the Rathaus Schöneberg and is a course of the district music school. Currently seeking tenors and basses.",
+    "sources": [
+      "https://www.schoeneberger-klangkoerper.de",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "tempelhof-schoeneberg-akazien-grazien",
+    "name": "Akazien-Grazien e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Am Rathaus 2",
+      "postcode": "10825",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing (women's choir)"
+    ],
+    "contact": {
+      "website": "https://www.akaziengrazien.de",
+      "email": "akaziengrazien@web.de",
+      "email_source_url": "https://www.akaziengrazien.de/kontakt/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Women's choir that rehearses on Tuesday evenings in the Rathaus Schöneberg, with a repertoire from early music to pop and film music.",
+    "sources": [
+      "https://www.akaziengrazien.de/kontakt/",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "tempelhof-schoeneberg-bancanta",
+    "name": "Bancanta e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Elßholzstraße 34-37",
+      "postcode": "10781",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "choral singing (classical to contemporary)"
+    ],
+    "contact": {
+      "website": "https://bancanta.de",
+      "email": "sing_mit@bancanta.de",
+      "email_source_url": "https://bancanta.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur choir rehearsing on Tuesday evenings at a Schöneberg school, performing works such as Mozart's Requiem and Britten's A Ceremony of Carols. It is looking for tenors and basses.",
+    "sources": [
+      "https://bancanta.de",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "tempelhof-schoeneberg-knabenchor-berlin",
+    "name": "Knabenchor Berlin e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Rheingaustraße 7",
+      "postcode": "12161",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "boys' and men's choir",
+      "group and solo singing lessons"
+    ],
+    "contact": {
+      "website": "https://knabenchor-berlin.de",
+      "email": "info@knabenchor-berlin.de",
+      "email_source_url": "https://knabenchor-berlin.de/contact"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Boys' and men's choir that rehearses at a primary school in Friedenau and offers basic musical training and singing lessons in small groups. Concerts range from oratorios to musicals.",
+    "sources": [
+      "https://knabenchor-berlin.de",
+      "https://knabenchor-berlin.de/contact",
+      "https://knabenchor-berlin.de/impressum",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-27"
+  },
+  {
+    "id": "tempelhof-schoeneberg-eckener-gymnasium",
+    "name": "Eckener-Gymnasium",
+    "category": "EDU",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Kaiserstraße 17-21",
+      "postcode": "12105",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "strings",
+      "woodwind",
+      "guitar_plucked",
+      "keyboard",
+      "percussion",
+      "voice"
+    ],
+    "instruments_detail": [
+      "violin",
+      "viola",
+      "cello",
+      "double bass",
+      "saxophone",
+      "clarinet",
+      "guitar",
+      "electric guitar",
+      "electric bass",
+      "keyboard",
+      "drums",
+      "voice"
+    ],
+    "contact": {
+      "website": "https://eckener-gymnasium.de",
+      "email": "info@eckener-gymnasium.de",
+      "email_source_url": "https://eckener-gymnasium.de/impressum/",
+      "phone": "030 90277 7448"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "State secondary school in Mariendorf with a school orchestra, a string club, a wind ensemble and band classes run with the district music school. Instrument lessons for strings, saxophone and clarinet are given in the afternoon.",
+    "sources": [
+      "https://eckener-gymnasium.de/kategorie/fachbereich/musisch-kuenstlerischer-fachbereich/musik/",
+      "https://eckener-gymnasium.de/impressum/"
     ],
     "found_by": "district-scout:tempelhof-schoeneberg",
     "last_verified": "2026-10-27"

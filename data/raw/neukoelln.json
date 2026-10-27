@@ -252,5 +252,49 @@
     ],
     "found_by": "district-scout:neukoelln",
     "last_verified": "2026-10-27"
+  },
+  {
+    "id": "neukoelln-neukoellner-oper-jugend",
+    "name": "Neuköllner Oper (NO Jung and NO Kids youth programmes)",
+    "category": "OUT",
+    "district": "Neukölln",
+    "address": {
+      "street": "Karl-Marx-Straße 131-133",
+      "postcode": "12043",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "music-making and singing in youth music-theatre ensembles (no individual lessons listed)"
+    ],
+    "contact": {
+      "email": "info@neukoellneroper.de",
+      "email_source_url": "https://www.neukoellneroper.de/impressum/",
+      "phone": "030/688907 77",
+      "website": "https://www.neukoellneroper.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-27"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "conditions": {
+      "requirements": "The Ausschreibungen page lists only technical posts and says unsolicited applications (Initiativbewerbungen) go to the info address; no music-education vacancy."
+    },
+    "email_language": "de",
+    "summary_en": "Opera house with youth ensembles NO Jung (young people) and NO Kids (ages 10 to 15) that create music-theatre productions with professional artists. No music-teaching vacancy posted; unsolicited applications are accepted.",
+    "sources": [
+      "https://www.neukoellneroper.de/",
+      "https://www.neukoellneroper.de/zukunft/junge-nko/",
+      "https://www.neukoellneroper.de/neukoellner-oper-kinder-klub/",
+      "https://www.neukoellneroper.de/ausschreibungen/",
+      "https://www.neukoellneroper.de/impressum/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-27"
   }
 ]

@@ -776,7 +776,7 @@
    "phone": "030 214 724 60"
   },
   "offer": {
-   "status": "initiative_welcome",
+   "status": "posted",
    "title": "Klavierlehrer*innen gesucht (Standort Schliemannstraße)",
    "url": "https://klavierschule-berenstein.com/jobs",
    "checked": "2026-10-27"
@@ -796,7 +796,14 @@
   "last_verified": "2026-10-27",
   "sites": [
    {
-    "name": "Standort Prenzlauer Berg (Schliemannstraße)"
+    "name": "Standort Prenzlauer Berg (Schliemannstraße)",
+    "street": "Schliemannstraße 17",
+    "postcode": "10437"
+   },
+   {
+    "name": "Standort 2 Mitte",
+    "street": "Wöhlertstraße 11",
+    "postcode": "10115"
    }
   ]
  },
@@ -835,6 +842,323 @@
   "sources": [
    "https://www.berlinerdom.de/musik/unsere-musiker/berliner-domkantorei/",
    "https://www.berlinerdom.de/impressum/"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-marienkantorei",
+  "name": "MarienKantorei (St. Marienkirche)",
+  "category": "CHO",
+  "district": "Mitte",
+  "address": {
+   "street": "Waisenstraße 28",
+   "postcode": "10179",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "voice"
+  ],
+  "instruments_detail": [
+   "oratorio choir",
+   "chamber choir",
+   "liturgical choir"
+  ],
+  "contact": {
+   "website": "https://marienkirche-berlin.de/musik/",
+   "email": "buero@marienkirche-berlin.de",
+   "email_source_url": "https://marienkirche-berlin.de/impressum/",
+   "phone": "030 24 75 95 10"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Church choirs of the St. Marien congregation near Alexanderplatz: an oratorio choir, a chamber choir and a liturgical choir with weekly rehearsals. No open call for singers or teachers is published.",
+  "sources": [
+   "https://marienkirche-berlin.de/musik/",
+   "https://marienkirche-berlin.de/impressum/"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-posaunenchor-st-marien-friedrichswerder",
+  "name": "Posaunenchor St. Marien-Friedrichswerder",
+  "category": "WND",
+  "district": "Mitte",
+  "address": {
+   "street": "Taubenstraße 6",
+   "postcode": "10117",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "brass"
+  ],
+  "instruments_detail": [
+   "trombone choir (brass band)"
+  ],
+  "contact": {
+   "website": "https://marienkirche-berlin.de/musik/",
+   "email": "buero@marienkirche-berlin.de",
+   "email_source_url": "https://marienkirche-berlin.de/impressum/",
+   "phone": "030 24 75 95 10"
+  },
+  "offer": {
+   "status": "initiative_welcome",
+   "title": "Interested players are invited to get in touch",
+   "url": "https://marienkirche-berlin.de/musik/",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Church brass choir of the St. Marien-Friedrichswerder congregation, rehearsing on Wednesdays at the Schleiermacherhaus. The page invites interested people to get in touch.",
+  "sources": [
+   "https://marienkirche-berlin.de/musik/",
+   "https://marienkirche-berlin.de/impressum/"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-evangelische-schule-berlin-mitte",
+  "name": "Evangelische Schule Berlin Mitte",
+  "category": "EDU",
+  "district": "Mitte",
+  "address": {
+   "street": "Rochstraße 7",
+   "postcode": "10178",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "strings",
+   "woodwind",
+   "brass",
+   "percussion",
+   "voice"
+  ],
+  "instruments_detail": [
+   "school orchestra for grades 4 to 6 (classical orchestral instruments, drums)",
+   "brass coaching with Musikschule Fanny Hensel",
+   "school choir"
+  ],
+  "contact": {
+   "website": "https://www.ev-schule-mitte.de/",
+   "phone": "030 70725482"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "Protestant school in Mitte with a school orchestra of about 60 pupils, a school choir and a brass cooperation with the district music school. No music teacher vacancy is listed.",
+  "sources": [
+   "https://www.ev-schule-mitte.de/schulleben/schulorchester",
+   "https://www.ev-schule-mitte.de/impressum"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-musikgymnasium-carl-philipp-emanuel-bach",
+  "name": "Musikgymnasium Carl Philipp Emanuel Bach",
+  "category": "EDU",
+  "district": "Mitte",
+  "address": {
+   "street": "Rheinsberger Straße 4/5",
+   "postcode": "10115",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "strings",
+   "keyboard",
+   "woodwind",
+   "brass",
+   "guitar_plucked",
+   "voice",
+   "percussion"
+  ],
+  "instruments_detail": [
+   "all orchestral instruments",
+   "piano",
+   "guitar",
+   "voice",
+   "jazz",
+   "orchestra",
+   "choir",
+   "jazz ensemble"
+  ],
+  "contact": {
+   "website": "https://www.musikgymnasium-berlin.de/",
+   "email": "sekretariat@musikgymnasium-bach.de",
+   "email_source_url": "https://www.musikgymnasium-berlin.de/",
+   "phone": "(030) 901891530"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "State specialist music school (grades 5 to 13) with compulsory one-to-one instrumental lessons, an orchestra, a choir and a jazz ensemble. Instrumental teachers come from the two Berlin music universities; no vacancy is listed.",
+  "sources": [
+   "https://www.musikgymnasium-berlin.de/",
+   "https://miz.org/de/institutionen/musikgymnasium-carl-philipp-emanuel-bach-i2150"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-papageno-grundschule",
+  "name": "Papageno-Grundschule",
+  "category": "EDU",
+  "district": "Mitte",
+  "address": {
+   "street": "Bergstraße 58",
+   "postcode": "10115",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "strings",
+   "woodwind",
+   "guitar_plucked",
+   "voice"
+  ],
+  "instruments_detail": [
+   "recorder",
+   "guitar",
+   "violin",
+   "cello",
+   "orchestra",
+   "guitar ensemble",
+   "flute ensemble",
+   "school band",
+   "choir"
+  ],
+  "contact": {
+   "website": "http://www.papageno-grundschule.de",
+   "phone": "(030) 30881711"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "State primary school with a music profile: optional choir or instrument lessons (recorder, guitar, violin, cello) from grade 2 and ensembles from grade 3. No vacancy is listed.",
+  "sources": [
+   "https://miz.org/de/institutionen/papageno-grundschule-i2373"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-allegro-grundschule",
+  "name": "Allegro-Grundschule",
+  "category": "EDU",
+  "district": "Mitte",
+  "address": {
+   "street": "Lützowstraße 83-85",
+   "postcode": "10785",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "woodwind",
+   "strings",
+   "brass",
+   "guitar_plucked",
+   "percussion",
+   "voice"
+  ],
+  "instruments_detail": [
+   "flute (compulsory in grades 1 and 2)",
+   "small-group instrumental lessons from grade 3",
+   "string, guitar, wind and drum ensembles",
+   "children's choir"
+  ],
+  "contact": {
+   "website": "https://www.allegro-grundschule.de/",
+   "phone": "(030) 257572710"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "State primary school in Tiergarten with a music profile: flute lessons in grades 1 and 2, instrumental lessons from grade 3, ensembles and a children's choir. No vacancy is listed.",
+  "sources": [
+   "https://miz.org/de/institutionen/allegro-grundschule-i2108",
+   "https://www.allegro-grundschule.de/"
+  ],
+  "found_by": "district-scout:mitte",
+  "last_verified": "2026-10-27"
+ },
+ {
+  "id": "mitte-humboldthain-grundschule",
+  "name": "Humboldthain-Grundschule",
+  "category": "EDU",
+  "district": "Mitte",
+  "address": {
+   "street": "Grenzstraße 7",
+   "postcode": "13355",
+   "city": "Berlin"
+  },
+  "instruments": [
+   "strings",
+   "woodwind",
+   "brass",
+   "guitar_plucked",
+   "voice"
+  ],
+  "instruments_detail": [
+   "violin",
+   "cello",
+   "guitar",
+   "recorder",
+   "flute",
+   "clarinet",
+   "saxophone",
+   "trumpet",
+   "tenor horn",
+   "trombone",
+   "brass and string ensembles",
+   "three school choirs"
+  ],
+  "contact": {
+   "website": "https://www.humboldthain-grundschule.de/",
+   "email": "sekretariat@humboldthain.schule.berlin.de",
+   "email_source_url": "https://www.humboldthain-grundschule.de/impressum",
+   "phone": "(030) 46777330"
+  },
+  "offer": {
+   "status": "none_found",
+   "checked": "2026-10-27"
+  },
+  "contract": {
+   "type": "unknown"
+  },
+  "email_language": "de",
+  "summary_en": "State primary school in Gesundbrunnen with a music profile: group lessons on strings, winds, brass and guitar from grade 3, instrument loans, ensembles and three choirs. No vacancy is listed.",
+  "sources": [
+   "https://miz.org/de/institutionen/humboldthain-grundschule-i2110",
+   "https://www.humboldthain-grundschule.de/impressum",
+   "https://www.humboldthain-grundschule.de/musikbetonung/instrumentalunterricht/"
   ],
   "found_by": "district-scout:mitte",
   "last_verified": "2026-10-27"
