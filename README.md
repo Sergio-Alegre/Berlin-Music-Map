@@ -1,18 +1,18 @@
 # Berlin Music Map
 
-An interactive map of places in Berlin where classical music is taught: municipal and private music schools, schools with instrument classes, piano schools, wind bands and wind schools, choirs and singing schools, conservatories and youth orchestras. For each place it records the instrument families offered, whether it is hiring, the kind of contract, and how to get in touch. Built for music teachers looking for work, and meant to grow into a map of venues that accept long-term concert proposals.
+This is an interactive map that allows you to check the location and contact information of possible teaching positions and ensembles, both for instruments and singing. And in the future, concert venues to send proposals to.
 
 Live version: [sergioalegre.com/berlin-music-map](https://sergioalegre.com/berlin-music-map/)
 
-The map is one self-contained HTML file (`dist/berlin-music-map.html`). Open it in a browser, or serve it as a static file. Only the base-map tiles come from the internet.
+The map is one [self-contained HTML file](dist/berlin-music-map.html). You can open it directly in a browser or serve it as a static file.
 
 ## Features
 
-- Pins by category, with layers for music teaching and for singing and choirs; every category can be switched on or off, or shown alone.
-- Filters by instrument family (strings, piano and keyboards, woodwind, brass, guitar and plucked strings, accordion, voice, percussion), district, contract type, job-ad status, and free text.
-- Branches of schools drawn as small satellite markers.
-- Public transport lines (U-Bahn, S-Bahn, tram, bus) and nearest station for each place.
-- A short email dialog per place: a `mailto:` link or an `.eml` draft with your CV attached. Your name, signature and CV stay in your browser only.
+- Pins by category (teaching, choirs); toggle or solo each.
+- Filters: instrument family, district, contract type, job-ad status, free text.
+- School branches as satellite markers.
+- Transit lines (U-Bahn, S-Bahn, tram, bus); nearest station per place.
+- Email per place: `mailto:` or `.eml` draft with CV attached. Name, signature, CV stay in browser.
 
 ## Quick start
 
