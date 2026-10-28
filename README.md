@@ -43,3 +43,9 @@ Base-map tiles: Esri World Light Gray and OpenStreetMap (© OpenStreetMap contri
 ## License
 
 [MIT License](LICENSE). Third-party licenses and data sources: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Privacy
+
+Berlin Music Map ist eine in sich geschlossene HTML-Datei und läuft vollständig im Browser (clientseitig). Es werden keine Daten an meinen Server oder an Dritte übermittelt, und es werden keine Cookies verwendet. Einstellungen, Profil und Lebenslauf bleiben ausschließlich auf Ihrem Gerät, im lokalen Speicher Ihres Browsers. Die Kartenkacheln werden direkt von den Servern von Esri und OpenStreetMap geladen; diese erhalten dabei technisch bedingt Ihre IP-Adresse.
+
+Berlin Music Map is a self-contained HTML file and runs fully client-side. It does not send any information to my server or to anyone else, and it uses no cookies. Settings, profile and CV stay only on your device, in your browser's local storage. The base-map tiles are loaded directly from Esri and OpenStreetMap servers, which receive your IP address, as in any online map.
