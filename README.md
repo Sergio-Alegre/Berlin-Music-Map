@@ -2,6 +2,8 @@
 
 This is an interactive map that allows you to check the location and contact information of possible teaching positions and ensembles, both for instruments and singing. And in the future, concert venues to send proposals to.
 
+Be aware that in Settings you can fill in your profile information. The map will then create your emails adapted to each place with the information you have, so you can quickly send a proposal or contact the place. You can already use the template, which is already written, or rewrite it in your own words or in the language you wish to use.
+
 Live version: [sergioalegre.com/berlin-music-map](https://sergioalegre.com/berlin-music-map/)
 
 The map is one [self-contained HTML file](dist/berlin-music-map.html). You can open it directly in a browser or serve it as a static file.
