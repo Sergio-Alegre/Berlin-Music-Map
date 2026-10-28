@@ -141,7 +141,7 @@
           "Unterrichtssprachen: {{languages}}.",
           "{{bio}}",
           "",
-          "Gerne würde ich bei {{entity_name}} im Bereich {{role}} mitarbeiten, in Teilzeit oder auf Stundenbasis.",
+          "Gerne würde ich bei Ihnen im Bereich {{role}} mitarbeiten, in Teilzeit oder auf Stundenbasis.",
           "Meinen Lebenslauf finden Sie hier: {{cv_link}}",
           "",
           "Über eine Rückmeldung freue ich mich.",
