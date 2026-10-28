@@ -2,6 +2,8 @@
 
 An interactive map of places in Berlin where classical music is taught: municipal and private music schools, schools with instrument classes, piano schools, wind bands and wind schools, choirs and singing schools, conservatories and youth orchestras. For each place it records the instrument families offered, whether it is hiring, the kind of contract, and how to get in touch. Built for music teachers looking for work, and meant to grow into a map of venues that accept long-term concert proposals.
 
+Live version: [sergioalegre.com/berlin-music-map](https://sergioalegre.com/berlin-music-map/)
+
 The map is one self-contained HTML file (`dist/berlin-music-map.html`). Open it in a browser, or serve it as a static file. Only the base-map tiles come from the internet.
 
 ## Features
@@ -34,6 +36,10 @@ Open `dist/berlin-music-map.html`. To refresh the data, see [docs/PIPELINE.md](d
 
 ## Data and privacy
 
-The data set contains only publicly listed institutions (address, website, institutional contact). It does not contain names of people, individual teachers or private email addresses. Facts come from official pages of each institution; each entry lists its sources and the date it was last verified. If you spot a mistake or want an entry removed, open an issue.
+The data set contains only publicly listed institutions (address, website, contact), reproduced as each institution publishes it on its own pages. That includes a few contact addresses on free-mail providers and one business name that contains a person's name. Facts come from official pages of each institution; each entry lists its sources and the date it was last verified. If you spot a mistake or want an entry removed, open an issue.
 
 Base-map tiles: Esri World Light Gray and OpenStreetMap (© OpenStreetMap contributors). Transit data: VBB open data through the `vbb-*` npm packages. District borders: [funkeinteraktiv/Berlin-Geodaten](https://github.com/funkeinteraktiv/Berlin-Geodaten).
+
+## License
+
+[MIT License](LICENSE). Third-party licenses and data sources: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
