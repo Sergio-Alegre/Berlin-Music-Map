@@ -73,6 +73,13 @@ const ent = (over) => Object.assign({ id: "mitte-test-school", name: "Test Music
   eq(Mail.greeting(team, "it"), "Gentile team di Example Music School,");
   // fields about people are ignored: there is no Frau/Herr logic
   eq(Mail.greeting(ent({ contact: { contact_person: "Frau Muster", contact_title: "Frau", contact_surname: "Muster" } }), "de"), "Sehr geehrtes Team von Test Music School,");
+  // German grammar: article or plural names take the genitive, a subtitle after a colon is dropped
+  const deGreet = (name) => Mail.greeting(ent({ name }), "de");
+  eq(deGreet("Die Schottenkinder e.V."), "Sehr geehrtes Team der Schottenkinder e.V.,");
+  eq(deGreet("Chöre der Ev. Kirchengemeinde Kreuzberg"), "Sehr geehrtes Team der Chöre der Ev. Kirchengemeinde Kreuzberg,");
+  eq(deGreet("Ev. Kirchengemeinde Friedrichshagen: Kirchenmusik"), "Sehr geehrtes Team von Ev. Kirchengemeinde Friedrichshagen,");
+  eq(deGreet("Der Beispielchor"), "Sehr geehrte Damen und Herren,");
+  eq(deGreet("Kantorei Tempelhof"), "Sehr geehrtes Team von Kantorei Tempelhof,");
   ok(!("parsePerson" in Mail), "no person parsing in the module");
   eq(Mail.cleanName("Haus (X)"), "Haus (X)", "short names are left alone");
   eq(Mail.cleanName("Fröbel-Musikschule \"Fame\" (Bezirksamt)"), "Fröbel-Musikschule \"Fame\"");

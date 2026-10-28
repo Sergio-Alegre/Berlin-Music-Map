@@ -39,7 +39,7 @@ A `mailto:` link cannot attach files, so there are two routes: **Email** (a `mai
 
 Settings (collapsed panel, stored only in the visitor's browser): name, email (From header of the `.eml`), teaching languages, signature, CV link, CV file (IndexedDB), instrument and short bio per template language, templates in German, English, Spanish and Italian with variants "posted offer" and "spontaneous application". Export and import as JSON. Template variables: `{{greeting}}`, `{{entity_name}}`, `{{position_title}}`, `{{offer_url}}`, `{{my_name}}`, `{{instrument}}`, `{{languages}}`, `{{bio}}`, `{{cv_link}}`, `{{signature}}`, `{{role}}`.
 
-The greeting is addressed to the team of the entity ("Sehr geehrtes Team von …", "Dear … team", "Estimado equipo de …:", "Gentile team di …,"). Names of people are not stored in the data, so no salutation is guessed.
+The greeting is addressed to the team of the entity ("Sehr geehrtes Team von …", "Dear … team", "Estimado equipo de …:", "Gentile team di …,"). Names of people are not stored in the data, so no salutation is guessed. The German form is adjusted for names that start with "Die" or "Chöre" ("Sehr geehrtes Team der …"), drops a subtitle after a colon, and falls back to "Sehr geehrte Damen und Herren," for names that start with "Der" or "Das".
 
 ## Legend
 

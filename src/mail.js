@@ -46,8 +46,20 @@
       case "en": return "Dear " + name + " team,";
       case "es": return "Estimado equipo de " + name + ":";
       case "it": return "Gentile team di " + name + ",";
-      default: return "Sehr geehrtes Team von " + name + ",";
+      default: return germanGreeting(name);
     }
+  }
+
+  /* "Team von <name>" is only right for a singular proper name. A name that starts with an article ("Die …") or a plural
+     ("Chöre der …") needs the genitive ("Team der …"); one with a subtitle after a colon keeps the part before it;
+     "Der …" and "Das …" would need a gendered genitive, so they get the neutral form. */
+  function germanGreeting(name) {
+    var n = name.split(":")[0].trim();
+    if (/^(der|das)\s/i.test(n)) return "Sehr geehrte Damen und Herren,";
+    var art = n.match(/^die\s+(.+)$/i);
+    if (art) return "Sehr geehrtes Team der " + art[1] + ",";
+    if (/^Chöre\s/.test(n)) return "Sehr geehrtes Team der " + n + ",";
+    return "Sehr geehrtes Team von " + n + ",";
   }
 
   /* What the sender offers, by category of the entity ({{role}}). It reads after "in the area of" / "im Bereich". */
