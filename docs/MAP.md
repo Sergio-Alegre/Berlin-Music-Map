@@ -31,7 +31,7 @@ Pins that share a coordinate are spread 36 px apart on screen. Marker icons must
 
 ## Popup
 
-Name, category (colour and full name), district, nearest station with walking distance, offer status (title, deadline, link), contract type and the evidence phrase, known conditions (pay, hours, requirements), instruments offered (families and detail), contact (website, phone, email, application portal), buttons **Email**, **Email + CV (.eml)**, **Copy text**, **Apply via portal**, **Directions**, **Sources**, and the date of last verification. An email that only appears obfuscated on the entity's site carries a warning.
+Name, category (colour and full name), district, nearest station with walking distance, offer status (title, deadline, link), contract type and the evidence phrase, known conditions (pay, hours, requirements), instruments offered (families and detail), contact (website, phone, email, application portal), buttons **Email**, **Email + CV (.eml)**, **Copy text**, **Apply via portal**, **Directions**, **Sources**, and the date of last verification. An email that only appears obfuscated on the entity's site carries a warning. A place without a published email keeps the **Email** button enabled (the draft opens without a recipient, because the visitor may find the address on the entity's website or social media) and shows a red note above the buttons.
 
 ## Email module
 

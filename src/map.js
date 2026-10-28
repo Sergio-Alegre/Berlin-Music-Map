@@ -768,23 +768,22 @@
     var act = h("div", { class: "actions" });
     var emailBtn;
     function refreshMailto() {
-      if (!c.email) return;
       var msg = Mail.compose(d, settings, { lang: lang });
       emailBtn.href = Mail.buildMailto(msg.to, msg.subject, msg.body).url;
     }
-    if (c.email) {
-      emailBtn = h("a", { class: "btn primary", href: "#", text: "Email", title: "Open a draft in your mail app (no attachment; the CV goes in as a link)" });
-      emailBtn.addEventListener("click", function (ev) {
-        var msg = Mail.compose(d, settings, { lang: lang });
-        var m = Mail.buildMailto(msg.to, msg.subject, msg.body);
-        if (m.tooLong) { ev.preventDefault(); longMailDialog(e, lang, m); return; }
-        emailBtn.href = m.url;
-        if (!store.get(MAIL_TIP_KEY)) { ev.preventDefault(); mailTipDialog(e, lang, m); }
-      });
-      refreshMailto();
-    } else {
-      emailBtn = h("span", { class: "btn", "aria-disabled": "true", title: "No email address is published for this place", text: "Email" });
-    }
+    // Without a published address the button still opens a draft (no recipient): the visitor may find the address elsewhere.
+    emailBtn = h("a", { class: "btn primary", href: "#", text: "Email", title: c.email
+      ? "Open a draft in your mail app (no attachment; the CV goes in as a link)"
+      : "Open a draft without a recipient: add the address in your mail app" });
+    emailBtn.addEventListener("click", function (ev) {
+      var msg = Mail.compose(d, settings, { lang: lang });
+      var m = Mail.buildMailto(msg.to, msg.subject, msg.body);
+      if (m.tooLong) { ev.preventDefault(); longMailDialog(e, lang, m); return; }
+      emailBtn.href = m.url;
+      if (!store.get(MAIL_TIP_KEY)) { ev.preventDefault(); mailTipDialog(e, lang, m); }
+    });
+    refreshMailto();
+    if (!c.email) act.appendChild(h("p", { class: "noemail", role: "note", text: "No email address found. Check the website or social media; the draft opens without a recipient." }));
     act.appendChild(emailBtn);
     act.appendChild(h("button", { type: "button", class: "btn", text: "Email + CV (.eml)", title: "Download a draft with your CV PDF attached", onclick: function () { downloadEml(e, lang); } }));
     act.appendChild(h("button", { type: "button", class: "btn", text: "Copy text", onclick: function () { copyText(plainMessage(Mail.compose(d, settings, { lang: lang }))); } }));

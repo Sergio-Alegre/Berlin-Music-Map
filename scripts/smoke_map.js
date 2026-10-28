@@ -101,6 +101,17 @@ const hasInstr = jobs.some((e) => (e.instruments || []).length);
       check((await b.ev("document.documentElement.scrollWidth")) <= w, "no horizontal scroll with the popup open");
       await b.shot("popup");
       await b.ev("window.__bmm.map.closePopup(), 1");
+      // a place without a published email: red note above the buttons, and the Email button still opens a draft
+      await b.ev("(()=>{const e=window.__bmm.entities.find(x=>!(x.d.contact&&x.d.contact.email)); window.__bmm.map.setView([e.d.geo.lat,e.d.geo.lng],15,{animate:false}); e.marker.openPopup(); return 1})()");
+      await sleep(800);
+      const noMail = JSON.parse(await b.ev(`JSON.stringify((()=>{
+        const note=document.querySelector('.leaflet-popup .noemail'), btn=Array.from(document.querySelectorAll('.leaflet-popup .actions .btn')).find(n=>n.textContent.trim()==='Email');
+        return {note: note ? note.textContent : '', color: note ? getComputedStyle(note).color : '', enabled: !!btn && btn.tagName==='A' && btn.getAttribute('aria-disabled')!=='true',
+          above: !!note && !!btn && !!(note.compareDocumentPosition(btn) & Node.DOCUMENT_POSITION_FOLLOWING)};})())`));
+      check(/No email address found/.test(noMail.note) && noMail.color === "rgb(179, 38, 30)", "no-email place: red note " + noMail.color);
+      check(noMail.enabled && noMail.above, "no-email place: Email button enabled, note above the buttons");
+      await b.shot("popup-no-email");
+      await b.ev("window.__bmm.map.closePopup(), 1");
       // panels at this width: open each one and look for horizontal overflow
       for (const p of ["filters", "legend", "layers", "settings"]) {
         const wasOpen = await b.ev(`!document.getElementById('panel-${p}').hidden`);
