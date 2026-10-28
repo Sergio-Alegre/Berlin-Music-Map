@@ -202,6 +202,12 @@ const hasInstr = jobs.some((e) => (e.instruments || []).length);
             (e.sats||[]).forEach(s=>{if(!s._icon||!m.hasLayer(s))return;const q=s._icon.getBoundingClientRect(),t=m.latLngToContainerPoint(s.getLatLng());n++;w=Math.max(w,Math.abs(q.left-c.left+7-t.x),Math.abs(q.top-c.top+7-t.y));});});
           return {w:Math.round(w*10)/10,n};})()`);
         check(worst.w <= 2 && worst.n > 0, `pins and satellites on their coordinate at zoom ${z} (${worst.n} markers, maximum offset ${worst.w} px)`);
+        // independent of the anchor arithmetic above: the visible tip of the drawn pin (bottom centre of the .pin box)
+        const tip = await b.ev(`(()=>{const B=window.__bmm,m=B.map,c=m.getContainer().getBoundingClientRect();let w=0,n=0;
+          B.entities.forEach(e=>{const mk=e.marker;if(!mk||!mk._icon||!m.hasLayer(mk)||e.dx)return;const el=mk._icon.querySelector('.pin');if(!el)return;
+            const r=el.getBoundingClientRect(),p=m.latLngToContainerPoint(mk.getLatLng());n++;w=Math.max(w,Math.abs(r.left+r.width/2-c.left-p.x),Math.abs(r.bottom-c.top-p.y));});
+          return {w:Math.round(w*10)/10,n};})()`);
+        check(tip.w <= 2 && tip.n > 0, `drawn pin tip on the coordinate at zoom ${z} (${tip.n} pins, maximum offset ${tip.w} px)`);
       }
       const bad = b.logs.filter((l) => l.kind !== "tile-network");
       check(bad.length === 0, "no exceptions or console errors" + (bad.length ? ": " + bad.map((l) => l.text).join(" | ") : ""));

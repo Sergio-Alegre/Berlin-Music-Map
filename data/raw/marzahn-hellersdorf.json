@@ -21,10 +21,9 @@
         "postcode": "12627"
       },
       {
-        "name": "Kunsthaus Flora"
-      },
-      {
-        "name": "MS Maratstraße"
+        "name": "Kunsthaus Flora",
+        "street": "Florastraße 113",
+        "postcode": "12623"
       },
       {
         "name": "Standort Ludwigsfelder Straße",
@@ -55,6 +54,7 @@
     "email_language": "de",
     "summary_en": "District music school with a string department (violin, viola, youth symphony orchestra). It regularly advertises freelance (Honorar) posts for single instruments; no string post open on 2026-10-15.",
     "sources": [
+      "https://www.berlin.de/musikschule-mh/ueber-uns/die-standorte-der-musikschule/artikel.1604140.php",
       "https://www.berlin.de/musikschule-mh/ueber-uns/ihre-ansprechpartner/artikel.1604310.php",
       "https://www.berlin.de/musikschule-mh/instrumente-unterrichte-fachgruppen/streichinstrumente/artikel.1605763.php",
       "https://www.berlin.de/musikschule-mh/aktuelles/ausschreibung_posaune2026.pdf",
@@ -100,10 +100,29 @@
     },
     "sites": [
       {
-        "name": "Musikschule Marzahn"
+        "name": "Musikschule Marzahn 1 (Gretel-Bergmann-Gemeinschaftsschule)",
+        "street": "Liebensteiner Straße 24",
+        "postcode": "12687"
       },
       {
-        "name": "Musikschule Hellersdorf"
+        "name": "Musikschule Marzahn 2 (JFE Treibhaus)",
+        "street": "Allee der Kosmonauten 170",
+        "postcode": "12685"
+      },
+      {
+        "name": "Musikschule Marzahn 3 (Karl-Friedrich-Friesen-Grundschule)",
+        "street": "Max-Herrmann-Straße 5",
+        "postcode": "12687"
+      },
+      {
+        "name": "Musikschule Marzahn 4 (Falken-Grundschule)",
+        "street": "Geraer Ring 2",
+        "postcode": "12689"
+      },
+      {
+        "name": "Musikschule Marzahn 5 (Grundschule an der Mühle)",
+        "street": "Kienbergstraße 59",
+        "postcode": "12685"
       }
     ],
     "contact": {
@@ -121,6 +140,7 @@
     },
     "summary_en": "Private music school in Marzahn, Hellersdorf and Mahlsdorf teaching voice, piano, guitar, bass, drums and violin. No jobs page found.",
     "sources": [
+      "https://www.musikschule-marzahn.de/standorte-musikschulen-in-berlin.html",
       "https://www.musikschule-marzahn.de/",
       "https://www.musikschule-marzahn.de/impressum-musikschule-fame-berlin.html",
       "https://www.musikschule-marzahn.de/geigenunterricht-violine-lehrer-in-marzahn.html",

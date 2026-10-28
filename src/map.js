@@ -664,7 +664,7 @@
     var s = (d.offer && d.offer.status) || "none_found";
     if (s === "posted") return h("span", { class: "status posted", text: "Open job ad" });
     if (s === "initiative_welcome") return h("span", { class: "status initiative", text: "★ Invites applications" });
-    return h("span", { class: "status none", text: "No ad found · you can still apply" });
+    return h("span", { class: "status none", text: "No ad found · you can send an unsolicited application" });
   }
 
   function buildCard(e, ctx) {
@@ -1256,9 +1256,9 @@
     applyFilters();
     var pts = entities.map(function (e) { return [e.d.geo.lat, e.d.geo.lng]; });
     if (pts.length) map.fitBounds(L.latLngBounds(pts), { padding: [24, 24] });
-    var w = window.innerWidth, hgt = window.innerHeight;
+    var w = window.innerWidth;
     if (w >= 900) setPanel("layers", true, true);
-    if (w >= 1200 && hgt >= 760) setPanel("legend", true, true);
+    // the legend repeats the category list of the layers panel, so it starts closed
     // hooks for scripts/smoke_map.js
     window.__bmm = { transitGroups: transitGroups, boundaryLayer: boundaryLayer, map: map, entities: entities, view: view, applyFilters: applyFilters, setOnly: setOnly, showAll: showAll, setTransit: setTransit, settings: function () { return settings; }, counts: counts, instrCounts: instrCounts, transitCounts: transitCounts };
   }

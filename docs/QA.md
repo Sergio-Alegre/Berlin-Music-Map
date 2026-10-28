@@ -1,5 +1,7 @@
 # QA checklist
 
+Write the review report to `docs/QA-report.md`.
+
 ## Data
 
 - [ ] 100 % of entities validate against `data/schema.json` (`scripts/validate.py --require-geo`).

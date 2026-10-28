@@ -10,11 +10,6 @@
     },
     "sites": [
       {
-        "name": "Haus der Bildung (Verwaltung)",
-        "street": "Boddinstraße 34",
-        "postcode": "12053"
-      },
-      {
         "name": "Gutshaus Schloss & Gutshof Britz",
         "street": "Alt-Britz 81",
         "postcode": "12359"

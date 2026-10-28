@@ -1785,17 +1785,6 @@
     },
     "sites": [
       {
-        "name": "Geschäftsstelle Bethanien (Kreuzberg)",
-        "street": "Mariannenplatz 2",
-        "postcode": "10997",
-        "geo": {
-          "lat": 52.5036639,
-          "lng": 13.424156,
-          "precision": "address",
-          "source": "nominatim"
-        }
-      },
-      {
         "name": "Zweigstelle Friedrichshain",
         "street": "Zellestraße 12",
         "postcode": "10247",
@@ -2174,7 +2163,6 @@
       "city": "Berlin"
     },
     "contact": {
-      "email_obfuscated": true,
       "website": "https://bach-bewegt.com/kantorei-karlshorst/"
     },
     "instruments": [
@@ -2453,7 +2441,7 @@
     },
     "sites": [
       {
-        "name": "Sede central Schöneberg",
+        "name": "Main site Schöneberg",
         "street": "Feurigstraße 39",
         "postcode": "10827",
         "geo": {
@@ -2928,10 +2916,15 @@
         }
       },
       {
-        "name": "Kunsthaus Flora"
-      },
-      {
-        "name": "MS Maratstraße"
+        "name": "Kunsthaus Flora",
+        "street": "Florastraße 113",
+        "postcode": "12623",
+        "geo": {
+          "lat": 52.5175332,
+          "lng": 13.6218219,
+          "precision": "address",
+          "source": "nominatim"
+        }
       },
       {
         "name": "Standort Ludwigsfelder Straße",
@@ -2968,6 +2961,7 @@
     "email_language": "de",
     "summary_en": "District music school with a string department (violin, viola, youth symphony orchestra). It regularly advertises freelance (Honorar) posts for single instruments; no string post open on 2026-10-15.",
     "sources": [
+      "https://www.berlin.de/musikschule-mh/ueber-uns/die-standorte-der-musikschule/artikel.1604140.php",
       "https://www.berlin.de/musikschule-mh/ueber-uns/ihre-ansprechpartner/artikel.1604310.php",
       "https://www.berlin.de/musikschule-mh/instrumente-unterrichte-fachgruppen/streichinstrumente/artikel.1605763.php",
       "https://www.berlin.de/musikschule-mh/aktuelles/ausschreibung_posaune2026.pdf",
@@ -3141,10 +3135,59 @@
     },
     "sites": [
       {
-        "name": "Musikschule Marzahn"
+        "name": "Musikschule Marzahn 1 (Gretel-Bergmann-Gemeinschaftsschule)",
+        "street": "Liebensteiner Straße 24",
+        "postcode": "12687",
+        "geo": {
+          "lat": 52.557923,
+          "lng": 13.560124,
+          "precision": "address",
+          "source": "nominatim"
+        }
       },
       {
-        "name": "Musikschule Hellersdorf"
+        "name": "Musikschule Marzahn 2 (JFE Treibhaus)",
+        "street": "Allee der Kosmonauten 170",
+        "postcode": "12685",
+        "geo": {
+          "lat": 52.5386399,
+          "lng": 13.5614734,
+          "precision": "address",
+          "source": "nominatim"
+        }
+      },
+      {
+        "name": "Musikschule Marzahn 3 (Karl-Friedrich-Friesen-Grundschule)",
+        "street": "Max-Herrmann-Straße 5",
+        "postcode": "12687",
+        "geo": {
+          "lat": 52.5531423,
+          "lng": 13.563079,
+          "precision": "address",
+          "source": "nominatim"
+        }
+      },
+      {
+        "name": "Musikschule Marzahn 4 (Falken-Grundschule)",
+        "street": "Geraer Ring 2",
+        "postcode": "12689",
+        "geo": {
+          "lat": 52.5656681,
+          "lng": 13.5564055,
+          "precision": "address",
+          "source": "nominatim"
+        }
+      },
+      {
+        "name": "Musikschule Marzahn 5 (Grundschule an der Mühle)",
+        "street": "Kienbergstraße 59",
+        "postcode": "12685",
+        "geo": {
+          "lat": 52.5398413,
+          "lng": 13.5656266,
+          "precision": "address",
+          "source": "nominatim"
+        }
       }
     ],
     "contact": {
@@ -3162,6 +3205,7 @@
     },
     "summary_en": "Private music school in Marzahn, Hellersdorf and Mahlsdorf teaching voice, piano, guitar, bass, drums and violin. No jobs page found.",
     "sources": [
+      "https://www.musikschule-marzahn.de/standorte-musikschulen-in-berlin.html",
       "https://www.musikschule-marzahn.de/",
       "https://www.musikschule-marzahn.de/impressum-musikschule-fame-berlin.html",
       "https://www.musikschule-marzahn.de/geigenunterricht-violine-lehrer-in-marzahn.html",
@@ -4515,7 +4559,7 @@
     },
     "offer": {
       "status": "posted",
-      "title": "Fachkräfte für Violine, Klarinette und Akkordeon (auf Honorarbasis)",
+      "title": "Fachkräfte für Violine, Klarinette und Akkordeon (auf Honorarbasis; ad dated 06/2026)",
       "url": "http://www.moamusikschule.de/stellenangebote/",
       "checked": "2026-10-28"
     },
@@ -4703,17 +4747,6 @@
       "city": "Berlin"
     },
     "sites": [
-      {
-        "name": "Haus der Bildung (Verwaltung)",
-        "street": "Boddinstraße 34",
-        "postcode": "12053",
-        "geo": {
-          "lat": 52.4795158,
-          "lng": 13.4271217,
-          "precision": "address",
-          "source": "nominatim"
-        }
-      },
       {
         "name": "Gutshaus Schloss & Gutshof Britz",
         "street": "Alt-Britz 81",
@@ -6426,7 +6459,7 @@
     "contact": {
       "website": "https://www.hoffnungskirche-pankow.de/page/135/blaeserchor",
       "email": "gemeinde@hoffnungskirche-pankow.de",
-      "email_source_url": "https://www.hoffnungskirche-pankow.de/page/135/blaeserchor"
+      "email_source_url": "https://www.hoffnungskirche-pankow.de/"
     },
     "offer": {
       "status": "none_found",
@@ -6798,9 +6831,6 @@
           "precision": "address",
           "source": "nominatim"
         }
-      },
-      {
-        "name": "Unterrichtsorte: Borsigwalde, Frohnau, Heiligensee, Hermsdorf, Lübars, Märkisches Viertel, Reinickendorf, Tegel, Tegelort, Waidmannslust, Wittenau"
       }
     ],
     "contact": {
@@ -6825,7 +6855,7 @@
       "requirements": "No ad. The 2026 permanent posts usually go to the school's own Honorarkräfte. AV MuS-Honorare conditions in force until 31.12.2026; 2027 ones yet to be published."
     },
     "email_language": "de",
-    "summary_en": "District music school with a strings department (violin, viola, cello, bass) and string ensembles. No vacancy posted; send an unsolicited application to the strings department head.",
+    "summary_en": "District music school with a strings department (violin, viola, cello, bass) and string ensembles. No vacancy posted; send an unsolicited application to the strings department head. Lessons are also given in Borsigwalde, Frohnau, Heiligensee, Hermsdorf, Lübars, Märkisches Viertel, Reinickendorf, Tegel, Tegelort, Waidmannslust and Wittenau.",
     "sources": [
       "https://www.berlin.de/musikschule-reinickendorf/service/ansprechpartner/",
       "https://www.berlin.de/musikschule-reinickendorf/ueber-uns/fachgruppenleitung/",
@@ -8203,7 +8233,7 @@
     "contract": {
       "type": "unknown"
     },
-    "email_language": "de",
+    "email_language": "en",
     "summary_en": "Bilingual German-American public school in Zehlendorf with a Fine Arts programme: string classes and orchestras from grade 5, a Suzuki violin programme and school bands. The careers page shows no openings and teaching posts require teacher certification.",
     "sources": [
       "https://www.jfks.de/",

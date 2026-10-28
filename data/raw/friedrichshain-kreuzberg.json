@@ -10,11 +10,6 @@
     },
     "sites": [
       {
-        "name": "Geschäftsstelle Bethanien (Kreuzberg)",
-        "street": "Mariannenplatz 2",
-        "postcode": "10997"
-      },
-      {
         "name": "Zweigstelle Friedrichshain",
         "street": "Zellestraße 12",
         "postcode": "10247"

@@ -237,6 +237,10 @@ def check_entity(entity, schema, districts, categories, instruments, opts, today
                 warnings.append(msg + " (postcode precision)")
             else:
                 errors.append(msg)
+    if opts.require_geo:
+        for i, site in enumerate(entity.get("sites") or []):
+            if isinstance(site, dict) and not site.get("geo"):
+                warnings.append(f".sites[{i}] ({site.get('name', '?')}): no coordinates, so it is not on the map (add street and postcode)")
     return errors, warnings
 
 

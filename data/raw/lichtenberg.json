@@ -171,7 +171,7 @@
   },
   "sites": [
    {
-    "name": "Sede central Schöneberg",
+    "name": "Main site Schöneberg",
     "street": "Feurigstraße 39",
     "postcode": "10827"
    }
@@ -363,7 +363,6 @@
    "city": "Berlin"
   },
   "contact": {
-   "email_obfuscated": true,
    "website": "https://bach-bewegt.com/kantorei-karlshorst/"
   },
   "instruments": [
