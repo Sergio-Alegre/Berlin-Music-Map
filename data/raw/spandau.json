@@ -324,7 +324,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Large traditional Berlin amateur choir with roots in Spandau, focused on opera and choral symphonic repertoire, rehearsing on Tuesdays at the Lily-Braun-Gymnasium. It welcomes new singers; no paid vacancy found.",
+    "summary_en": "Large traditional Berlin amateur choir with roots in Spandau, focused on opera and choral symphonic repertoire, rehearsing on Tuesdays at the Lily-Braun-Gymnasium. No paid vacancy found.",
     "sources": [
       "https://www.chorvereinigung-berlin-spandau.de/wir-ueber-uns/kontakt/",
       "https://www.chorvereinigung-berlin-spandau.de/"
@@ -781,7 +781,7 @@
       "mixed concert choir (oratorios, opera choruses, sacred music, folk songs)"
     ],
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "summary_en": "Mixed concert choir that rehearses on Thursday evenings at the Schule an der Haveldüne and invites interested singers to join a rehearsal. Music-reading skills are helpful but not required.",
@@ -819,7 +819,7 @@
       "pop, rock and musical choir (about 80 singers)"
     ],
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "summary_en": "Pop choir of the Kirchenkreis Spandau that rehearses on Thursday evenings at the Petruskirche and holds auditions for new singers twice a year.",
@@ -856,7 +856,7 @@
       "gospel and pop choir (soprano, alto, tenor, bass)"
     ],
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "summary_en": "Mixed gospel choir that rehearses on Friday evenings at the Protestant parish of Kladow and welcomes new singers, especially low male voices. No music-reading skills are required.",

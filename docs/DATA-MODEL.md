@@ -36,7 +36,7 @@ After `geocode.js` and `enrich_stations.js` each entity also carries `geo` (`lat
 | --- | --- |
 | `category` | ids in `data/categories.json` (MUN, PRV, PNO, WND, EDU, HOC, ENS, OUT, CHO) |
 | `instruments` | family ids in `data/instruments.json`: `strings`, `keyboard`, `woodwind`, `brass`, `guitar_plucked`, `accordion`, `voice`, `percussion` |
-| `offer.status` | `posted` (concrete open ad with URL), `initiative_welcome` (invites applications), `none_found` |
+| `offer.status` | `posted` (concrete open ad with URL), `initiative_welcome` (invites applications from teachers), `none_found`. Looking for new singers or players is not an offer: choirs are listed as places where a teacher can propose themselves as conductor or voice coach, or invite members to private lessons |
 | `contract.type` | `employment`, `honorar_hourly`, `honorar_commission` (commission or room rent), `freelance_project`, `mixed`, `unknown` |
 | `geo.precision` | `address`, `street` (a street-level hit, which can be about 100 m off, drawn solid), `postcode` (approximate, drawn with a dashed border) |
 | `email_language` | `de`, `en`, `es`, `it` (language of the default email template) |

@@ -1055,16 +1055,14 @@
       "email_source_url": "https://berliner-cappella.de/probentermine/"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Mitsingen? (new singers)",
-      "url": "https://berliner-cappella.de/proben/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur mixed choir rehearsing on Tuesday evenings in the Allegro-Grundschule hall in Tiergarten. New singers can write to the choir to join.",
+    "summary_en": "Amateur mixed choir rehearsing on Tuesday evenings in the Allegro-Grundschule hall in Tiergarten.",
     "sources": [
       "https://berliner-cappella.de/probentermine/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -1094,16 +1092,14 @@
       "email_source_url": "https://www.nordberliner-chor.de/impressum"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Neue MitsängerInnen willkommen",
-      "url": "https://www.nordberliner-chor.de/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur mixed choir rehearsing on Thursday evenings at the Leo-Lionni-Grundschule in Wedding. New singers are expressly welcome.",
+    "summary_en": "Amateur mixed choir rehearsing on Thursday evenings at the Leo-Lionni-Grundschule in Wedding.",
     "sources": [
       "https://www.nordberliner-chor.de/",
       "https://www.nordberliner-chor.de/impressum",
@@ -1134,10 +1130,8 @@
       "email_source_url": "https://www.vokalkolleg.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Neue Stimmen willkommen",
-      "url": "https://www.vokalkolleg.de/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
@@ -1174,16 +1168,14 @@
       "email_source_url": "https://kammerchor-wedding.wixsite.com/kammerchor-wedding-e"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "New voices welcome",
-      "url": "https://kammerchor-wedding.wixsite.com/kammerchor-wedding-e"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Chamber choir in Wedding that rehearses at the Leo-Lionni-Schule. It welcomes new voices in all parts without an audition.",
+    "summary_en": "Chamber choir in Wedding that rehearses at the Leo-Lionni-Schule.",
     "sources": [
       "https://kammerchor-wedding.wixsite.com/kammerchor-wedding-e",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -1213,16 +1205,14 @@
       "email_source_url": "https://www.vocantare.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Tenors and basses wanted",
-      "url": "https://www.vocantare.de/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Chamber choir rehearsing on Wednesday evenings at the Leo-Lionni-Grundschule in Wedding. It is looking for tenors and basses.",
+    "summary_en": "Chamber choir rehearsing on Wednesday evenings at the Leo-Lionni-Grundschule in Wedding.",
     "sources": [
       "https://www.vocantare.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -1252,10 +1242,8 @@
       "email_source_url": "https://www.begegnungschor.com/"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Register by email to sing along",
-      "url": "https://www.begegnungschor.com/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
@@ -1296,7 +1284,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur choir rehearsing on Monday evenings in a school hall in Mitte. At the moment it keeps a waiting list for all voices.",
+    "summary_en": "Amateur choir rehearsing on Monday evenings in a school hall in Mitte.",
     "sources": [
       "https://www.chorcantare.de/mitsingen/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -1324,16 +1312,14 @@
       "website": "https://lavoixmixte.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Wir freuen uns über neue Stimmen",
-      "url": "https://lavoixmixte.de/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed choir based at the Musikschule Fanny Hensel branch in Wedding. Its website invites new singers.",
+    "summary_en": "Mixed choir based at the Musikschule Fanny Hensel branch in Wedding.",
     "sources": [
       "https://lavoixmixte.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"

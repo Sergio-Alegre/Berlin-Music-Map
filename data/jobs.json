@@ -118,7 +118,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Independent youth choir with three age groups, rehearsing on Wednesdays in the Birger-Forell-Grundschule in Wilmersdorf. New singers can join at any time without an audition.",
+    "summary_en": "Independent youth choir with three age groups, rehearsing on Wednesdays in the Birger-Forell-Grundschule in Wilmersdorf.",
     "sources": [
       "https://berliner-mozart-chor.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -240,7 +240,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Women's choir singing Bulgarian folk repertoire, rehearsing on Wednesdays in the Sühne-Christi-Kirche in Charlottenburg-Nord. The site has a page for prospective singers.",
+    "summary_en": "Women's choir singing Bulgarian folk repertoire, rehearsing on Wednesdays in the Sühne-Christi-Kirche in Charlottenburg-Nord.",
     "sources": [
       "https://www.bulgarianvoicesberlin.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -336,7 +336,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed amateur choir rehearsing on Wednesday evenings at the Friedensburg-Oberschule in Charlottenburg. The website invites new singers to join.",
+    "summary_en": "Mixed amateur choir rehearsing on Wednesday evenings at the Friedensburg-Oberschule in Charlottenburg.",
     "sources": [
       "https://chor-confetti.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -622,7 +622,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Project-based chamber choir at the Gedächtniskirche, founded in 2023, with about four rehearsals per project. Singers join by audition; no teacher call published.",
+    "summary_en": "Project-based chamber choir at the Gedächtniskirche, founded in 2023, with about four rehearsals per project. No teacher call published.",
     "sources": [
       "https://www.gedaechtniskirche-berlin.de/ueber/kirchenmusiker/kammerchor-memoria",
       "https://www.gedaechtniskirche-berlin.de/impressum"
@@ -913,7 +913,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Vocal ensemble that rehearses on Monday evenings in the Luisenkirche parish hall. The website has a page for prospective singers.",
+    "summary_en": "Vocal ensemble that rehearses on Monday evenings in the Luisenkirche parish hall.",
     "sources": [
       "https://www.luisen-vocalensemble.de/",
       "https://www.luisen-vocalensemble.de/mitsingen/",
@@ -961,7 +961,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed four-part amateur choir of about 35 singers aged 16 to 66, singing Renaissance to modern works on Thursdays at the Herder-Gymnasium. New members can join at any time.",
+    "summary_en": "Mixed four-part amateur choir of about 35 singers aged 16 to 66, singing Renaissance to modern works on Thursdays at the Herder-Gymnasium.",
     "sources": [
       "https://www.berlin.de/musikschule-charlottenburg-wilmersdorf/orchester-chor-ensemble-band/choere/artikel.90714.php"
     ],
@@ -1007,7 +1007,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Jazz choir that rehearses on Thursday evenings at the IBZ in Wilmersdorf. The contact page has a mailbox for new members.",
+    "summary_en": "Jazz choir that rehearses on Thursday evenings at the IBZ in Wilmersdorf.",
     "sources": [
       "https://www.singingmehappy.de/",
       "https://www.singingmehappy.de/kontakt/",
@@ -1104,7 +1104,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Parish choir of about 40 singers performing sacred music, rehearsing on Wednesdays in the Trinitatiskirche and parish hall. New members are welcome.",
+    "summary_en": "Parish choir of about 40 singers performing sacred music, rehearsing on Wednesdays in the Trinitatiskirche and parish hall.",
     "sources": [
       "https://www.lietzow-evangelisch.de/gemeindeleben/musikgruppen",
       "https://www.lietzow-evangelisch.de/evangelisch-vor-ort/orte-und-kontakt",
@@ -2190,14 +2190,14 @@
       "website": "https://aurum-vocale.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed chamber choir rehearsing on Tuesday evenings in the Heilig-Kreuz parish rooms. It has a page for prospective singers; no teaching vacancy found.",
+    "summary_en": "Mixed chamber choir rehearsing on Tuesday evenings in the Heilig-Kreuz parish rooms. No teaching vacancy found.",
     "sources": [
       "https://aurum-vocale.de/",
       "https://aurum-vocale.de/kontakt/",
@@ -2238,14 +2238,14 @@
       "website": "https://www.berliner-liedertafel.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Men's choir rehearsing on Thursday evenings at the Nachbarschaftshaus Urbanstraße. The choir is looking for new singers; no teaching vacancy found.",
+    "summary_en": "Men's choir rehearsing on Thursday evenings at the Nachbarschaftshaus Urbanstraße. No teaching vacancy found.",
     "sources": [
       "https://www.berliner-liedertafel.de/",
       "https://berliner-liedertafel.de/de/impressum/",
@@ -2386,7 +2386,7 @@
       "website": "https://www.ernstbuschchorberlin.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
@@ -2587,7 +2587,7 @@
       "website": "https://www.polizeichor-berlin.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
@@ -2682,14 +2682,14 @@
       "website": "https://www.soundcompass-chor.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed choir rehearsing on Tuesdays at the Lebensfreude meeting place in Friedrichshain. It invites new singers; no teaching vacancy found.",
+    "summary_en": "Mixed choir rehearsing on Tuesdays at the Lebensfreude meeting place in Friedrichshain. No teaching vacancy found.",
     "sources": [
       "https://www.soundcompass-chor.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -2729,14 +2729,14 @@
       "website": "https://www.tonraumfuenf10.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed choir rehearsing on Mondays at the Bethel parish in Friedrichshain. It invites interested singers to write to the choir; no teaching vacancy found.",
+    "summary_en": "Mixed choir rehearsing on Mondays at the Bethel parish in Friedrichshain. No teaching vacancy found.",
     "sources": [
       "https://www.tonraumfuenf10.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -3384,7 +3384,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur mixed choir rehearsing on the S-Bahn works site in Friedrichsfelde. It is looking for new singers, especially men.",
+    "summary_en": "Amateur mixed choir rehearsing on the S-Bahn works site in Friedrichsfelde.",
     "sources": [
       "https://www.emachor-berlin.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -3534,7 +3534,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Chamber choir rehearsing on Thursdays in Lichtenberg. It is looking for tenors and basses with some musical experience.",
+    "summary_en": "Chamber choir rehearsing on Thursdays in Lichtenberg.",
     "sources": [
       "https://www.piekfeinetoene-berlin.de",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -3582,7 +3582,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Male choir founded in 1890 that rehearses in the parish hall Zum Guten Hirten in Friedrichsfelde. New members can get in touch by email.",
+    "summary_en": "Male choir founded in 1890 that rehearses in the parish hall Zum Guten Hirten in Friedrichsfelde.",
     "sources": [
       "https://www.caecilia1890.de/",
       "https://www.caecilia1890.de/de/contact",
@@ -3631,7 +3631,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed amateur choir singing gospel, spirituals and jazz, rehearsing on Mondays in the Gemeindezentrum am Fennpfuhl. New singers are welcome.",
+    "summary_en": "Mixed amateur choir singing gospel, spirituals and jazz, rehearsing on Mondays in the Gemeindezentrum am Fennpfuhl.",
     "sources": [
       "https://www.paul-robeson-chor.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -4920,10 +4920,8 @@
       "email_source_url": "https://www.begegnungschor.com/"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Register by email to sing along",
-      "url": "https://www.begegnungschor.com/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
@@ -4969,16 +4967,14 @@
       "email_source_url": "https://berliner-cappella.de/probentermine/"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Mitsingen? (new singers)",
-      "url": "https://berliner-cappella.de/proben/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur mixed choir rehearsing on Tuesday evenings in the Allegro-Grundschule hall in Tiergarten. New singers can write to the choir to join.",
+    "summary_en": "Amateur mixed choir rehearsing on Tuesday evenings in the Allegro-Grundschule hall in Tiergarten.",
     "sources": [
       "https://berliner-cappella.de/probentermine/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -5072,7 +5068,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur choir rehearsing on Monday evenings in a school hall in Mitte. At the moment it keeps a waiting list for all voices.",
+    "summary_en": "Amateur choir rehearsing on Monday evenings in a school hall in Mitte.",
     "sources": [
       "https://www.chorcantare.de/mitsingen/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -5112,16 +5108,14 @@
       "email_source_url": "https://www.vocantare.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Tenors and basses wanted",
-      "url": "https://www.vocantare.de/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Chamber choir rehearsing on Wednesday evenings at the Leo-Lionni-Grundschule in Wedding. It is looking for tenors and basses.",
+    "summary_en": "Chamber choir rehearsing on Wednesday evenings at the Leo-Lionni-Grundschule in Wedding.",
     "sources": [
       "https://www.vocantare.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -5161,16 +5155,14 @@
       "email_source_url": "https://kammerchor-wedding.wixsite.com/kammerchor-wedding-e"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "New voices welcome",
-      "url": "https://kammerchor-wedding.wixsite.com/kammerchor-wedding-e"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Chamber choir in Wedding that rehearses at the Leo-Lionni-Schule. It welcomes new voices in all parts without an audition.",
+    "summary_en": "Chamber choir in Wedding that rehearses at the Leo-Lionni-Schule.",
     "sources": [
       "https://kammerchor-wedding.wixsite.com/kammerchor-wedding-e",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -5208,16 +5200,14 @@
       "website": "https://lavoixmixte.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Wir freuen uns über neue Stimmen",
-      "url": "https://lavoixmixte.de/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed choir based at the Musikschule Fanny Hensel branch in Wedding. Its website invites new singers.",
+    "summary_en": "Mixed choir based at the Musikschule Fanny Hensel branch in Wedding.",
     "sources": [
       "https://lavoixmixte.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -5307,16 +5297,14 @@
       "email_source_url": "https://www.nordberliner-chor.de/impressum"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Neue MitsängerInnen willkommen",
-      "url": "https://www.nordberliner-chor.de/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur mixed choir rehearsing on Thursday evenings at the Leo-Lionni-Grundschule in Wedding. New singers are expressly welcome.",
+    "summary_en": "Amateur mixed choir rehearsing on Thursday evenings at the Leo-Lionni-Grundschule in Wedding.",
     "sources": [
       "https://www.nordberliner-chor.de/",
       "https://www.nordberliner-chor.de/impressum",
@@ -5407,10 +5395,8 @@
       "email_source_url": "https://www.vokalkolleg.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
-      "checked": "2026-10-29",
-      "title": "Neue Stimmen willkommen",
-      "url": "https://www.vokalkolleg.de/"
+      "status": "none_found",
+      "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
@@ -9683,7 +9669,7 @@
       "gospel, spiritual and pop choir"
     ],
     "email_language": "de",
-    "summary_en": "Gospel and pop choir based in Reinickendorf that rehearses on Wednesdays in the parish hall of the Allerheiligen church. It is currently looking for tenors and basses.",
+    "summary_en": "Gospel and pop choir based in Reinickendorf that rehearses on Wednesdays in the parish hall of the Allerheiligen church.",
     "sources": [
       "https://www.family-and-friends.info/",
       "https://www.family-and-friends.info/kontakt",
@@ -10432,7 +10418,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Large traditional Berlin amateur choir with roots in Spandau, focused on opera and choral symphonic repertoire, rehearsing on Tuesdays at the Lily-Braun-Gymnasium. It welcomes new singers; no paid vacancy found.",
+    "summary_en": "Large traditional Berlin amateur choir with roots in Spandau, focused on opera and choral symphonic repertoire, rehearsing on Tuesdays at the Lily-Braun-Gymnasium. No paid vacancy found.",
     "sources": [
       "https://www.chorvereinigung-berlin-spandau.de/wir-ueber-uns/kontakt/",
       "https://www.chorvereinigung-berlin-spandau.de/"
@@ -10576,7 +10562,7 @@
       "gospel and pop choir (soprano, alto, tenor, bass)"
     ],
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "summary_en": "Mixed gospel choir that rehearses on Friday evenings at the Protestant parish of Kladow and welcomes new singers, especially low male voices. No music-reading skills are required.",
@@ -10624,7 +10610,7 @@
       "pop, rock and musical choir (about 80 singers)"
     ],
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "summary_en": "Pop choir of the Kirchenkreis Spandau that rehearses on Thursday evenings at the Petruskirche and holds auditions for new singers twice a year.",
@@ -10671,7 +10657,7 @@
       "mixed concert choir (oratorios, opera choruses, sacred music, folk songs)"
     ],
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "summary_en": "Mixed concert choir that rehearses on Thursday evenings at the Schule an der Haveldüne and invites interested singers to join a rehearsal. Music-reading skills are helpful but not required.",
@@ -11768,7 +11754,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur choir singing synagogue music and Israeli songs, rehearsing on Tuesday evenings at the Baptist church in Steglitz. New singers are welcome.",
+    "summary_en": "Amateur choir singing synagogue music and Israeli songs, rehearsing on Tuesday evenings at the Baptist church in Steglitz.",
     "sources": [
       "https://www.shalom-chor-berlin.de/"
     ],
@@ -13063,7 +13049,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur choir rehearsing on Tuesday evenings at a Schöneberg school, performing works such as Mozart's Requiem and Britten's A Ceremony of Carols. It is looking for tenors and basses.",
+    "summary_en": "Amateur choir rehearsing on Tuesday evenings at a Schöneberg school, performing works such as Mozart's Requiem and Britten's A Ceremony of Carols.",
     "sources": [
       "https://bancanta.de",
       "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
@@ -13353,7 +13339,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Amateur choir in Lichtenrade rehearsing every Monday evening at the Gemeinschaftshaus Lichtenrade. It is looking for singers in all voice parts.",
+    "summary_en": "Amateur choir in Lichtenrade rehearsing every Monday evening at the Gemeinschaftshaus Lichtenrade.",
     "sources": [
       "https://lichtenraderchor.de",
       "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
@@ -13448,7 +13434,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed crossover choir founded in 1995 that rehearses on Thursday evenings at the Rathaus Schöneberg and is a course of the Musikschule Leo Kestenberg. Currently seeking tenors and basses.",
+    "summary_en": "Mixed crossover choir founded in 1995 that rehearses on Thursday evenings at the Rathaus Schöneberg and is a course of the Musikschule Leo Kestenberg.",
     "sources": [
       "https://www.schoeneberger-klangkoerper.de",
       "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
@@ -14291,7 +14277,7 @@
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed choir of the KungerKiezInitiative that sings songs from many countries and centuries and rehearses on Monday evenings. It is currently looking for tenors and basses.",
+    "summary_en": "Mixed choir of the KungerKiezInitiative that sings songs from many countries and centuries and rehearses on Monday evenings.",
     "sources": [
       "https://www.die-weltberliner.de/",
       "https://www.die-weltberliner.de/impressum",

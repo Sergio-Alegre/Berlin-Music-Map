@@ -637,14 +637,14 @@
       "website": "https://www.berliner-liedertafel.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Men's choir rehearsing on Thursday evenings at the Nachbarschaftshaus Urbanstraße. The choir is looking for new singers; no teaching vacancy found.",
+    "summary_en": "Men's choir rehearsing on Thursday evenings at the Nachbarschaftshaus Urbanstraße. No teaching vacancy found.",
     "sources": [
       "https://www.berliner-liedertafel.de/",
       "https://berliner-liedertafel.de/de/impressum/",
@@ -713,14 +713,14 @@
       "website": "https://aurum-vocale.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed chamber choir rehearsing on Tuesday evenings in the Heilig-Kreuz parish rooms. It has a page for prospective singers; no teaching vacancy found.",
+    "summary_en": "Mixed chamber choir rehearsing on Tuesday evenings in the Heilig-Kreuz parish rooms. No teaching vacancy found.",
     "sources": [
       "https://aurum-vocale.de/",
       "https://aurum-vocale.de/kontakt/",
@@ -751,7 +751,7 @@
       "website": "https://www.polizeichor-berlin.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
@@ -789,7 +789,7 @@
       "website": "https://www.ernstbuschchorberlin.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
@@ -827,14 +827,14 @@
       "website": "https://www.soundcompass-chor.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed choir rehearsing on Tuesdays at the Lebensfreude meeting place in Friedrichshain. It invites new singers; no teaching vacancy found.",
+    "summary_en": "Mixed choir rehearsing on Tuesdays at the Lebensfreude meeting place in Friedrichshain. No teaching vacancy found.",
     "sources": [
       "https://www.soundcompass-chor.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
@@ -864,14 +864,14 @@
       "website": "https://www.tonraumfuenf10.de/"
     },
     "offer": {
-      "status": "initiative_welcome",
+      "status": "none_found",
       "checked": "2026-10-29"
     },
     "contract": {
       "type": "unknown"
     },
     "email_language": "de",
-    "summary_en": "Mixed choir rehearsing on Mondays at the Bethel parish in Friedrichshain. It invites interested singers to write to the choir; no teaching vacancy found.",
+    "summary_en": "Mixed choir rehearsing on Mondays at the Bethel parish in Friedrichshain. No teaching vacancy found.",
     "sources": [
       "https://www.tonraumfuenf10.de/",
       "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
