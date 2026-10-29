@@ -621,5 +621,344 @@
     "district": "Friedrichshain-Kreuzberg",
     "last_verified": "2026-10-27",
     "found_by": "district-scout:friedrichshain-kreuzberg"
+  },
+  {
+    "id": "friedrichshain-kreuzberg-berliner-liedertafel",
+    "name": "Berliner Liedertafel 1884 e.V.",
+    "category": "CHO",
+    "address": {
+      "street": "Urbanstraße 21",
+      "postcode": "10961",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@berliner-liedertafel.de",
+      "email_source_url": "https://berliner-liedertafel.de/de/impressum/",
+      "website": "https://www.berliner-liedertafel.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Men's choir rehearsing on Thursday evenings at the Nachbarschaftshaus Urbanstraße. The choir is looking for new singers; no teaching vacancy found.",
+    "sources": [
+      "https://www.berliner-liedertafel.de/",
+      "https://berliner-liedertafel.de/de/impressum/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "men's choir singing"
+    ]
+  },
+  {
+    "id": "friedrichshain-kreuzberg-clara-schumann-frauenchor",
+    "name": "Clara Schumann Frauenchor e.V.",
+    "category": "CHO",
+    "address": {
+      "street": "Oranienstraße 132",
+      "postcode": "10969",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "mail@clara-schumann-chor.de",
+      "email_source_url": "https://clara-schumann-chor.de/impressum/",
+      "website": "https://clara-schumann-chor.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Women's choir with registered office in Kreuzberg; rehearses on Monday evenings in the parish hall of St. Jacobi. No teaching vacancy found.",
+    "sources": [
+      "https://clara-schumann-chor.de/",
+      "https://clara-schumann-chor.de/impressum/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "women's choir singing"
+    ]
+  },
+  {
+    "id": "friedrichshain-kreuzberg-aurum-vocale",
+    "name": "Aurum Vocale",
+    "category": "CHO",
+    "address": {
+      "street": "Nostitzstraße 6-7",
+      "postcode": "10961",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kontakt@aurum-vocale.de",
+      "email_source_url": "https://aurum-vocale.de/kontakt/",
+      "website": "https://aurum-vocale.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed chamber choir rehearsing on Tuesday evenings in the Heilig-Kreuz parish rooms. It has a page for prospective singers; no teaching vacancy found.",
+    "sources": [
+      "https://aurum-vocale.de/",
+      "https://aurum-vocale.de/kontakt/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir singing"
+    ]
+  },
+  {
+    "id": "friedrichshain-kreuzberg-polizeichor-berlin",
+    "name": "Polizeichor Berlin",
+    "category": "CHO",
+    "address": {
+      "street": "Golßener Straße 6",
+      "postcode": "10965",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@polizeichor-berlin.de",
+      "email_source_url": "https://www.polizeichor-berlin.de/",
+      "website": "https://www.polizeichor-berlin.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Men's and women's choirs of the Berlin police, rehearsing at the police directorate in Kreuzberg. New members are welcome and membership no longer requires being a police officer.",
+    "sources": [
+      "https://www.polizeichor-berlin.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "men's choir singing",
+      "women's choir singing"
+    ]
+  },
+  {
+    "id": "friedrichshain-kreuzberg-ernst-busch-chor",
+    "name": "Ernst-Busch-Chor Berlin e.V.",
+    "category": "CHO",
+    "address": {
+      "street": "Franz-Mehring-Platz 1",
+      "postcode": "10243",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "vorstand@ernstbuschchorberlin.de",
+      "email_source_url": "https://www.ernstbuschchorberlin.de/kontakt.html",
+      "website": "https://www.ernstbuschchorberlin.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Senior choir rehearsing on Wednesday mornings at the FMP1 studio stage. Prospective singers may sit in on a rehearsal.",
+    "sources": [
+      "https://www.ernstbuschchorberlin.de/",
+      "https://www.ernstbuschchorberlin.de/kontakt.html",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "senior choir singing"
+    ]
+  },
+  {
+    "id": "friedrichshain-kreuzberg-soundcompass-chor",
+    "name": "Soundcompass Chor",
+    "category": "CHO",
+    "address": {
+      "street": "Kadiner Straße 1",
+      "postcode": "10243",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "soundcompass.chor@web.de",
+      "email_source_url": "https://www.soundcompass-chor.de/",
+      "website": "https://www.soundcompass-chor.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed choir rehearsing on Tuesdays at the Lebensfreude meeting place in Friedrichshain. It invites new singers; no teaching vacancy found.",
+    "sources": [
+      "https://www.soundcompass-chor.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir singing"
+    ]
+  },
+  {
+    "id": "friedrichshain-kreuzberg-tonraumfuenf10",
+    "name": "tonraumfünf10",
+    "category": "CHO",
+    "address": {
+      "street": "Matternstraße 17",
+      "postcode": "10249",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "vorstand@tonraumfuenf10.de",
+      "email_source_url": "https://www.tonraumfuenf10.de/",
+      "website": "https://www.tonraumfuenf10.de/"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed choir rehearsing on Mondays at the Bethel parish in Friedrichshain. It invites interested singers to write to the choir; no teaching vacancy found.",
+    "sources": [
+      "https://www.tonraumfuenf10.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir singing"
+    ]
+  },
+  {
+    "id": "friedrichshain-kreuzberg-polyphonia-berlin",
+    "name": "Polyphonia Berlin (German-Greek choir)",
+    "category": "CHO",
+    "address": {
+      "street": "Falckensteinstraße 6",
+      "postcode": "10997",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@polyphonia-chor.de",
+      "email_source_url": "https://polyphonia-chor.de/",
+      "website": "https://polyphonia-chor.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "German-Greek mixed choir rehearsing on Wednesday evenings at a community centre in Kreuzberg. No call for singers or teachers found.",
+    "sources": [
+      "https://polyphonia-chor.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir singing"
+    ]
+  },
+  {
+    "id": "friedrichshain-kreuzberg-glassperlen-frauenchor",
+    "name": "Glaßperlen e. V.",
+    "category": "CHO",
+    "address": {
+      "street": "Hagelberger Straße 34",
+      "postcode": "10965",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@glassperlen-chor.de",
+      "email_source_url": "https://www.glassperlen-chor.de/",
+      "website": "https://www.glassperlen-chor.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Women's choir rehearsing on Monday evenings at the Glaßbrenner primary school in Kreuzberg. No call for singers or teachers found.",
+    "sources": [
+      "https://www.glassperlen-chor.de/",
+      "https://www.glassperlen-chor.de/impressum-und-datenschutz/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "district": "Friedrichshain-Kreuzberg",
+    "found_by": "district-scout:friedrichshain-kreuzberg",
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "women's choir singing"
+    ]
   }
 ]

@@ -63,3 +63,19 @@ All 8 kept entities got instruments. Added email: Musikschule FK (musikschule@ba
 - Instrument families for BTMK, Hermann-Hesse-Gymnasium: sites do not itemise instruments, so only voice is set.
 - PNO still empty: no dedicated piano school with an official website found in the district.
 - Private-school (PRV) discovery remains thin; search engine returns other cities. Suggest a manual check of Google Maps for Friedrichshain.
+
+## Third pass (2026-10-29)
+
+### Sources
+Chorverband Berlin JSON (360 choirs, 64 with district Friedrichshain-Kreuzberg; rehearsal places taken from it) plus the official sites of about 30 of them. 1 WebSearch (Posaunenchor, nothing in the district found). Waldorfschule Kreuzberg site fetched.
+
+### Added (CHO, 9)
+Berliner Liedertafel, Clara Schumann Frauenchor (registered office Oranienstr. 132), Aurum Vocale, Polizeichor Berlin (rehearsal Golssener Str. 6; site has only a PO box), Ernst-Busch-Chor, Soundcompass Chor (web.de choir mailbox), tonraumfuenf10, Polyphonia Berlin, Glassperlen. Address is the rehearsal place from the Chorverband list; email from the choir site.
+
+### Not added
+- No institutional email or contact page readable: Philharmonischer Chor (only a personal email on the Impressum, office in Schoeneberg), Friedrichshainer Spatzen (no email, Impressum address Schreinerstr. 27 only), studiosi cantandi, Chorabella (rehearses in Friedenau), Kammerchor Jeunesse, Byrdland, Perry Chickers, Jaezzchor, SphereGroove, Boximusic, Con forza (contact form only), ok!choir (404), Neuer Kammerchor (403), Ladies reChoired (not recruiting, posteo address), Belcanto (redirect not followed), Lukas Kantorei and RosaCavaliere (SSL error), via nova (expired certificate), High Fossility (403).
+- Berliner Kinderchor e.V.: official address Hofjaegerallee 26a (Mitte/Tiergarten), only rehearses in Kreuzberg; outside district.
+- School choirs of the Haendel-Gymnasium (Voca, Primaner, Canta Chiara, etc.): covered by the EDU entity.
+- Instagram-only or no-website choirs (Montagschor, Kiezchor, Kitschchor, taz Chor, Solala, Jede Woche Anders, Unsung Vocal Soul Collective, Friedrichshainer Jugendchor): no official page.
+- Waldorfschule Kreuzberg (Ritterstr. 78): site mentions no orchestra, choir or instrument lessons; only a music-teacher substitute ad. Evangelische Schule Friedrichshain: domain guess did not resolve.
+- No parish Posaunenchor besides Emmaus found.

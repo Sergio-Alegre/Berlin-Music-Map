@@ -1386,5 +1386,621 @@
       "children's choirs"
     ],
     "found_by": "district-scout:charlottenburg-wilmersdorf:pass2"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-karl-forster-chor",
+    "name": "Karl-Forster-Chor Berlin",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Johannisberger Straße 15A",
+      "postcode": "14197",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://karl-forster-chor.de/",
+      "email": "kontakt@karl-forster-chor.de",
+      "email_source_url": "https://karl-forster-chor.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed concert choir that rehearses on Tuesday evenings in the parish hall of the Lindenkirche in Wilmersdorf. It runs project-based singing for experienced choristers.",
+    "sources": [
+      "https://karl-forster-chor.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed concert choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-berliner-mozart-chor",
+    "name": "Berliner Mozart-Chor (children's, Mozartini and youth choir)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Koblenzer Straße 24",
+      "postcode": "10715",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://berliner-mozart-chor.de/",
+      "email": "mitsingen@berliner-mozart-chor.de",
+      "email_source_url": "https://berliner-mozart-chor.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Independent youth choir with three age groups, rehearsing on Wednesdays in the Birger-Forell-Grundschule in Wilmersdorf. New singers can join at any time without an audition.",
+    "sources": [
+      "https://berliner-mozart-chor.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "children's choir",
+      "Mozartini",
+      "youth choir from 14"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-golfchor-berlin-brandenburg",
+    "name": "Golfchor Berlin-Brandenburg",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Furtwänglerstraße 5",
+      "postcode": "14193",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://golfchor.de/",
+      "email": "info@golfchor.de",
+      "email_source_url": "https://golfchor.de/impressum/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur choir for golfers and friends that rehearses on Tuesday evenings in the Grunewald parish house. It works with a conductor and a piano accompanist.",
+    "sources": [
+      "https://golfchor.de/",
+      "https://golfchor.de/impressum/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed amateur choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-luisen-vocalensemble",
+    "name": "Luisen-Vocalensemble",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Gierkeplatz 4",
+      "postcode": "10585",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.luisen-vocalensemble.de/",
+      "email": "info@luisen-vocalensemble.de",
+      "email_source_url": "https://www.luisen-vocalensemble.de/kontakt/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Vocal ensemble that rehearses on Monday evenings in the Luisenkirche parish hall. The website has a page for prospective singers.",
+    "sources": [
+      "https://www.luisen-vocalensemble.de/",
+      "https://www.luisen-vocalensemble.de/mitsingen/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "vocal ensemble"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-junger-kammerchor-berlin",
+    "name": "Junger Kammerchor Berlin e. V.",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Weimarische Straße 21",
+      "postcode": "10715",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://jungerkammerchorberlin.de/",
+      "email": "info@jungerkammerchorberlin.de",
+      "email_source_url": "https://jungerkammerchorberlin.de/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Chamber choir of young adults that rehearses on Tuesdays at the Marie-Curie-Gymnasium in Wilmersdorf. It performs with orchestras, for example Bach's Magnificat in December 2026.",
+    "sources": [
+      "https://jungerkammerchorberlin.de/",
+      "https://jungerkammerchorberlin.de/mitsingen",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "chamber choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-chor-confetti",
+    "name": "Chor Confetti e. V.",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Goethestraße 8-9",
+      "postcode": "10623",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://chor-confetti.de/",
+      "email": "info@chor-confetti.de",
+      "email_source_url": "https://chor-confetti.de/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed amateur choir rehearsing on Wednesday evenings at the Friedensburg-Oberschule in Charlottenburg. The website invites new singers to join.",
+    "sources": [
+      "https://chor-confetti.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-studiochor-berlin",
+    "name": "StudioChor Berlin e.V.",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Goethestraße 8-9",
+      "postcode": "10623",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.studio-chor-berlin.de/",
+      "email": "info@studio-chor-berlin.de",
+      "email_source_url": "https://www.studio-chor-berlin.de/impressum",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Registered choir society that rehearses on Tuesday evenings at the Friedensburg-Oberschule in Charlottenburg. The site has pages on rehearsals and joining.",
+    "sources": [
+      "https://www.studio-chor-berlin.de/",
+      "https://www.studio-chor-berlin.de/der-chor/chorproben",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-cantus-domus",
+    "name": "Cantus Domus",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Herbartstraße 4",
+      "postcode": "14057",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://cantusdomus.de/",
+      "email": "vorstand@cantusdomus.de",
+      "email_source_url": "https://cantusdomus.de/impressum/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Choir for contemporary and unusual concert formats that rehearses on Thursdays in the Lietzensee parish hall. The site has pages on joining and voice training.",
+    "sources": [
+      "https://cantusdomus.de/",
+      "https://cantusdomus.de/mitsingen/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-hugo-distler-chor",
+    "name": "Hugo-Distler-Chor Berlin e.V.",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Nassauische Straße 66",
+      "postcode": "10717",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://hugo-distler-chor.de/",
+      "email": "vorsitz@hugo-distler-chor.de",
+      "email_source_url": "https://hugo-distler-chor.de/kontakt/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed choir attached to the Kirche am Hohenzollernplatz that rehearses on Thursday evenings. It offers voice training and invites guests to attend trial rehearsals.",
+    "sources": [
+      "https://hugo-distler-chor.de/",
+      "https://hugo-distler-chor.de/mitsingen/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir",
+      "voice training"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-bulgarian-voices-berlin",
+    "name": "Bulgarian Voices Berlin e.V.",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Toeplerstraße 3",
+      "postcode": "13627",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.bulgarianvoicesberlin.de/",
+      "email": "contact@bulgarianvoicesberlin.de",
+      "email_source_url": "https://www.bulgarianvoicesberlin.de/contact/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Women's choir singing Bulgarian folk repertoire, rehearsing on Wednesdays in the Sühne-Christi-Kirche in Charlottenburg-Nord. The site has a page for prospective singers.",
+    "sources": [
+      "https://www.bulgarianvoicesberlin.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "women's choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-singing-me-happy-jazzchor",
+    "name": "Singing me happy (jazz choir)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Wiesbadener Straße 18",
+      "postcode": "14197",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.singingmehappy.de/",
+      "email": "info@singingmehappy.de",
+      "email_source_url": "https://www.singingmehappy.de/impressum/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Jazz choir that rehearses on Thursday evenings at the IBZ in Wilmersdorf. The contact page has a mailbox for new members.",
+    "sources": [
+      "https://www.singingmehappy.de/",
+      "https://www.singingmehappy.de/kontakt/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "jazz choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-berliner-kantorei-motettenchor",
+    "name": "Berliner Kantorei and Berliner Motettenchor (Grunewald parish)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Furtwänglerstraße 5",
+      "postcode": "14193",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.kantorei.de/",
+      "email": "kirchenmusik@grunewaldgemeinde.de",
+      "email_source_url": "https://www.kantorei.de/weitere-choere/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Large amateur choir of about 80 singers and a smaller a cappella chamber choir, both based in the Grunewald parish house. The site publishes a role mailbox for those who want to sing.",
+    "sources": [
+      "https://www.kantorei.de/",
+      "https://www.kantorei.de/weitere-choere/",
+      "https://www.kantorei.de/impressum/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "oratorio choir",
+      "chamber choir"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-trinitatis-kantorei",
+    "name": "Trinitatis-Kantorei (Lietzow parish)",
+    "category": "CHO",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Leibnizstraße 79",
+      "postcode": "10625",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.lietzow-evangelisch.de/gemeindeleben/musikgruppen",
+      "email": "buero@trinitatiskirche.de",
+      "email_source_url": "https://www.lietzow-evangelisch.de/evangelisch-vor-ort/orte-und-kontakt"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish choir of about 40 singers performing sacred music, rehearsing on Wednesdays in the Trinitatiskirche and parish hall. New members are welcome.",
+    "sources": [
+      "https://www.lietzow-evangelisch.de/gemeindeleben/musikgruppen",
+      "https://www.lietzow-evangelisch.de/evangelisch-vor-ort/orte-und-kontakt",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "parish choir (Kantorei)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-trinitatis-posaunenchor",
+    "name": "Trinitatis Posaunenchor (Lietzow parish)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Karl-August-Platz",
+      "postcode": "10625",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.lietzow-evangelisch.de/gemeindeleben/musikgruppen",
+      "email": "buero@trinitatiskirche.de",
+      "email_source_url": "https://www.lietzow-evangelisch.de/evangelisch-vor-ort/orte-und-kontakt"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass band founded in 2014, with separate beginner and advanced rehearsals on Tuesdays in the Trinitatiskirche. Instruments can be lent for a fee.",
+    "sources": [
+      "https://www.lietzow-evangelisch.de/gemeindeleben/musikgruppen",
+      "https://www.lietzow-evangelisch.de/evangelisch-vor-ort/orte-und-kontakt"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "horn",
+      "trumpet",
+      "trombone",
+      "tuba"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-posaunenchor-alt-lietzow",
+    "name": "Posaunenchor Alt-Lietzow (Luisen parish)",
+    "category": "WND",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Gierkeplatz 4",
+      "postcode": "10585",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.lietzow-evangelisch.de/gemeindeleben/musikgruppen",
+      "email": "info@lietzow-evangelisch.de",
+      "email_source_url": "https://www.lietzow-evangelisch.de/evangelisch-vor-ort/orte-und-kontakt"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass band with more than 60 years of history, rehearsing on Monday evenings in the Luisenkirche. It plays at services, parish festivals and concerts.",
+    "sources": [
+      "https://www.lietzow-evangelisch.de/gemeindeleben/musikgruppen",
+      "https://www.lietzow-evangelisch.de/evangelisch-vor-ort/orte-und-kontakt",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass band (Posaunenchor)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
+  },
+  {
+    "id": "charlottenburg-wilmersdorf-die-schuetzlinge-trinitatis",
+    "name": "Die Schützlinge (instrumental group of the Trinitatis parish)",
+    "category": "ENS",
+    "district": "Charlottenburg-Wilmersdorf",
+    "address": {
+      "street": "Karl-August-Platz",
+      "postcode": "10625",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.lietzow-evangelisch.de/gemeindeleben/musikgruppen",
+      "email": "buero@trinitatiskirche.de",
+      "email_source_url": "https://www.lietzow-evangelisch.de/evangelisch-vor-ort/orte-und-kontakt"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur orchestra with open instrumentation that meets twice a month on Fridays in the Trinitatiskirche. Players of nearly all instruments and ages are welcome.",
+    "sources": [
+      "https://www.lietzow-evangelisch.de/gemeindeleben/musikgruppen",
+      "https://www.lietzow-evangelisch.de/evangelisch-vor-ort/orte-und-kontakt"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "strings",
+      "woodwind",
+      "brass"
+    ],
+    "instruments_detail": [
+      "open instrumentation (lay orchestra)"
+    ],
+    "found_by": "district-scout:charlottenburg-wilmersdorf:pass3"
   }
 ]

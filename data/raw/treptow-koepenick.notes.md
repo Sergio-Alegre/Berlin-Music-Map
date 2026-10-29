@@ -29,3 +29,11 @@
 - Still unverified from first pass (no site reachable): Zauberklang, Klangspiele e.V., Yamaha Musikschule Wassersportallee, Viva la Musica.
 - Failed: kirche-altglienicke.de (fetch blocked; Altglienicke parish music unchecked), christophorus-kirche.de /impressum (404), other guessed parish domains (Köpenick Stadtkirche, Adlershof, Treptow, Grünau, Rahnsdorf) did not resolve. No PNO school, no Blasorchester outside churches, and no school with string/wind classes was found.
 - Doubt: Johannisthal parish also covers Oberschöneweide (Christuskirche); only the Johannisthal address is recorded.
+
+## Third pass (2026-10-29)
+- Source: Chorverband Berlin JSON (https://www.chorverband-berlin.de/wp-json/jet-cct/choere/), 16 member choirs listed for Treptow-Köpenick. Added 10 CHO entities whose own site loads and names a rehearsal place: Die Weltberliner (now with rehearsal address, Aula Röntgenschule, and role mailbox from the Impressum), JoCHOR, Kammerchor Sing! Sing!, Gemischter Chor Altglienicke, Déjà-Ouï, Chorensemble Köpenick, Berolina Chorensemble (address from its own site: Kiezklub Bohnsdorf, which differs from the Chorverband entry), Cöpenicker Liedertafel, Chorgemeinschaft pro musica Treptow, St. Laurentius-Kantorei Köpenick.
+- No emails recorded for the new choirs except Die Weltberliner: other pages show only personal addresses (conductor, chair) or free-mail addresses, or none. Address of a choir is its rehearsal place.
+- Not added: Shanty-Chor Köpenick (shanty repertoire, only a lawyer-firm address on site), Ensemble Musici Berlin (domain for sale), Chorensemble Intermezzo (no site), Hofküchenchor (no site), d'aChor (no site, no address), Jazz'n'Oldies (site did not load, Merianschule Köpenick rehearsal room), FCU Oldies as before.
+- Altglienicke parish music (b): kirche-altglienicke.de still fails and one WebSearch found nothing; Posaunenchor/Kantorei there remain unchecked.
+- (c) Schools: no new primary source found showing instrumental teaching; none added. The unverified private schools (Zauberklang, Klangspiele, Yamaha, Viva la Musica) were not retried (no web search budget spent on them).
+- Doubt: Laurentius-Kantorei is part of the Stadtkirchengemeinde Köpenick; the entity uses the Gemeindehaus address (Am Generalshof 7) where the choirs rehearse.

@@ -54,3 +54,24 @@ None.
 - Rosenthal-Wilhelmsruh entries have no email: the only address shown is a free-mail (mail.de) parish box; not recorded.
 - Church groups run by parishes: all offers are none_found; "new members wanted" refers to players and singers, not teachers.
 - Klavierschule Berlin has no Impressum link (address and email taken from its contact page).
+
+## Third pass (2026-10-29)
+
+### Searches and sources
+- Chorverband Berlin JSON (360 choirs, 38 in Pankow). 2 WebSearch calls for Posaunenchöre Alt-Pankow/Buch/Karow (nothing relevant), WebFetch of the choir sites, alt-pankow.de.
+- Failed: kirche-berlin-nordost.de Posaunenchor page (ECONNRESET), vocasa.de (403 again), spirited.de and soundshakeberlin.de (no connection), chordichgluecklich.de (403), entrevoces.de/impressum (404).
+
+### Added (7)
+- CHO (6): Singschule Prenzlauer Berg Nord (Göhrener Str. 11; replaces the single Elias-based children's/youth choirs listed in the Chorverband JSON), Chor LiedGut Weißensee, Canto Ergo Sum, Coro EntreVoces, CoroConBrio, amici musicae Kammerchor.
+- WND (1): Bläserkreis Alt-Pankow (no email: the page shows only a link containing a personal name).
+
+### Skipped, with reasons
+- Konzertchor Berliner Pädagogen: its own site says rehearsals are in Friedrichshain (Koppenstr. 76), not Pankow.
+- Joyful Singers: domain redirects to joyfulsingersberlin.de; not checked further. Fine Voices: no rehearsal address. panCHORaner (gmx box), hardChorELLA (web.de box), JazzVocals, Gemischter Chor Berlin-Pankow (gmail), Soundshake, Spirited, Erich-Fried-Chor, Carl-von-Ossietzky-Chor, Berliner Vokalkreis, Fugatonale, enchore, Indie Pop Chor: no generic institutional email or site not verified in this pass; candidates for a later pass.
+- School choirs (Young Voices, Bornholmer Grundschule), Kinderchor der Musikschule Pankow: covered by the schools or the MUN entry.
+- Peu a Peu, MyMusicSchool, Tastsinn, Kleinen Klangzauberer, Vocasa: still not verifiable, not added.
+- Posaunenchöre Buch and Karow: no official page found.
+
+### Doubts
+- Coro Con Brio's rehearsal place comes from the Chorverband JSON; its own site gives no place.
+- Bläserkreis Alt-Pankow address is the parish address used for the Kantorei; the page names no rehearsal room.

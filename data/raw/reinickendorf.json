@@ -408,5 +408,314 @@
     ],
     "last_verified": "2026-10-27",
     "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-shanty-chor-reinickendorf",
+    "name": "Shanty-Chor Reinickendorf",
+    "category": "CHO",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Senftenberger Ring 34 A",
+      "postcode": "13435",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.shanty-chor-reinickendorf.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "shanty singing (male and mixed voices)"
+    ],
+    "email_language": "de",
+    "summary_en": "Sea-shanty choir founded in 1914 that rehearses on Thursday afternoons at the senior centre in the Märkisches Viertel. It welcomes new singers and musicians of all ages; no email is published, only a phone line.",
+    "sources": [
+      "https://www.shanty-chor-reinickendorf.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-family-and-friends-gospelchor",
+    "name": "Gospelchor Family & Friends",
+    "category": "CHO",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Räuschstraße 18-20",
+      "postcode": "13509",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "+49 30 434 53 21",
+      "website": "https://www.family-and-friends.info/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "gospel, spiritual and pop choir"
+    ],
+    "email_language": "de",
+    "summary_en": "Gospel and pop choir based in Reinickendorf that rehearses on Wednesdays in the parish hall of the Allerheiligen church. It is currently looking for tenors and basses.",
+    "sources": [
+      "https://www.family-and-friends.info/",
+      "https://www.family-and-friends.info/kontakt",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-deutsch-franzoesischer-chor",
+    "name": "Deutsch-Französischer Chor Berlin",
+    "category": "CHO",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Letteallee 39",
+      "postcode": "13409",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kon.takt@dfc.berlin",
+      "email_source_url": "https://www.dfc.berlin/proben-kontakt/",
+      "website": "https://www.dfc.berlin/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir (chansons, classical, folk)"
+    ],
+    "email_language": "de",
+    "summary_en": "Mixed choir singing chansons, classical works and international folk music, rehearsing on Thursday evenings in the Reginhard school hall. Interested singers are asked to contact the choir before visiting a rehearsal.",
+    "sources": [
+      "https://www.dfc.berlin/",
+      "https://www.dfc.berlin/proben-kontakt/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-kirchenmusik-tegel-borsigwalde",
+    "name": "Kirchenmusik der Ev. Kirchengemeinde Tegel-Borsigwalde (Kantorei Alt-Tegel)",
+    "category": "CHO",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Alt-Tegel 39",
+      "postcode": "13507",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@tegel-borsigwalde.de",
+      "email_source_url": "https://www.tegel-borsigwalde.de/aktiv-in-der-gemeinde#musik",
+      "phone": "(030) 43779903",
+      "website": "https://www.tegel-borsigwalde.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "voice",
+      "brass",
+      "guitar_plucked"
+    ],
+    "instruments_detail": [
+      "choir",
+      "children's choirs",
+      "brass ensemble",
+      "guitar ensemble"
+    ],
+    "email_language": "de",
+    "summary_en": "Parish music programme with the Kantorei Alt-Tegel (about 60 singers), several choirs, children's choirs, a guitar ensemble and the brass ensemble Tegel+. New singers and advanced brass players are invited.",
+    "sources": [
+      "https://www.tegel-borsigwalde.de/aktiv-in-der-gemeinde#musik",
+      "https://www.posaunendienst-ekbo.de/posaunenchoere/kirchenkreis-reinickendorf"
+    ],
+    "last_verified": "2026-10-29",
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-posaunenchor-alt-wittenau",
+    "name": "Posaunenchor Alt-Wittenau",
+    "category": "WND",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Alt-Wittenau 29a",
+      "postcode": "13437",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@noomi-evangelisch.de",
+      "email_source_url": "https://noomi-evangelisch.de/kirchenmusik-alt-wittenau",
+      "website": "https://noomi-evangelisch.de/kirchenmusik-alt-wittenau"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "trumpet",
+      "trombone"
+    ],
+    "email_language": "de",
+    "summary_en": "Parish brass choir rehearsing on Tuesday evenings in the Gemeindesaal, with a junior brass group on Thursdays. New members are welcome and loan instruments may be available.",
+    "sources": [
+      "https://noomi-evangelisch.de/kirchenmusik-alt-wittenau",
+      "https://www.posaunendienst-ekbo.de/posaunenchoere/kirchenkreis-reinickendorf"
+    ],
+    "last_verified": "2026-10-29",
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-blaeserchor-waidmannslust",
+    "name": "Bläserchor Waidmannslust",
+    "category": "WND",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Bondickstraße 76",
+      "postcode": "13469",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kirchenmusik@ev-kg-waidmannslust.de",
+      "email_source_url": "https://noomi-evangelisch.de/blaeserchor-waidmannslust",
+      "website": "https://noomi-evangelisch.de/blaeserchor-waidmannslust"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "brass",
+      "woodwind"
+    ],
+    "instruments_detail": [
+      "trumpet",
+      "alto horn",
+      "trombone",
+      "bassoon",
+      "saxophone",
+      "oboe",
+      "clarinet"
+    ],
+    "email_language": "de",
+    "summary_en": "Small parish wind ensemble founded in 2013 that rehearses on Wednesday evenings in the parish house. It looks for new players, especially saxophone, oboe and clarinet.",
+    "sources": [
+      "https://noomi-evangelisch.de/blaeserchor-waidmannslust",
+      "https://www.posaunendienst-ekbo.de/posaunenchoere/kirchenkreis-reinickendorf"
+    ],
+    "last_verified": "2026-10-29",
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-joy-of-brass-tegel",
+    "name": "Joy of Brass (Bläserchor der Stadtmission Tegel)",
+    "category": "WND",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Billerbecker Weg 112-114",
+      "postcode": "13507",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "info@berliner-stadtmission.de",
+      "email_source_url": "https://www.berliner-stadtmission.de/gem-tegel/gemeindeleben-1",
+      "phone": "030 6903330",
+      "website": "https://www.berliner-stadtmission.de/gem-tegel/gemeindeleben-1",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass instruments (not itemised)"
+    ],
+    "email_language": "de",
+    "summary_en": "Church brass choir with a beginners' group and an advanced group, rehearsing on Wednesdays. Anyone can join and loan instruments are available while supplies last.",
+    "sources": [
+      "https://www.berliner-stadtmission.de/gem-tegel/gemeindeleben-1",
+      "https://www.posaunendienst-ekbo.de/posaunenchoere/kirchenkreis-reinickendorf"
+    ],
+    "last_verified": "2026-10-29",
+    "found_by": "district-scout:reinickendorf"
+  },
+  {
+    "id": "reinickendorf-blaeserchor-frohnau",
+    "name": "Bläserchor und Junges Blech Frohnau",
+    "category": "WND",
+    "district": "Reinickendorf",
+    "address": {
+      "street": "Fuchssteinerweg 20-26",
+      "postcode": "13465",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.ekg-frohnau.de/page/576/posaunenchor-frohnau"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass instruments (not itemised)"
+    ],
+    "email_language": "de",
+    "summary_en": "Parish brass choir (about 18 members, Wednesday evenings) and a youth brass group with free individual and group lessons at the youth house. New players are welcome and instruments are loaned.",
+    "sources": [
+      "https://www.ekg-frohnau.de/page/576/posaunenchor-frohnau",
+      "https://www.ekg-frohnau.de/page/574/junges-blech-frohnau"
+    ],
+    "last_verified": "2026-10-29",
+    "found_by": "district-scout:reinickendorf"
   }
 ]

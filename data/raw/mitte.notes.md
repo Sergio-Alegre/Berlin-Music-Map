@@ -66,3 +66,19 @@
 - ev-gemeinde-tiergarten.de (Moabiter Kantorei): connection reset; the rehearsal PDF is binary and unreadable. Moabiter Kantorei not added (no address or official page read).
 - Sophienkirche, Wedding congregations, Nikolaiviertel and HU Universitaetsmusik (Anubis bot check): not reachable.
 - miz.org Orchester and Musikalisierungsprojekte lists for Berlin returned 404.
+
+## Third pass (2026-10-29)
+
+### Done
+- Read the Chorverband Berlin JSON (360 choirs; about 55 in Mitte or Mitte postcodes). Added 8 CHO: Berliner Cappella, Nordberliner Chorgemeinschaft, Vokalkolleg, Kammerchor Wedding, Kammerchor Vocantare, Begegnungschor, Chor canta:re, La Voix Mixte Berlin. Rehearsal addresses come from the Chorverband JSON (and the choir pages where they state the venue); the choirs are not teaching places in the strict sense, so offer is initiative_welcome only where the choir page invites singers.
+- Removed from the raw file because they are in data/exclusions.json: mitte-papageno-grundschule, mitte-allegro-grundschule, mitte-studio-balu.
+- Two WebSearch calls (Posaunenchor, Kantorei): no Mitte Posaunenchor found beyond the existing one.
+
+### Doubts
+- Nordberliner Chorgemeinschaft: Impressum is a c/o address (Triftstr. 46); the rehearsal/contact address Mueller Str. 158 (Leo-Lionni-Grundschule) is used. Email vorstand-nbc@posteo.de is the association's role mailbox on its Impressum.
+- Vokalkolleg: Impressum is in Neuenhagen; the street Kurfuerstenstr. 53 (Ecole Voltaire) comes from the Chorverband JSON, the site gives only "Ecole Voltaire in der Kurfuerstenstrasse".
+- canta:re and La Voix Mixte: no email on the pages read; not recorded (Chorverband lists addresses but that is not the choir's own page). canta:re has a waiting list.
+- Kammerchor Vocantare: legal address is in Tempelhof-Schoeneberg (c/o), rehearsals in Wedding.
+- Moabiter Kantorei: rehearses at the Heilandskirche (Probenplan PDF, 2025) but no address or official page read; not added.
+- Not added (not read in time or no usable site): Rupenhorner Kammerchor (Alt-Moabit 25; site TLS error), Vocalensemble Acanto (Haendelallee 20, no details on home page), Kronenchor Friedrichstadt (page content not readable), Berliner Konzert-Chor (redirect to konzertchor.berlin, details not read), PopChor Wedding (no rehearsal address on page), Fanny-Hensel-Chor and Bibliotheca Musica (part of Sing-Akademie / Staatsbibliothek), many choirs with only private emails or Instagram pages, Der Strassenchor, Berliner Lehrerchor, Concordia, Moving Colours, Die Ohrwuermer, Vokalhelden Moabit, Hebraeischer Chor (no address).
+- Schools "not added" from earlier passes (Charite Chor, Stagecoach, Klaviersalon) were not re-checked: no primary source found showing teaching.

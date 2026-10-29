@@ -56,3 +56,21 @@ None.
 
 ### Incident
 - The shared scratchpad file add.py was overwritten by another scout (Neukölln); I ran it by mistake and it appended a duplicate Neuköllner Oper entry to data/raw/neukoelln.json. I removed the duplicates (kept one copy); that file validates (6 entities).
+
+## Third pass (2026-10-29)
+
+### Searches and sources
+- Chorverband Berlin JSON (360 choirs): 11 for Marzahn-Hellersdorf; 2 already in the file or reviewed earlier (Marzahner Kammerchor; Frauenzimmer, Kammerchor Biesdorf, A-Cappella, Polizei, Frauenchor Mahlsdorf stay excluded as in earlier passes).
+- Vokalhelden pages (mitsingen, team, impressum); kirche-mahlsdorf.de (Musik, Stellenausschreibungen, Impressum). 3 WebSearch calls.
+
+### Added
+- CHO: Vokalhelden Hellersdorf (Kummerower Ring 42; association seat is Karl-Marx-Str. 145, 12043, Neukoelln/Friedrichshain-Kreuzberg area, not in district, so the entity uses the in-district rehearsal address). Open positions: volunteers only, so none_found.
+- WND: Ev. Kirchengemeinde Mahlsdorf (Posaunenchor, Kreuzkirchenchor, Kirchenchor, recorder group, instrumental circle).
+
+### Not added
+- Maennerchor Eintracht 1892 Mahlsdorf (mc1892ev.de): Impressum address is c/o a private person; rehearsal place from the Chorverband list (Koepenicker Str. 165) is inconsistent with other church addresses. Email info@mc1892ev.de exists. Doubtful, left out.
+- TagCHORianer / Tagore-Gymnasium (Sella-Hasse-Str. 25, 12687): school site unreachable (connection reset), so no official page verified; school-choir existence only in a Chorverband programme PDF.
+- Weibs a cappella: no website or address in Chorverband list.
+- Jugendkunstschule: still no verifiable official page.
+- Gymnasia Sartre, Wilhelm-von-Siemens, Melanchthon: not checked in this pass.
+- Other Posaunenchoere/Kantoreien (Marzahn-Nord, Kaulsdorf): none found.

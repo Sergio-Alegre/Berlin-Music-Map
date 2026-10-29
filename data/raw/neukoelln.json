@@ -291,5 +291,550 @@
     ],
     "found_by": "district-scout:neukoelln",
     "last_verified": "2026-10-27"
+  },
+  {
+    "id": "neukoelln-schillerchor",
+    "name": "Schillerchor",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Schillerpromenade 16",
+      "postcode": "12049",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "contact": {
+      "email": "hallo@schillerchor.de",
+      "email_source_url": "https://schillerchor.de/",
+      "website": "https://schillerchor.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed choir that rehearses on Mondays evening at the Evangelische Schule Neukölln in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://schillerchor.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-richardchor",
+    "name": "Richardchor Neukölln",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Richardstraße 97",
+      "postcode": "12043",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "contact": {
+      "website": "https://richardchor.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed choir that rehearses on Thursday evenings in the church hall of the Bethlehemsgemeinde in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://richardchor.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-radio-rixdorf",
+    "name": "Radio Rixdorf (choir)",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Sonnenallee 188",
+      "postcode": "12059",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "contact": {
+      "website": "https://radio-rixdorf.jimdofree.com/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed choir that rehearses on Tuesday evenings at the Adolf-Reichwein-Schule in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://radio-rixdorf.jimdofree.com/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-max-reger-chor",
+    "name": "Max-Reger-Chor Berlin e.V.",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Briesestraße 17",
+      "postcode": "12053",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed concert choir"
+    ],
+    "contact": {
+      "email": "info@maxregerchor.de",
+      "email_source_url": "https://www.maxregerchor.de/impressum",
+      "website": "https://www.maxregerchor.de/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed concert choir that rehearses in project phases before concerts in the St. Clara parish hall in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://www.maxregerchor.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-kammerchor-neukoelln",
+    "name": "Kammerchor Neukölln",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Emser Straße 134-137",
+      "postcode": "12051",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed chamber choir"
+    ],
+    "contact": {
+      "website": "https://www.kammerchor-neukoelln.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed chamber choir that rehearses on Tuesday evenings in the Albrecht-Dürer-Gymnasium hall in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://www.kammerchor-neukoelln.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-erkscher-gemischter-chor",
+    "name": "Erkscher Gemischter Chor Berlin 1852 e.V.",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Emser Straße 137",
+      "postcode": "12051",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "contact": {
+      "website": "https://www.erkscher-gemischter-chor.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed choir that rehearses on Wednesdays 19:00-21:30 in the Albrecht-Dürer-Oberschule hall in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://www.erkscher-gemischter-chor.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-consortium-vocale-berlin",
+    "name": "consortium vocale berlin e.V.",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Sonnenallee 79",
+      "postcode": "12045",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "contact": {
+      "website": "https://www.consortium-vocale.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed choir that rehearses on Wednesday evenings at the Ernst-Abbe-Gymnasium in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://www.consortium-vocale.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-cantamus-berlin",
+    "name": "Cantamus Berlin",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Nansenstraße 12/13",
+      "postcode": "12047",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "contact": {
+      "email": "fragen@cantamus-berlin.de",
+      "email_source_url": "https://www.cantamus-berlin.de/kontakt",
+      "website": "https://www.cantamus-berlin.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed choir that rehearses on Mondays evening in the Nikodemuskirche in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://www.cantamus-berlin.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-bachchor-neukoelln",
+    "name": "Bachchor Neukölln",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Briesestraße 17",
+      "postcode": "12053",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "contact": {
+      "email": "kontakt@bachchor-neukoelln.de",
+      "email_source_url": "https://bachchor-neukoelln.de/kontakt",
+      "website": "https://bachchor-neukoelln.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed choir that rehearses on Tuesday evenings in the St. Clara parish hall in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://bachchor-neukoelln.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-kammerchor-berlin",
+    "name": "Kammerchor Berlin e.V.",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Nansenstraße 12",
+      "postcode": "12047",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed chamber choir"
+    ],
+    "contact": {
+      "website": "https://www.kammerchor-berlin.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed chamber choir that rehearses on Tuesday evenings in the Kulturkirche Nikodemus in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://www.kammerchor-berlin.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-vokalsystem",
+    "name": "Vokalsystem e.V.",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Fuldastraße 48",
+      "postcode": "12045",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "contact": {
+      "email": "info@vokalsystem.com",
+      "email_source_url": "https://www.vokalsystem.com/kontakt/",
+      "website": "https://www.vokalsystem.com/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed choir that rehearses on Wednesday evenings in the Martin-Luther-Kirche in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://www.vokalsystem.com/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-gropies-berlin",
+    "name": "gropies berlin",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Bat-Yam-Platz 1",
+      "postcode": "12353",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "contact": {
+      "website": "https://www.gropies-berlin.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "mixed choir that rehearses on Wednesday evenings in the Gemeinschaftshaus Gropiusstadt in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://www.gropies-berlin.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-gropiuslerchen",
+    "name": "Gropiuslerchen Berlin",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Bat-Yam-Platz 1",
+      "postcode": "12359",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "children's choir"
+    ],
+    "contact": {
+      "website": "https://www.gropiuslerchen.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "children's choir that rehearses on Tuesdays and Wednesdays in the Gemeinschaftshaus Gropiusstadt in Neukölln and lists itself with the Berlin choir association. No teaching vacancy found.",
+    "sources": [
+      "https://www.gropiuslerchen.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-posaunenchor-rudow",
+    "name": "Posaunenchor of the Ev. Kirchengemeinde Rudow",
+    "category": "WND",
+    "district": "Neukölln",
+    "address": {
+      "street": "Köpenicker Straße 187",
+      "postcode": "12355",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "trumpet",
+      "horn",
+      "trombone",
+      "tuba"
+    ],
+    "contact": {
+      "email": "kuesterei@kirche-rudow.de",
+      "email_source_url": "https://www.kirche-rudow.de/",
+      "website": "https://www.kirche-rudow.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass band rehearsing on Wednesdays 19:00-21:00 at the Dorfkirche community centre and open to trumpet, horn, trombone and tuba players. No teaching vacancy found.",
+    "sources": [
+      "https://www.kirche-rudow.de/",
+      "https://www.kirche-rudow.de/gemeindeleben/kirchenmusik",
+      "https://kirchenmusikerverband-ekbo.de/wp-content/uploads/2022/10/kg_rudow.pdf"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "neukoelln-gospelchoere-rudow",
+    "name": "Gospel choirs of the Ev. Kirchengemeinde Rudow",
+    "category": "CHO",
+    "district": "Neukölln",
+    "address": {
+      "street": "Köpenicker Straße 187",
+      "postcode": "12355",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "gospel choir (Amazing Graces, Joyful Voices)",
+      "singing circle (Singkreis)"
+    ],
+    "contact": {
+      "email": "kuesterei@kirche-rudow.de",
+      "email_source_url": "https://www.kirche-rudow.de/",
+      "website": "https://www.kirche-rudow.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish gospel choirs and a singing circle rehearsing weekly at the Dorfkirche community centre. No teaching vacancy found.",
+    "sources": [
+      "https://www.kirche-rudow.de/",
+      "https://www.kirche-rudow.de/gemeindeleben/kirchenmusik"
+    ],
+    "found_by": "district-scout:neukoelln",
+    "last_verified": "2026-10-29"
   }
 ]

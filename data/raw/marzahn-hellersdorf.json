@@ -509,5 +509,91 @@
     "contract": {
       "type": "unknown"
     }
+  },
+  {
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-29",
+    "contract": {
+      "type": "unknown"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "id": "marzahn-hellersdorf-vokalhelden-hellersdorf",
+    "name": "Vokalhelden Hellersdorf (children's choirs)",
+    "category": "CHO",
+    "address": {
+      "street": "Kummerower Ring 42",
+      "postcode": "12619",
+      "city": "Berlin"
+    },
+    "contact": {
+      "email": "kontakt@vokalhelden.de",
+      "email_source_url": "https://www.vokalhelden.de/impressum",
+      "website": "https://www.vokalhelden.de/"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "children's choir",
+      "youth choir"
+    ],
+    "summary_en": "Hellersdorf branch of the Vokalhelden association, with Kids and Juniors choirs rehearsing on Thursdays at KOMPASS. Its open positions page lists only volunteers.",
+    "sources": [
+      "https://www.vokalhelden.de/mitsingen",
+      "https://www.vokalhelden.de/impressum",
+      "https://www.vokalhelden.de/team",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ]
+  },
+  {
+    "district": "Marzahn-Hellersdorf",
+    "email_language": "de",
+    "found_by": "district-scout:marzahn-hellersdorf",
+    "last_verified": "2026-10-29",
+    "contract": {
+      "type": "unknown"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "id": "marzahn-hellersdorf-ev-kirchengemeinde-mahlsdorf-musik",
+    "name": "Ev. Kirchengemeinde Mahlsdorf (Posaunenchor, choirs, recorder group, string circle)",
+    "category": "WND",
+    "address": {
+      "street": "Hönower Straße 17",
+      "postcode": "12623",
+      "city": "Berlin"
+    },
+    "contact": {
+      "phone": "030 5677617",
+      "email": "info@kirche-mahlsdorf.de",
+      "email_source_url": "https://www.kirche-mahlsdorf.de/impressum",
+      "website": "https://www.kirche-mahlsdorf.de/"
+    },
+    "instruments": [
+      "brass",
+      "voice",
+      "woodwind",
+      "strings"
+    ],
+    "instruments_detail": [
+      "brass (Posaunenchor)",
+      "choir",
+      "recorder",
+      "violin",
+      "viola"
+    ],
+    "summary_en": "Parish in Mahlsdorf with a brass choir, two church choirs, a recorder group and an instrumental circle that is looking for violins and violas. No music teaching post is open.",
+    "sources": [
+      "https://www.kirche-mahlsdorf.de/gemeindeleben/musik",
+      "https://www.kirche-mahlsdorf.de/aktuelles/stellenausschreibungen",
+      "https://www.kirche-mahlsdorf.de/impressum"
+    ]
   }
 ]

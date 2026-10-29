@@ -55,3 +55,20 @@
 ### Still not found
 - Wind bands, Posaunenchöre, youth orchestras, piano-only schools (besides Piano Insel), guitar/accordion schools in the district; EKBO and parish sites for Schöneberg/Tempelhof either do not resolve or have no music pages. Suggest a manual check of the Chorverband "Instrumentalensemble" filter and parish newsletters.
 - Hiring: no new ad found.
+
+## Third pass (2026-10-29)
+
+### Searches and sources
+- Chorverband Berlin JSON (https://www.chorverband-berlin.de/wp-json/jet-cct/choere/, 360 ensembles) re-read; district choirs not yet handled were checked on their own sites. 3 WebSearch calls (Posaunenchor, Kantorei, Friedenau parish).
+- Parish site https://www.zum-guten-hirten-friedenau.de (Kirchenmusik pages) gave the Kantorei and Posaunenchor. zum-guten-hirten.de is a Hannover parish, not usable.
+
+### Added (CHO 4, WND 1)
+- CHO: Friedenauer Kantorei, Charlottenburger Kammerchor e.V. (rehearses in Schöneberg; the site Impressum page does not exist, email from /kontakt/ is the Vorstand role mailbox), MÄNNER-MINNE (Impressum is c/o a person's address in 10783, so the rehearsal place An der Apostelkirche 3 is used; institutional info@ mailbox), Chor der Österreicher in Berlin (rooms of the Austrian-German Society, Marienfelde).
+- WND: Friedenauer Posaunenchor (invites beginners on trumpet, horn, trombone, tuba: offer initiative_welcome).
+- Both Friedenau entities share the parish address Bundesallee 76a, 12161 and mailbox. The parish also runs Kinderchor, Kleiner Chor, Junger Chor and early musical education pages; not added separately.
+
+### Not added
+- Chorverband pop/gospel/rock choirs: WAYS (Holzmannstr. 18, gospel/pop), Queen Bees & The Beat, Die kessen Berlinessen (site unreachable), ORSO (rock-symphony project, no teaching), The Gray Voice Ensemble (gmail only), tunety, Kiezchor.
+- Junger Frauenchor Berlin: no rehearsal place in the Chorverband entry.
+- Schools "not added" (Happy Music, Silkymusic, Renziehausen, MUSIK 360°, Chinesisches Musikcentrum): still no official site found, left out.
+- Other parish Posaunenchöre/Kantoreien (Mariendorf, Lichtenrade, Tempelhof, Marienfelde): no reachable official page found; kirchenmusikerverband-ekbo.de PDF (kk_tempelhof_schöneberg.pdf) is compressed and could not be read.

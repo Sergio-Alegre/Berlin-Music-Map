@@ -956,5 +956,354 @@
       "school band"
     ],
     "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-vokalensemble-kammerton",
+    "name": "Vokalensemble Kammerton e.V.",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Wrangelstraße 6-7",
+      "postcode": "12165",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.vokalensemble-kammerton.de/",
+      "email": "info@vokalensemble-kammerton.de",
+      "email_source_url": "https://www.vokalensemble-kammerton.de/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed chamber choir of about 25 voices founded in 1991, focused on 20th and 21st century music. Rehearses weekly on Tuesdays in the Johannes parish garden house in Steglitz.",
+    "sources": [
+      "https://www.vokalensemble-kammerton.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed chamber choir"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-konzertchor-schlachtensee",
+    "name": "Konzertchor Schlachtensee",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Matterhornstraße 37",
+      "postcode": "14129",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.konzertchor-schlachtensee.de/",
+      "email": "info@chor-berlin-schlachtensee.de",
+      "email_source_url": "https://www.konzertchor-schlachtensee.de/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed concert choir that rehearses on Thursdays at the Johanneskirche Schlachtensee, with a related chamber group, Collegium Vocale Berlin.",
+    "sources": [
+      "https://www.konzertchor-schlachtensee.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "concert choir",
+      "Collegium Vocale Berlin"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-neuer-chor-berlin",
+    "name": "neuer chor berlin e.V.",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Matterhornstraße 37-39",
+      "postcode": "14129",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.neuer-chor-berlin.de/",
+      "email": "info@neuer-chor-berlin.de",
+      "email_source_url": "https://www.neuer-chor-berlin.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed chorus seeking experienced singers, rehearsing on Wednesdays at the Johanneskirche Schlachtensee. Repertoire runs from the Renaissance to the avant-garde.",
+    "sources": [
+      "https://www.neuer-chor-berlin.de/",
+      "https://www.neuer-chor-berlin.de/mitsingen.html",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed chorus"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-deutsch-polnischer-chor-spotkanie",
+    "name": "Deutsch-Polnischer Chor \"Spotkanie\"",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Selerweg 18-22",
+      "postcode": "12169",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.deutsch-polnischer-chor-berlin.eu/",
+      "email": "kontakt@deutsch-polnischer-chor-berlin.eu",
+      "email_source_url": "https://www.deutsch-polnischer-chor-berlin.eu/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "German-Polish mixed choir rehearsing on Tuesday evenings at Club Steglitz.",
+    "sources": [
+      "https://www.deutsch-polnischer-chor-berlin.eu/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-berlinvokal",
+    "name": "BERLINVOKAL",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Schönower Straße 8",
+      "postcode": "14165",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.berlinvokal.de/",
+      "email": "info@berlinvokal.de",
+      "email_source_url": "https://www.berlinvokal.de/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed choir rehearsing on Tuesday evenings at the Droste-Hülshoff school in Zehlendorf.",
+    "sources": [
+      "https://www.berlinvokal.de/",
+      "https://www.berlinvokal.de/impressum",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-cantate-kinder-und-jugendchor",
+    "name": "CANTATE Kinder- und Jugendchor Berlin e.V.",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Gritznerstraße 19-23",
+      "postcode": "12163",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.cantate-chor-berlin.de/",
+      "email": "info@cantate-chor-berlin.de",
+      "email_source_url": "https://www.cantate-chor-berlin.de/",
+      "email_obfuscated": true,
+      "phone": "030 308 394 81"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Children's and youth choir with weekly Wednesday rehearsals in the Dunant primary school in Steglitz, including small-group voice training.",
+    "sources": [
+      "https://www.cantate-chor-berlin.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "children's choir",
+      "youth choir",
+      "voice training"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-collegium-musicum-berlin",
+    "name": "Collegium Musicum Berlin (FU/TU)",
+    "category": "ENS",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Garystraße 35",
+      "postcode": "14195",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.collegium-musicum-berlin.de/",
+      "email": "info@collegium-musicum-berlin.de",
+      "email_source_url": "https://www.collegium-musicum-berlin.de/kontakt"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "University ensembles of FU and TU Berlin: large choir, symphony orchestra, small symphonic orchestra, chamber choir and big band. Rehearsals at the Henry Ford building of the FU in Dahlem.",
+    "sources": [
+      "https://www.collegium-musicum-berlin.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice",
+      "strings",
+      "woodwind",
+      "brass"
+    ],
+    "instruments_detail": [
+      "large choir",
+      "chamber choir",
+      "symphony orchestra",
+      "small symphonic orchestra",
+      "UniBigband"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-bachchor-dahlem",
+    "name": "Bachchor Dahlem (Ev. Kirchengemeinde Dahlem)",
+    "category": "CHO",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Thielallee 1-3",
+      "postcode": "14195",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.kg-dahlem.de/",
+      "phone": "030 84 17 05-0"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Concert choir of about 80 singers in the Dahlem parish, rehearsing on Wednesdays evenings. The parish also runs the Dahlemer Kantorei and children's choirs.",
+    "sources": [
+      "https://www.kg-dahlem.de/index.php?id=65",
+      "https://www.kg-dahlem.de/index.php?id=70",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "concert choir",
+      "Dahlemer Kantorei",
+      "children's choirs"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
+  },
+  {
+    "id": "steglitz-zehlendorf-posaunenchor-dahlem",
+    "name": "Posaunenchor der Ev. Kirchengemeinde Dahlem",
+    "category": "WND",
+    "district": "Steglitz-Zehlendorf",
+    "address": {
+      "street": "Thielallee 1-3",
+      "postcode": "14195",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.kg-dahlem.de/index.php?id=419",
+      "phone": "030 84 17 05-0"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass choir rehearsing on Mondays at St. Annen church, with a separate group for beginners and returning players.",
+    "sources": [
+      "https://www.kg-dahlem.de/index.php?id=419",
+      "https://www.kg-dahlem.de/index.php?id=70"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass choir (Posaunenchor)",
+      "beginner brass group"
+    ],
+    "found_by": "district-scout:steglitz-zehlendorf"
   }
 ]

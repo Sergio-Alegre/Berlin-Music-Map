@@ -29,3 +29,12 @@
 - Amateur choirs without address/official page: BVG Choir (Schillerkiez), Dienstag Choir; a seniors' choir rehearsing at the Musikschule. Chöre im Körnerpark is a district event series, not an entity.
 - Cohrcreativ (Herrfurthstr. 23, 12049; Das Örtliche): choir-leadership business of an individual, site unreachable; not added.
 - Existing entities left unchanged. No PNO or WND found.
+
+## Third pass (2026-10-29)
+- Source: Chorverband Berlin JSON (https://www.chorverband-berlin.de/wp-json/jet-cct/choere/), 19 Neukölln entries; rehearsal places taken from it, each choir site opened to confirm it works. 1 WebSearch used.
+- Added CHO (13): Schillerchor, Richardchor, Radio Rixdorf, Max-Reger-Chor, Kammerchor Neukölln, Erkscher Gemischter Chor, consortium vocale, Cantamus, Bachchor Neukölln, Kammerchor Berlin, Vokalsystem, gropies berlin, Gropiuslerchen. Address = rehearsal place. Emails only where on the choir's own page (Schillerchor, Radio Rixdorf, Max-Reger-Chor, Cantamus, Bachchor, Vokalsystem); the others use obfuscated or personal/free-mail addresses and are left empty.
+- Added from kirche-rudow.de/gemeindeleben/kirchenmusik: Posaunenchor Rudow (WND) and gospel choirs/Singkreis (CHO). Address is the parish address (Köpenicker Str. 187); the Gemeindezentrum at the Dorfkirche has no street given on the page. Email kuesterei@ is a role mailbox on the homepage.
+- Not added: Landesjugendchor (part of Chorverband, no own place); Hans-Beimler-Chor (its site says rehearsals at Wallstr. 32, Mitte, not Neukölln); Gropius-Chor (site unreachable); Coro Contrapunto (site returns 404); INTERMEZZO VOCALE (no site, rehearses in members' homes); Stadtlibellen (works, only a gmx mailbox, but no clear rehearsal source beyond the association list; not added).
+- Parishes: Britz, Hephatha and Kirchenkreis Neukölln sites not found (guessed domains do not resolve); only 2019 EKBO job PDFs. Kantorei Rudow is not mentioned on the current parish music page.
+- Unreliable: Kammerchor Berlin site postal address is in Birkenwerder; the Neukölln entry rests on the association list (rehearsal at Nansenstr. 12). Contact email there is an image only.
+- Schools from the "not added" list: none re-checked beyond the notes; no new primary source found.

@@ -37,3 +37,16 @@ Doubts and not added:
 - Christian-Morgenstern-Grundschule: the school site was thin; percussion and choir come from the Bezirksamt school page.
 - Not found despite searching: dedicated private PNO, WND schools, Posaunenchor, independent amateur orchestra, further private music schools in Spandau (Das Örtliche and Gelbe Seiten list only the known ones). Other Spandau Grundschulen may have music programmes (not checked one by one).
 - Failed: kirchenkreis-spandau.de (TLS certificate mismatch), popchor-spandau.de content, weinberggemeinde.de/impressum (404).
+
+## Third pass (2026-10-29)
+
+Added 3 CHO entities: Pro Musica Chor Berlin e.V., Popchor Spandau, Magic of Gospel e.V. Nothing removed. Source for the candidates: Chorverband Berlin JSON (cct_bezirk = Spandau: 8 choirs). Searches: 2 WebSearch (Posaunenchor, Kirchenmusik by Ortsteil; nothing usable for Spandau).
+
+Doubts and not added:
+- Chorverband Spandau choirs not added: Kammerchor Cantiamo (site is an old frameset with no address, contact or Impressum; the only email in the JSON is a personal one), Cappella Vocale Berlin (no website; personal email), Frauenchor Spandau 1956 (Facebook page only; personal email), Klingende Brücke Liedstudio (its site now gives rehearsals in Charlottenburg, Trinitatis-Kirche, Leibnizstraße 79, and Mariendorf; outside Spandau).
+- Pro Musica Chor: address is the rehearsal place (Schule an der Haveldüne, Jaczostr. 53-67); the Impressum gives only the email pmcb@gmx.de (association mailbox, not a person's name). No ad.
+- Popchor Spandau: address is the rehearsal place (Petruskirche); the email is stated on the site (text taken from the home page); the Impressum content could not be read.
+- Magic of Gospel: address is the Kladow parish address from the Chorverband JSON; the site says rehearsals are in the Dorfkirche Kladow (Friday), so the exact street may differ. Email chor@ is on the Impressum/contact pages.
+- Chorvereinigung Spandau already present. Cantores Minores still has no Spandau address of its own.
+- No Posaunenchor or parish Kantorei with an own site found beyond St. Nikolai and Weinberg (already present). Schools "not added": none verifiable beyond the existing ones; Grundschule an der Pulvermühle is in exclusions.
+- Failed: WebFetch of promusicachorberlin.de (SSL handshake; curl worked), kammerchor-cantiamo.de frames had no contact data.

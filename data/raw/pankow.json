@@ -1293,5 +1293,268 @@
     ],
     "found_by": "district-scout:mitte",
     "last_verified": "2026-10-27"
+  },
+  {
+    "id": "pankow-singschule-ekpn",
+    "name": "Singschule der Evangelischen Kirchengemeinde Prenzlauer Berg Nord",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Göhrener Straße 11",
+      "postcode": "10437",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "children's choirs",
+      "youth choirs",
+      "early childhood singing"
+    ],
+    "contact": {
+      "website": "https://singschule-ekpn.de",
+      "email": "info@singschule-ekpn.de",
+      "email_source_url": "https://singschule-ekpn.de/datenschutz-impressum-kontakt/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church singing school with graded choirs from parent-and-child singing to the Jugendkonzertchor, rehearsing at the Elias parish house. No teaching vacancy was listed.",
+    "sources": [
+      "https://singschule-ekpn.de",
+      "https://singschule-ekpn.de/datenschutz-impressum-kontakt/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "pankow-chor-liedgut-weissensee",
+    "name": "Gemischter Chor Weißensee \"LiedGut\"",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Pistoriusstraße 23",
+      "postcode": "13086",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "contact": {
+      "website": "https://www.chor-liedgut-berlin.de",
+      "email": "info@chor-liedgut-berlin.de",
+      "email_source_url": "https://www.chor-liedgut-berlin.de/kontakt"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed amateur choir that rehearses on Monday evenings at the Stadtteilzentrum Weißensee.",
+    "sources": [
+      "https://www.chor-liedgut-berlin.de/kontakt",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "pankow-canto-ergo-sum",
+    "name": "Gemischter Chor Canto Ergo Sum",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Pistoriusstraße 133",
+      "postcode": "13086",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir",
+      "a cappella"
+    ],
+    "contact": {
+      "website": "https://www.cantoergosum.de",
+      "email": "kontakt@cantoergosum.de",
+      "email_source_url": "https://www.cantoergosum.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed a cappella choir founded in 2002 that rehearses on Tuesdays in the Primo-Levi-Gymnasium.",
+    "sources": [
+      "https://www.cantoergosum.de",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "pankow-coro-entrevoces",
+    "name": "Coro EntreVoces",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Esmarchstraße 18",
+      "postcode": "10407",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir",
+      "Ibero-American repertoire"
+    ],
+    "contact": {
+      "website": "https://www.entrevoces.de",
+      "email": "coro@entrevoces.de",
+      "email_source_url": "https://www.entrevoces.de"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Independent choir sharing Ibero-American music, rehearsing on Wednesdays in Prenzlauer Berg; new members can join in January or August.",
+    "sources": [
+      "https://www.entrevoces.de",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "pankow-coro-con-brio",
+    "name": "CoroConBrio Frauenkammerchor",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Grunowstraße 18",
+      "postcode": "13187",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "women's chamber choir"
+    ],
+    "contact": {
+      "website": "https://coroconbrio.de",
+      "email": "info@coroconbrio.de",
+      "email_source_url": "https://coroconbrio.de/kontakt/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Women's chamber choir that rehearses on Tuesday evenings at the Elizabeth-Shaw-Grundschule in Pankow.",
+    "sources": [
+      "https://coroconbrio.de/kontakt/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "pankow-amici-musicae-kammerchor",
+    "name": "amici musicae Kammerchor Berlin",
+    "category": "CHO",
+    "district": "Pankow",
+    "address": {
+      "street": "Albertinenstraße 20",
+      "postcode": "13086",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed chamber choir"
+    ],
+    "contact": {
+      "website": "https://amicimusicae.de",
+      "email": "info@amicimusicae.de",
+      "email_source_url": "https://www.amicimusicae.de/start.html",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed chamber choir of about 30 singers that has existed for over 35 years and rehearses on Tuesdays at the Friedenskirche in Weißensee.",
+    "sources": [
+      "https://www.amicimusicae.de/start.html",
+      "https://amicimusicae.de/impressum",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "pankow-blaeserkreis-alt-pankow",
+    "name": "Bläserkreis Alt-Pankow",
+    "category": "WND",
+    "district": "Pankow",
+    "address": {
+      "street": "Breite Straße 38",
+      "postcode": "13187",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "brass instruments"
+    ],
+    "contact": {
+      "website": "https://www.alt-pankow.de/blaeserkreis/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Parish brass group that rehearses usually on Friday evenings and welcomes advanced brass players. It plays two to three times a year at services and the Advent vespers.",
+    "sources": [
+      "https://www.alt-pankow.de/blaeserkreis/"
+    ],
+    "found_by": "district-scout:pankow",
+    "last_verified": "2026-10-29"
   }
 ]

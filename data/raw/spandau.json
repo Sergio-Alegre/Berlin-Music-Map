@@ -752,5 +752,118 @@
       "https://www.berlin.de/ba-spandau/aktuelles/pressemitteilungen/2024/pressemitteilung.1491907.php",
       "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/schul-und-sportamt/schule/artikel.683695.php"
     ]
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-29",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-pro-musica-chor-berlin",
+    "name": "Pro Musica Chor Berlin e.V.",
+    "category": "CHO",
+    "address": {
+      "street": "Jaczostraße 53-67",
+      "postcode": "13595",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "http://www.promusicachorberlin.de/",
+      "email": "pmcb@gmx.de",
+      "email_source_url": "http://www.promusicachorberlin.de/impressum.html"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed concert choir (oratorios, opera choruses, sacred music, folk songs)"
+    ],
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-29"
+    },
+    "summary_en": "Mixed concert choir that rehearses on Thursday evenings at the Schule an der Haveldüne and invites interested singers to join a rehearsal. Music-reading skills are helpful but not required.",
+    "sources": [
+      "http://www.promusicachorberlin.de/mitmachen.html",
+      "http://www.promusicachorberlin.de/impressum.html",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ]
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-29",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-popchor-spandau",
+    "name": "Popchor Spandau",
+    "category": "CHO",
+    "address": {
+      "street": "Grunewaldstraße 7",
+      "postcode": "13597",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.popchor-spandau.de/",
+      "email": "popchor@kirchenkreis-spandau.de",
+      "email_source_url": "https://www.popchor-spandau.de/"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "pop, rock and musical choir (about 80 singers)"
+    ],
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-29"
+    },
+    "summary_en": "Pop choir of the Kirchenkreis Spandau that rehearses on Thursday evenings at the Petruskirche and holds auditions for new singers twice a year.",
+    "sources": [
+      "https://www.popchor-spandau.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ]
+  },
+  {
+    "district": "Spandau",
+    "email_language": "de",
+    "found_by": "district-scout:spandau",
+    "last_verified": "2026-10-29",
+    "contract": {
+      "type": "unknown"
+    },
+    "id": "spandau-magic-of-gospel",
+    "name": "Magic of Gospel e.V.",
+    "category": "CHO",
+    "address": {
+      "street": "Kladower Damm 369",
+      "postcode": "14089",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.magic-of-gospel.de/",
+      "email": "chor@magic-of-gospel.de",
+      "email_source_url": "https://www.magic-of-gospel.de/ImpressumDatenschutz/"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "gospel and pop choir (soprano, alto, tenor, bass)"
+    ],
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-29"
+    },
+    "summary_en": "Mixed gospel choir that rehearses on Friday evenings at the Protestant parish of Kladow and welcomes new singers, especially low male voices. No music-reading skills are required.",
+    "sources": [
+      "https://www.magic-of-gospel.de/",
+      "https://www.magic-of-gospel.de/Ueber-uns/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ]
   }
 ]

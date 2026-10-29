@@ -434,5 +434,362 @@
       "flute circle"
     ],
     "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-die-weltberliner",
+    "name": "Die Weltberliner (choir)",
+    "category": "CHO",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Wildenbruchstraße 53",
+      "postcode": "12435",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.die-weltberliner.de/",
+      "email": "chor@die-weltberliner.de",
+      "email_source_url": "https://www.die-weltberliner.de/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed choir of the KungerKiezInitiative that sings songs from many countries and centuries and rehearses on Monday evenings. It is currently looking for tenors and basses.",
+    "sources": [
+      "https://www.die-weltberliner.de/",
+      "https://www.die-weltberliner.de/impressum",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir singing"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-jochor",
+    "name": "JoCHOR Johannisthal",
+    "category": "CHO",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Winckelmannstraße 56 (JuJo)",
+      "postcode": "12487",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://jochor-berlin.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed a cappella choir of about 40 singers in Johannisthal that sings in many languages and gives two large concerts a year. The site announces an open rehearsal.",
+    "sources": [
+      "https://jochor-berlin.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed a cappella choir"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-kammerchor-sing-sing",
+    "name": "Kammerchor Sing! Sing!",
+    "category": "CHO",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Firlstraße 16 (Christuskirche Oberschöneweide)",
+      "postcode": "12459",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://singsingchor.jimdofree.com/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Chamber choir that rehearses every Thursday evening in the Christuskirche in Oberschöneweide. The site lists concerts for 2026 and 2027.",
+    "sources": [
+      "https://singsingchor.jimdofree.com/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "chamber choir"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-gemischter-chor-altglienicke",
+    "name": "Gemischter Chor Berlin-Altglienicke",
+    "category": "CHO",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Ortolfstraße 182/184",
+      "postcode": "12524",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.gemischter-chor-altglienicke.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed choir that rehearses on Monday evenings in the Bürgerhaus Altglienicke. The site invites new singers in all voice parts to come to a trial rehearsal.",
+    "sources": [
+      "https://www.gemischter-chor-altglienicke.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-deja-oui-popchor",
+    "name": "Déjà-Ouï PopChor",
+    "category": "CHO",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Helmholtzstraße 23 (Friedenskirche Adlershof)",
+      "postcode": "12459",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://deja-oui.jimdofree.com/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Pop choir of about 40 singers from Schöneweide, founded in 2012, that arranges pop songs for a cappella singing. Rehearsals are on Monday evenings.",
+    "sources": [
+      "https://deja-oui.jimdofree.com/",
+      "https://deja-oui.jimdofree.com/kontakt/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "pop choir, a cappella"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-chorensemble-koepenick",
+    "name": "Chorensemble Köpenick e.V.",
+    "category": "CHO",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Wendenschloßstraße 404 (Haus der Begegnung)",
+      "postcode": "12557",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.chorensemble-koepenick.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Member choir of the Chorverband Berlin with 21 singers and almost 50 years of tradition. Its repertoire runs from classical and sacred music to opera, operetta and musicals.",
+    "sources": [
+      "https://www.chorensemble-koepenick.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir (classical, sacred, operetta, musical)"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-berolina-chorensemble-koepenick",
+    "name": "Berolina Chorensemble Köpenick e.V.",
+    "category": "CHO",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Dahmestraße 33",
+      "postcode": "12526",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "http://www.berolina-chorensemble.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Choir that rehearses on Tuesday evenings in the Kiezklub Bohnsdorf and gives three concerts a year in Köpenick. The site looks for more singers and offers trial rehearsals.",
+    "sources": [
+      "http://www.berolina-chorensemble.de/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "mixed choir"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-coepenicker-liedertafel",
+    "name": "Männerchor Köpenick - Cöpenicker Liedertafel 1875 e.V.",
+    "category": "CHO",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Wendenschloßstraße 404 (Haus der Begegnung)",
+      "postcode": "12557",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.xn--cpenicker-liedertafel-5ob.de/chor.html"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "One of the oldest male choirs in Berlin, with about 20 singers and a member of the Chorverband Berlin. It rehearses on Tuesday evenings in the Haus der Begegnung.",
+    "sources": [
+      "https://www.xn--cpenicker-liedertafel-5ob.de/chor.html",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "male choir"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-chorgemeinschaft-pro-musica-treptow",
+    "name": "Chorgemeinschaft pro musica Treptow e.V.",
+    "category": "CHO",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Hans-Schmidt-Straße 6-8 (Joseph-Schmidt-Musikschule, Adlershof)",
+      "postcode": "12489",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://www.promusica-treptow.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Senior choir that rehearses on Monday mornings in a room of the Joseph-Schmidt-Musikschule and sings Advent concerts in the Rathaus Treptow.",
+    "sources": [
+      "https://www.promusica-treptow.de/",
+      "https://www.promusica-treptow.de/kontakt/index.html",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "senior choir"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
+  },
+  {
+    "id": "treptow-koepenick-st-laurentius-kantorei-koepenick",
+    "name": "St. Laurentius-Kantorei Köpenick (Stadtkirche)",
+    "category": "CHO",
+    "district": "Treptow-Köpenick",
+    "address": {
+      "street": "Am Generalshof 7 (Ev. Gemeindehaus)",
+      "postcode": "12555",
+      "city": "Berlin"
+    },
+    "contact": {
+      "website": "https://laurentiuskantorei-koepenick.de/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Kantorei of the Evangelische Stadtkirchengemeinde Köpenick with about 60 singers, one of the largest oratorio choirs in south-east Berlin, plus a children's and youth choir of 40 to 50 children.",
+    "sources": [
+      "https://laurentiuskantorei-koepenick.de/",
+      "https://laurentiuskantorei-koepenick.de/kontakt/",
+      "https://www.chorverband-berlin.de/wp-json/jet-cct/choere/"
+    ],
+    "last_verified": "2026-10-29",
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "oratorio choir (Kantorei)",
+      "children's and youth choir"
+    ],
+    "found_by": "district-scout:treptow-koepenick"
   }
 ]

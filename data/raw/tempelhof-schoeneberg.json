@@ -712,5 +712,199 @@
     ],
     "found_by": "district-scout:tempelhof-schoeneberg",
     "last_verified": "2026-10-27"
+  },
+  {
+    "id": "tempelhof-schoeneberg-friedenauer-kantorei",
+    "name": "Friedenauer Kantorei",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Bundesallee 76a",
+      "postcode": "12161",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "oratorios, passions and cantatas from the Baroque to the modern era",
+      "a cappella church music"
+    ],
+    "contact": {
+      "website": "https://www.zum-guten-hirten-friedenau.de/kirchenmusik/friedenauer-kantorei",
+      "email": "zgh@zgh-friedenau.de",
+      "email_source_url": "https://www.zum-guten-hirten-friedenau.de/impressum"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed church choir of about 90 singers at the Zum Guten Hirten parish in Friedenau, rehearsing on Thursday evenings. It performs large oratorios and passions, and new singers join after a short audition.",
+    "sources": [
+      "https://www.zum-guten-hirten-friedenau.de/kirchenmusik/friedenauer-kantorei",
+      "https://www.zum-guten-hirten-friedenau.de/impressum"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "tempelhof-schoeneberg-friedenauer-posaunenchor",
+    "name": "Friedenauer Posaunenchor",
+    "category": "WND",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Bundesallee 76a",
+      "postcode": "12161",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "brass"
+    ],
+    "instruments_detail": [
+      "trumpet",
+      "horn",
+      "trombone",
+      "tuba"
+    ],
+    "contact": {
+      "website": "https://www.zum-guten-hirten-friedenau.de/kirchenmusik/posaunenchor",
+      "email": "zgh@zgh-friedenau.de",
+      "email_source_url": "https://www.zum-guten-hirten-friedenau.de/impressum"
+    },
+    "offer": {
+      "status": "initiative_welcome",
+      "checked": "2026-10-29",
+      "url": "https://www.zum-guten-hirten-friedenau.de/kirchenmusik/posaunenchor"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Church brass choir of the Zum Guten Hirten parish in Friedenau, rehearsing on Tuesday evenings. It looks for beginners of all ages who want to learn trumpet, horn, trombone or tuba.",
+    "sources": [
+      "https://www.zum-guten-hirten-friedenau.de/kirchenmusik/posaunenchor",
+      "https://www.zum-guten-hirten-friedenau.de/impressum"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "tempelhof-schoeneberg-charlottenburger-kammerchor",
+    "name": "Charlottenburger Kammerchor e.V.",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Grunewaldstr. 77a",
+      "postcode": "10823",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "sacred and secular choral music of the Classical and modern periods"
+    ],
+    "contact": {
+      "website": "https://www.charlottenburger-kammerchor.de/",
+      "email": "erster.vorstand@charlottenburger-kammerchor.de",
+      "email_source_url": "https://www.charlottenburger-kammerchor.de/kontakt/"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Mixed chamber choir of about 25 singers that rehearses on Tuesday evenings at the Apostel-Paulus-Kirche in Schöneberg. Newcomers can join a rehearsal without an audition.",
+    "sources": [
+      "https://www.charlottenburger-kammerchor.de/",
+      "https://www.charlottenburger-kammerchor.de/kontakt/",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "tempelhof-schoeneberg-maenner-minne",
+    "name": "MÄNNER-MINNE Schwuler Männerchor Berlin",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "An der Apostelkirche 3",
+      "postcode": "10783",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "male choir with choreography, repertoire from classical to musical and pop"
+    ],
+    "contact": {
+      "website": "https://www.maenner-minne.de/",
+      "email": "info@maenner-minne.de",
+      "email_source_url": "https://www.maenner-minne.de/impressum.html"
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Gay men's choir of about 35 singers that rehearses on Monday evenings at the Zwölf-Apostel-Kirche parish hall. It also looks for instrumentalists to accompany the choir.",
+    "sources": [
+      "https://www.maenner-minne.de/mitsingen.html",
+      "https://www.maenner-minne.de/impressum.html",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-29"
+  },
+  {
+    "id": "tempelhof-schoeneberg-chor-der-oesterreicher",
+    "name": "Chor der Österreicher in Berlin",
+    "category": "CHO",
+    "district": "Tempelhof-Schöneberg",
+    "address": {
+      "street": "Motzener Str. 5",
+      "postcode": "12277",
+      "city": "Berlin"
+    },
+    "instruments": [
+      "voice"
+    ],
+    "instruments_detail": [
+      "Austrian songs, folk and classical repertoire"
+    ],
+    "contact": {
+      "website": "https://oesterreichisch-deutsche-ges.de/chor-der-oesterreicher-in-berlin/",
+      "email": "oesterreichisch-deutsche-ges@t-online.de",
+      "email_source_url": "https://oesterreichisch-deutsche-ges.de/",
+      "email_obfuscated": true
+    },
+    "offer": {
+      "status": "none_found",
+      "checked": "2026-10-29"
+    },
+    "contract": {
+      "type": "unknown"
+    },
+    "email_language": "de",
+    "summary_en": "Amateur choir of the Austrian-German Society that rehearses on Wednesday evenings in the society's rooms in Marienfelde. It sings mainly Austrian songs, with a focus on Carinthian music.",
+    "sources": [
+      "https://oesterreichisch-deutsche-ges.de/chor-der-oesterreicher-in-berlin/",
+      "https://oesterreichisch-deutsche-ges.de/",
+      "https://www.chorverband-berlin.de/choere/mitgliedschoere/"
+    ],
+    "found_by": "district-scout:tempelhof-schoeneberg",
+    "last_verified": "2026-10-29"
   }
 ]

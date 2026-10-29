@@ -39,3 +39,10 @@ None found.
 ### Outside district (second pass)
 - Piano Academy Berlin, Kissinger Str. 14, 12157 Berlin (Tempelhof-Schöneberg), https://www.piano-academy-berlin.de/
 - Philharmonischer Chor Berlin e.V., Bayreuther Str. 8, 10787 Berlin (Charlottenburg-Wilmersdorf/Schöneberg area), https://philharmonischer-chor.berlin/
+
+## Third pass (2026-10-29)
+- Chorverband Berlin JSON (jet-cct/choere) read: 22 member choirs in the district. Added 9: CHO Vokalensemble Kammerton, Konzertchor Schlachtensee, neuer chor berlin, Deutsch-Polnischer Chor Spotkanie, BERLINVOKAL, CANTATE Kinder- und Jugendchor (email written "[at]" on site, flagged obfuscated), Bachchor Dahlem; ENS Collegium Musicum Berlin (FU/TU); WND Posaunenchor Dahlem.
+- Dahlem parish emails are obfuscated by script on kg-dahlem.de, so only the Gemeindebüro phone is recorded.
+- Not added (no website, or only a private/personal email in the register): Chorgemeinschaft Haste Töne, Steglitzer Kinderchor and Patmos Chor (Patmos parish, site not checked), Frauenchor Zehlendorf 1952, FATAL VOKAL (rehearses in the MUN villa), Village Voices (personal mailbox only, rehearses at the Musikschule), Seniorenchor Steglitz (site shows only parish/personal contacts), Shanty-Chor Berlin (no institutional email on the page), Lichterfelder Chorkreis (no contact found), Camerata Wannsee (domain does not resolve), Deutsch-Spanischer Chor (domain does not resolve), Chorwerkstatt Berlin (personal email), HXOS Chor (no contact found), Collegium Vocale Berlin (part of Konzertchor Schlachtensee), Wannsee/Nikolassee/Lankwitz parish music (nikolassee.de is an unrelated site; lankwitzer-kirchengemeinden.de not examined in depth).
+- Schools (Schadow, Lilienthal, Dunant): not added. Schadow and Lilienthal sites could not be reached with a verified TLS connection; Dunant only appears as CANTATE's rehearsal room.
+- Searches: 0 WebSearch calls; direct fetches only.
